@@ -1,6 +1,7 @@
 name: Node CI
 on:
-  push
+  push:
+    branches: [master]
   schedule:
     - cron: "0 0 * * *"
   repository_dispatch:
