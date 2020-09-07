@@ -46,17 +46,21 @@ export const generateReadme = async () => {
       allEvents[year] = allEvents[year].sort(
         (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
       );
+      let addedYears: Array<string> = [];
       allEvents[year].forEach((event) => {
         const isPast = new Date(event.date).getTime() < new Date().getTime();
-        const text = `- [**${event.name}**](./events/${year}/${
-          event.slug
-        }), ${new Date(event.date).toLocaleDateString("en-us", {
+        const text = `${
+          addedYears.includes(year) ? "" : `### ${year}\n\n`
+        }- [**${event.name}**](./events/${year}/${event.slug}), ${new Date(
+          event.date
+        ).toLocaleDateString("en-us", {
           year: "numeric",
           month: "long",
           day: "numeric",
         })}  \n  ${event.venue}, ${event.city}\n\n`;
         if (isPast) pastEvents += text;
         else upcomingEvents += text;
+        addedYears.push(year);
       });
     });
   let content = "";
