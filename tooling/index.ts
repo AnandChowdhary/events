@@ -40,20 +40,25 @@ export const generateReadme = async () => {
       allEvents[year].push(await parseEventFile(year, event));
     }
   }
-  Object.keys(allEvents).forEach((year) => {
-    allEvents[year].forEach((event) => {
-      const isPast = new Date(event.date).getTime() < new Date().getTime();
-      const text = `- [**${event.name}**](./events/${year}/${
-        event.slug
-      }), ${new Date(event.date).toLocaleDateString("en-us", {
-        year: "numeric",
-        month: "long",
-        day: "numeric",
-      })}  \n  ${event.venue}, ${event.city}\n\n`;
-      if (isPast) pastEvents += text;
-      else upcomingEvents += text;
+  Object.keys(allEvents)
+    .sort((a, b) => parseInt(b) - parseInt(a))
+    .forEach((year) => {
+      allEvents[year] = allEvents[year].sort(
+        (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+      );
+      allEvents[year].forEach((event) => {
+        const isPast = new Date(event.date).getTime() < new Date().getTime();
+        const text = `- [**${event.name}**](./events/${year}/${
+          event.slug
+        }), ${new Date(event.date).toLocaleDateString("en-us", {
+          year: "numeric",
+          month: "long",
+          day: "numeric",
+        })}  \n  ${event.venue}, ${event.city}\n\n`;
+        if (isPast) pastEvents += text;
+        else upcomingEvents += text;
+      });
     });
-  });
   let content = "";
   if (upcomingEvents.length)
     content += `## 🔮 Upcoming events\n\n${upcomingEvents}`;
