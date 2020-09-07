@@ -1,7 +1,8 @@
 ---
 date: 2018-03-07
-city: Enschede, the Netherlands
-venue: The Cee Spot, Brouwerijstraat 1, 7523 XC Enschede
+city: Enschede
+country: NL
+venue: The Cee Spot
 link: https://www.facebook.com/events/1838806939471157/
 icon: /images/icons/nesst.png
 color: "#ffb600"
