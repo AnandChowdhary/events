@@ -2,19 +2,29 @@ import { readFile, writeFile, readdir } from "fs-extra";
 import { join } from "path";
 
 interface Event {
+  slug: string;
   name: string;
   date: Date;
   venue: string;
-  location: string;
+  city: string;
 }
 
 const parseEventFile = async (year: string, file: string): Promise<Event> => {
-  // const contents = await readFile(join(".", "events", year, file), "utf-8");
+  const lines = (
+    await readFile(join(".", "events", year, file), "utf-8")
+  ).split("\n");
   return {
-    name: "An event",
-    date: new Date(),
-    venue: "A venue",
-    location: "A location",
+    slug: file,
+    name:
+      lines.find((line) => line.startsWith("title: "))?.split("title: ")[1] ??
+      lines.find((line) => line.startsWith("# ")).split("# ")[1],
+    date: new Date(
+      lines.find((line) => line.startsWith("date: "))?.split("date: ")[1]
+    ),
+    venue: lines
+      .find((line) => line.startsWith("venue: "))
+      ?.split("venue: ")[1],
+    city: lines.find((line) => line.startsWith("city: "))?.split("city: ")[1],
   };
 };
 
@@ -33,13 +43,13 @@ export const generateReadme = async () => {
   Object.keys(allEvents).forEach((year) => {
     allEvents[year].forEach((event) => {
       const isPast = new Date(event.date).getTime() < new Date().getTime();
-      const text = `- **${event.name}**, ${new Date(
-        event.date
-      ).toLocaleDateString("en-us", {
+      const text = `- [**${event.name}**](./events/${year}/${
+        event.slug
+      }), ${new Date(event.date).toLocaleDateString("en-us", {
         year: "numeric",
         month: "long",
         day: "numeric",
-      })}  \n${event.venue}, ${event.location}\n\n`;
+      })}  \n${event.venue}, ${event.city}\n\n`;
       if (isPast) pastEvents += text;
       else upcomingEvents += text;
     });
