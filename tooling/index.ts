@@ -49,21 +49,21 @@ export const generateReadme = async () => {
         year: "numeric",
         month: "long",
         day: "numeric",
-      })}  \n${event.venue}, ${event.city}\n\n`;
+      })}  \n  ${event.venue}, ${event.city}\n\n`;
       if (isPast) pastEvents += text;
       else upcomingEvents += text;
     });
   });
   let content = "";
   if (upcomingEvents.length)
-    content += `## Upcoming events\n\n${upcomingEvents}`;
-  if (pastEvents.length) content += `## Past events\n\n${pastEvents}`;
+    content += `## 🔮 Upcoming events\n\n${upcomingEvents}`;
+  if (pastEvents.length) content += `## 📜 Past events\n\n${pastEvents}`;
   let readmeContents = await readFile(join(".", "README.md"), "utf-8");
   await writeFile(
     join(".", "README.md"),
     `${
       readmeContents.split("<!--events-->")[0]
-    }<!--events-->\n${content.trim()}\n<!--/events-->${
+    }<!--events-->\n\n${content.trim()}\n<!--/events-->${
       readmeContents.split("<!--/events-->")[1]
     }`
   );
