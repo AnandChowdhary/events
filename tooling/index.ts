@@ -1,5 +1,6 @@
 import { readFile, writeFile, readdir } from "fs-extra";
 import { join } from "path";
+const emojiFlags = require("emoji-flags");
 
 interface Event {
   slug: string;
@@ -7,6 +8,7 @@ interface Event {
   date: Date;
   venue: string;
   city: string;
+  emoji: string;
 }
 
 const parseEventFile = async (year: string, file: string): Promise<Event> => {
@@ -21,6 +23,9 @@ const parseEventFile = async (year: string, file: string): Promise<Event> => {
     date: new Date(
       lines.find((line) => line.startsWith("date: "))?.split("date: ")[1]
     ),
+    emoji: emojiFlags.countryCode(
+      lines.find((line) => line.startsWith("country: "))?.split("country: ")[1]
+    ).emoji,
     venue: lines
       .find((line) => line.startsWith("venue: "))
       ?.split("venue: ")[1],
@@ -57,7 +62,7 @@ export const generateReadme = async () => {
           year: "numeric",
           month: "long",
           day: "numeric",
-        })}  \n  ${event.venue}, ${event.city}\n\n`;
+        })}  \n  ${event.emoji} ${event.venue}, ${event.city}\n\n`;
         if (isPast) pastEvents += text;
         else upcomingEvents += text;
         addedYears.push(year);
