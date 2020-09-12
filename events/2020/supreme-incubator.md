@@ -2,7 +2,6 @@
 date: 2020-08-31
 city: New Delhi
 country: IN
-venue: Remote
 ---
 
 # Mentoring for Supreme Incubator

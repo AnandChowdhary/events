@@ -2,7 +2,7 @@
 date: 2020-07-15
 city: New Delhi
 country: IN
-venue: Indian Institute of Technology Delhi (Remote)
+venue: Indian Institute of Technology Delhi
 ---
 
 # Changemaker Workshop at Enactus, IIT Delhi

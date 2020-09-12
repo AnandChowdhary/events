@@ -2,7 +2,7 @@
 date: 2020-09-07
 city: Enschede
 country: NL
-venue: University of Twente (Remote)
+venue: University of Twente)
 ---
 
 # Guest Lecture on Opportunity Recognition
