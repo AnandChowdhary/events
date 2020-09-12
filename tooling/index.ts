@@ -62,7 +62,9 @@ export const generateReadme = async () => {
           year: "numeric",
           month: "long",
           day: "numeric",
-        })}  \n  ${event.emoji} ${event.venue}, ${event.city}\n\n`;
+        })}  \n  ${event.emoji} ${[event.venue, event.city]
+          .filter((i) => i)
+          .join(", ")}\n\n`;
         if (isPast) pastEvents += text;
         else upcomingEvents += text;
         addedYears.push(year);
