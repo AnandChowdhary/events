@@ -14,6 +14,9 @@ This repository is the source of truch for my speaking engagements and startup e
 - [**Mentoring for Supreme Incubator**](./events/2020/supreme-incubator.md), August 31, 2020  
   🇮🇳 Remote, New Delhi
 
+- [**Changemaker Workshop at Enactus, IIT Delhi**](./events/2020/enactus-iitd-panel.md), July 15, 2020  
+  🇮🇳 Indian Institute of Technology Delhi (Remote), New Delhi
+
 ### 2018
 
 - [**AKEPT-WIEF Social Enterprise Forum**](./events/2018/wief-2018.md), October 22, 2018  
