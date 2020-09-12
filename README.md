@@ -9,13 +9,13 @@ This repository is the source of truch for my speaking engagements and startup e
 ### 2020
 
 - [**Guest Lecture on Opportunity Recognition**](./events/2020/ut-opportunity-recognition.md), September 7, 2020  
-  🇳🇱 University of Twente (Remote), Enschede
+  🇳🇱 University of Twente), Enschede
 
 - [**Mentoring for Supreme Incubator**](./events/2020/supreme-incubator.md), August 31, 2020  
-  🇮🇳 Remote, New Delhi
+  🇮🇳 New Delhi
 
 - [**Changemaker Workshop at Enactus, IIT Delhi**](./events/2020/enactus-iitd-panel.md), July 15, 2020  
-  🇮🇳 Indian Institute of Technology Delhi (Remote), New Delhi
+  🇮🇳 Indian Institute of Technology Delhi, New Delhi
 
 ### 2018
 
