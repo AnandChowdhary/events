@@ -17,6 +17,11 @@ This repository is the source of truch for my speaking engagements and startup e
 - [**Changemaker Workshop at Enactus, IIT Delhi**](./events/2020/enactus-iitd-panel.md), July 15, 2020  
   🇮🇳 Indian Institute of Technology Delhi, New Delhi
 
+### 2019
+
+- [**Keynote for OneUp, Santa Clara University**](./events/2019/oneup-scu.md), October 21, 2019  
+  🇺🇸 Santa Clara University, San Francisco Bay Area
+
 ### 2018
 
 - [**AKEPT-WIEF Social Enterprise Forum**](./events/2018/wief-2018.md), October 22, 2018  
