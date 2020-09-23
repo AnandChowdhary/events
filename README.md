@@ -9,7 +9,7 @@ This repository is the source of truch for my speaking engagements and startup e
 ### 2020
 
 - [**Guest Lecture on Opportunity Recognition**](./events/2020/ut-opportunity-recognition.md), September 7, 2020  
-  🇳🇱 University of Twente), Enschede
+  🇳🇱 University of Twente, Enschede
 
 - [**Mentoring for Supreme Incubator**](./events/2020/supreme-incubator.md), August 31, 2020  
   🇮🇳 New Delhi
