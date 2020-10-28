@@ -4,9 +4,14 @@ This repository is the source of truch for my speaking engagements and startup e
 
 <!--events-->
 
-## 📜 Past events
+## 🔮 Upcoming events
 
 ### 2020
+
+- [**Guest Lecture for Global Entrepreneurship Week**](./events/2020/ut-global-entrepreneurship-week.md), November 18, 2020  
+  🇳🇱 University of Twente, Enschede
+
+## 📜 Past events
 
 - [**Guest Lecture on Opportunity Recognition**](./events/2020/ut-opportunity-recognition.md), September 7, 2020  
   🇳🇱 University of Twente, Enschede
