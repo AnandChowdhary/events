@@ -38,6 +38,9 @@ This repository is the source of truch for my speaking engagements and startup e
 
 ### 2018
 
+- [**Dutch Design Week**](./events/2018/dutch-design-week.md), June 12, 2019  
+  🇳🇱 Klokgebouw Cultuurhallen, Eindhoven
+
 - [**AKEPT-WIEF Social Enterprise Forum**](./events/2018/wief-2018.md), October 22, 2018  
   🇲🇾 International Islamic University Malaysia, Kuala Lumpur
 
