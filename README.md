@@ -47,6 +47,9 @@ This repository is the source of truch for my speaking engagements and startup e
 - [**Speakup**](./events/2018/speakup.md), September 20, 2018  
   🇳🇱 De Museumfabriek, Enschede
 
+- [**Nesst Season 3**](./events/2018/nesst-season-3.md), September 11, 2018  
+  🇳🇱 Saxion Center for Entrepreneurship, Enschede
+
 - [**Nesst Season 2**](./events/2018/nesst-season-2.md), March 7, 2018  
   🇳🇱 The Cee Spot, Enschede
 <!--/events-->
