@@ -33,6 +33,9 @@ This repository is the source of truch for my speaking engagements and startup e
 - [**MINET X 2019**](./events/2019/minet-x-2019.md), August 21, 2019  
   🇮🇳 The Mother's International School, New Delhi
 
+- [**Hive 01 Season 5**](./events/2019/hive-01-season-5.md), June 12, 2019  
+  🇳🇱 U Parkhotel, Enschede
+
 ### 2018
 
 - [**AKEPT-WIEF Social Enterprise Forum**](./events/2018/wief-2018.md), October 22, 2018  
