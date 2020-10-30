@@ -56,6 +56,9 @@ This repository is the source of truch for my speaking engagements and startup e
 - [**IITK eSummit**](./events/2018/esummit.md), August 25, 2018  
   🇮🇳 Indian Institute of Technology, Kanpur
 
+- [**HackIIITD**](./events/2018/hackiiitd.md), August 18, 2018  
+  🇮🇳 Indraprastha Institute of Information Technology, New Delhi
+
 - [**Nesst Season 2**](./events/2018/nesst-season-2.md), March 7, 2018  
   🇳🇱 The Cee Spot, Enschede
 <!--/events-->
