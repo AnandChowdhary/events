@@ -44,6 +44,9 @@ This repository is the source of truch for my speaking engagements and startup e
 - [**AKEPT-WIEF Social Enterprise Forum**](./events/2018/wief-2018.md), October 22, 2018  
   🇲🇾 International Islamic University Malaysia, Kuala Lumpur
 
+- [**Speakup**](./events/2018/speakup.md), September 20, 2018  
+  🇳🇱 De Museumfabriek, Enschede
+
 - [**Nesst Season 2**](./events/2018/nesst-season-2.md), March 7, 2018  
   🇳🇱 The Cee Spot, Enschede
 <!--/events-->
