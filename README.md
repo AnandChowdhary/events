@@ -59,6 +59,9 @@ This repository is the source of truch for my speaking engagements and startup e
 - [**HackIIITD**](./events/2018/hackiiitd.md), August 18, 2018  
   🇮🇳 Indraprastha Institute of Information Technology, New Delhi
 
+- [**MINET X 2018**](./events/2018/minet-x-2018.md), August 8, 2018  
+  🇮🇳 The Mother's International School, New Delhi
+
 - [**Nesst Season 2**](./events/2018/nesst-season-2.md), March 7, 2018  
   🇳🇱 The Cee Spot, Enschede
 <!--/events-->
