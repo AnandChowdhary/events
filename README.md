@@ -50,6 +50,9 @@ This repository is the source of truch for my speaking engagements and startup e
 - [**Nesst Season 3**](./events/2018/nesst-season-3.md), September 11, 2018  
   🇳🇱 Saxion Center for Entrepreneurship, Enschede
 
+- [**GOGBOT**](./events/2018/gogbot.md), September 6, 2018  
+  🇳🇱 City Center, Enschede
+
 - [**Nesst Season 2**](./events/2018/nesst-season-2.md), March 7, 2018  
   🇳🇱 The Cee Spot, Enschede
 <!--/events-->
