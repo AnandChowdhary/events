@@ -53,6 +53,9 @@ This repository is the source of truch for my speaking engagements and startup e
 - [**GOGBOT**](./events/2018/gogbot.md), September 6, 2018  
   🇳🇱 City Center, Enschede
 
+- [**IITK eSummit**](./events/2018/esummit.md), August 25, 2018  
+  🇮🇳 Indian Institute of Technology, Kanpur
+
 - [**Nesst Season 2**](./events/2018/nesst-season-2.md), March 7, 2018  
   🇳🇱 The Cee Spot, Enschede
 <!--/events-->
