@@ -16,5 +16,5 @@ jobs:
         uses: actions/checkout@v2
       - name: Update event summary
         uses: AnandChowdhary/events-summary@master
-        env:
-          GITHUB_TOKEN: "${{ secrets.GH_PAT }}"
+        with:
+          token: "${{ secrets.GH_PAT }}"
