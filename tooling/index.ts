@@ -35,14 +35,19 @@ const parseEventFile = async (year: string, file: string): Promise<Event> => {
 
 export const generateReadme = async () => {
   const allEvents: { [index: string]: Array<Event> } = {};
+  const allCountries = new Set<string>();
+  let totalEvents = 0;
   let pastEvents = "";
   let upcomingEvents = "";
   const years = await readdir(join(".", "events"));
   for await (const year of years) {
     const events = await readdir(join(".", "events", year));
     for await (const event of events) {
+      totalEvents++;
       allEvents[year] = allEvents[year] ?? [];
-      allEvents[year].push(await parseEventFile(year, event));
+      const eventFile = await parseEventFile(year, event);
+      allEvents[year].push(eventFile);
+      allCountries.add(eventFile.emoji);
     }
   }
   Object.keys(allEvents)
@@ -70,7 +75,12 @@ export const generateReadme = async () => {
         addedYears.push(year);
       });
     });
-  let content = "";
+  let content = `## 🎤 Summary
+
+- ${totalEvents} events in ${years.length} years
+- ${allCountries.size} countries — ${Array.from(allCountries).join("")}
+
+`;
   if (upcomingEvents.length)
     content += `## 🔮 Upcoming events\n\n${upcomingEvents}`;
   if (pastEvents.length) content += `## 📜 Past events\n\n${pastEvents}`;
