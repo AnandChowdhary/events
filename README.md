@@ -7,8 +7,8 @@ This repository is the source of truth for my speaking engagements and startup e
 <!--events-->
 
 ## 🎤 Summary
-- 19 events in 4 years
-- 4 countries — 🇳🇱🇮🇳🇲🇾🇺🇸
+- 20 events in 4 years
+- 5 countries — 🇳🇱🇬🇧🇮🇳🇲🇾🇺🇸
 ## 🔮 Upcoming events
 
 ### 2020
@@ -45,6 +45,9 @@ This repository is the source of truth for my speaking engagements and startup e
 
 - [**Dutch Design Week**](./events/2018/dutch-design-week.md), June 12, 2019  
   🇳🇱 Klokgebouw Cultuurhallen, Eindhoven
+
+- [**CLS Engagement Pitch**](./events/2018/cls.md), November 15, 2018  
+  🇬🇧 LABS Holborn, London
 
 - [**AKEPT-WIEF Social Enterprise Forum**](./events/2018/wief-2018.md), October 22, 2018  
   🇲🇾 International Islamic University Malaysia, Kuala Lumpur
