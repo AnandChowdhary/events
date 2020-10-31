@@ -4,6 +4,11 @@ This repository is the source of truch for my speaking engagements and startup e
 
 <!--events-->
 
+## 🎤 Summary
+
+- 18 events in 3 years
+- 4 countries — 🇳🇱🇮🇳🇲🇾🇺🇸
+
 ## 🔮 Upcoming events
 
 ### 2020
