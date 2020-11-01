@@ -7,7 +7,7 @@ This repository is the source of truth for my speaking engagements and startup e
 <!--events-->
 
 ## 🎤 Summary
-- 24 events in 5 years
+- 25 events in 6 years
 - 5 countries — 🇮🇳🇳🇱🇬🇧🇲🇾🇺🇸
 ## 🔮 Upcoming events
 
@@ -93,6 +93,11 @@ This repository is the source of truth for my speaking engagements and startup e
 ### 2016
 
 - [**SIP Launch (DTU)**](./events/2016/sip-launch-dtu.md), September 16, 2016  
+  🇮🇳 Delhi Technological University, New Delhi
+
+### 2014
+
+- [**Keynote at coDelhi**](./events/2014/codelhi.md), March 22, 2014  
   🇮🇳 Delhi Technological University, New Delhi
 <!--/events-->
 
