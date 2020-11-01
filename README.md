@@ -7,8 +7,8 @@ This repository is the source of truth for my speaking engagements and startup e
 <!--events-->
 
 ## 🎤 Summary
-- 23 events in 4 years
-- 5 countries — 🇳🇱🇮🇳🇬🇧🇲🇾🇺🇸
+- 24 events in 5 years
+- 5 countries — 🇮🇳🇳🇱🇬🇧🇲🇾🇺🇸
 ## 🔮 Upcoming events
 
 ### 2020
@@ -89,6 +89,11 @@ This repository is the source of truth for my speaking engagements and startup e
 
 - [**Tech Charcha by Facebook DevC**](./events/2017/tech-charcha.md), May 7, 2017  
   🇮🇳 91springboard Okhla, New Delhi
+
+### 2016
+
+- [**SIP Launch (DTU)**](./events/2016/sip-launch-dtu.md), September 16, 2016  
+  🇮🇳 Delhi Technological University, New Delhi
 <!--/events-->
 
 ## 📄 License
