@@ -7,7 +7,7 @@ This repository is the source of truth for my speaking engagements and startup e
 <!--events-->
 
 ## 🎤 Summary
-- 22 events in 4 years
+- 23 events in 4 years
 - 5 countries — 🇳🇱🇮🇳🇬🇧🇲🇾🇺🇸
 ## 🔮 Upcoming events
 
@@ -86,6 +86,9 @@ This repository is the source of truth for my speaking engagements and startup e
 
 - [**Pitch Training for Hardstart**](./events/2017/hardstart-pitch-training.md), October 31, 2017  
   🇳🇱 Hardstart, Enschede
+
+- [**Tech Charcha by Facebook DevC**](./events/2017/tech-charcha.md), May 7, 2017  
+  🇮🇳 91springboard Okhla, New Delhi
 <!--/events-->
 
 ## 📄 License
