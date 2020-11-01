@@ -7,14 +7,17 @@ This repository is the source of truth for my speaking engagements and startup e
 <!--events-->
 
 ## 🎤 Summary
-- 21 events in 4 years
-- 5 countries — 🇳🇱🇬🇧🇮🇳🇲🇾🇺🇸
+- 22 events in 4 years
+- 5 countries — 🇳🇱🇮🇳🇬🇧🇲🇾🇺🇸
 ## 🔮 Upcoming events
 
 ### 2020
 
 - [**Guest Lecture for Global Entrepreneurship Week**](./events/2020/ut-global-entrepreneurship-week.md), November 18, 2020  
   🇳🇱 University of Twente, Enschede
+
+- [**TEDxHaileyRoad**](./events/2017/tedx-hailey-road.md), Invalid Date  
+  🇮🇳 91springboard, Gurugram
 
 ## 📜 Past events
 
