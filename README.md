@@ -7,7 +7,7 @@ This repository is the source of truth for my speaking engagements and startup e
 <!--events-->
 
 ## 🎤 Summary
-- 25 events in 6 years
+- 26 events in 6 years
 - 5 countries — 🇮🇳🇳🇱🇬🇧🇲🇾🇺🇸
 ## 🔮 Upcoming events
 
@@ -37,6 +37,9 @@ This repository is the source of truth for my speaking engagements and startup e
 
 - [**MINET X 2019**](./events/2019/minet-x-2019.md), August 21, 2019  
   🇮🇳 The Mother's International School, New Delhi
+
+- [**Design workshop for El Niño**](./events/2019/el-nino-design.md), July 8, 2019  
+  🇳🇱 El Niño, Enschede
 
 - [**Hive 01 Season 5**](./events/2019/hive-01-season-5.md), June 12, 2019  
   🇳🇱 U Parkhotel, Enschede
