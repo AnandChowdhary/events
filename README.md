@@ -7,7 +7,7 @@ This repository is the source of truth for my speaking engagements and startup e
 <!--events-->
 
 ## 🎤 Summary
-- 20 events in 4 years
+- 21 events in 4 years
 - 5 countries — 🇳🇱🇬🇧🇮🇳🇲🇾🇺🇸
 ## 🔮 Upcoming events
 
@@ -80,6 +80,9 @@ This repository is the source of truth for my speaking engagements and startup e
 
 - [**Startup24**](./events/2017/startup24.md), November 11, 2017  
   🇳🇱 Novel-T, Enschede
+
+- [**Pitch Training for Hardstart**](./events/2017/hardstart-pitch-training.md), October 31, 2017  
+  🇳🇱 Hardstart, Enschede
 <!--/events-->
 
 ## 📄 License
