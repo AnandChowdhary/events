@@ -1,5 +1,5 @@
 ---
-date: TEDxHaileyRoad
+date: 2017-06-17
 city: Gurugram
 country: IN
 venue: 91springboard
