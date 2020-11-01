@@ -16,9 +16,6 @@ This repository is the source of truth for my speaking engagements and startup e
 - [**Guest Lecture for Global Entrepreneurship Week**](./events/2020/ut-global-entrepreneurship-week.md), November 18, 2020  
   🇳🇱 University of Twente, Enschede
 
-- [**TEDxHaileyRoad**](./events/2017/tedx-hailey-road.md), Invalid Date  
-  🇮🇳 91springboard, Gurugram
-
 ## 📜 Past events
 
 - [**Guest Lecture on Opportunity Recognition**](./events/2020/ut-opportunity-recognition.md), September 7, 2020  
@@ -86,6 +83,9 @@ This repository is the source of truth for my speaking engagements and startup e
 
 - [**Pitch Training for Hardstart**](./events/2017/hardstart-pitch-training.md), October 31, 2017  
   🇳🇱 Hardstart, Enschede
+
+- [**TEDxHaileyRoad**](./events/2017/tedx-hailey-road.md), June 17, 2017  
+  🇮🇳 91springboard, Gurugram
 
 - [**Tech Charcha by Facebook DevC**](./events/2017/tech-charcha.md), May 7, 2017  
   🇮🇳 91springboard Okhla, New Delhi
