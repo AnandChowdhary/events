@@ -9,14 +9,12 @@ This repository is the source of truth for my speaking engagements and startup e
 ## 🎤 Summary
 - 26 events in 6 years
 - 5 countries — 🇮🇳🇳🇱🇬🇧🇲🇾🇺🇸
-## 🔮 Upcoming events
+## 📜 Past events
 
 ### 2020
 
 - [**Guest Lecture for Global Entrepreneurship Week**](./events/2020/ut-global-entrepreneurship-week.md), November 18, 2020  
   🇳🇱 University of Twente, Enschede
-
-## 📜 Past events
 
 - [**Guest Lecture on Opportunity Recognition**](./events/2020/ut-opportunity-recognition.md), September 7, 2020  
   🇳🇱 University of Twente, Enschede
