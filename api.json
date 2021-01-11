@@ -1,1 +1,217 @@
-{}
+[
+  {
+    "slug": "codelhi.md",
+    "name": "Keynote at coDelhi",
+    "date": "2014-03-22T00:00:00.000Z",
+    "emoji": "🇮🇳",
+    "venue": "Delhi Technological University",
+    "city": "New Delhi"
+  },
+  {
+    "slug": "sip-launch-dtu.md",
+    "name": "SIP Launch (DTU)",
+    "date": "2016-09-16T00:00:00.000Z",
+    "emoji": "🇮🇳",
+    "venue": "Delhi Technological University",
+    "city": "New Delhi"
+  },
+  {
+    "slug": "hardstart-pitch-training.md",
+    "name": "Pitch Training for Hardstart",
+    "date": "2017-10-31T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "Hardstart",
+    "city": "Enschede"
+  },
+  {
+    "slug": "startup24.md",
+    "name": "Startup24",
+    "date": "2017-11-11T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "Novel-T",
+    "city": "Enschede"
+  },
+  {
+    "slug": "tech-charcha.md",
+    "name": "Tech Charcha by Facebook DevC",
+    "date": "2017-05-07T00:00:00.000Z",
+    "emoji": "🇮🇳",
+    "venue": "91springboard Okhla",
+    "city": "New Delhi"
+  },
+  {
+    "slug": "tedx-hailey-road.md",
+    "name": "TEDxHaileyRoad",
+    "date": "2017-06-17T00:00:00.000Z",
+    "emoji": "🇮🇳",
+    "venue": "91springboard",
+    "city": "Gurugram"
+  },
+  {
+    "slug": "cls.md",
+    "name": "CLS Engagement Pitch",
+    "date": "2018-11-15T00:00:00.000Z",
+    "emoji": "🇬🇧",
+    "venue": "LABS Holborn",
+    "city": "London"
+  },
+  {
+    "slug": "dutch-design-week.md",
+    "name": "Dutch Design Week",
+    "date": "2019-06-12T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "Klokgebouw Cultuurhallen",
+    "city": "Eindhoven"
+  },
+  {
+    "slug": "esummit.md",
+    "name": "IITK eSummit",
+    "date": "2018-08-25T00:00:00.000Z",
+    "emoji": "🇮🇳",
+    "venue": "Indian Institute of Technology",
+    "city": "Kanpur"
+  },
+  {
+    "slug": "gogbot.md",
+    "name": "GOGBOT",
+    "date": "2018-09-06T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "City Center",
+    "city": "Enschede"
+  },
+  {
+    "slug": "hackiiitd.md",
+    "name": "HackIIITD",
+    "date": "2018-08-18T00:00:00.000Z",
+    "emoji": "🇮🇳",
+    "venue": "Indraprastha Institute of Information Technology",
+    "city": "New Delhi"
+  },
+  {
+    "slug": "minet-x-2018.md",
+    "name": "MINET X 2018",
+    "date": "2018-08-08T00:00:00.000Z",
+    "emoji": "🇮🇳",
+    "venue": "The Mother's International School",
+    "city": "New Delhi"
+  },
+  {
+    "slug": "nesst-season-2.md",
+    "name": "Nesst Season 2",
+    "date": "2018-03-07T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "The Cee Spot",
+    "city": "Enschede"
+  },
+  {
+    "slug": "nesst-season-3.md",
+    "name": "Nesst Season 3",
+    "date": "2018-09-11T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "Saxion Center for Entrepreneurship",
+    "city": "Enschede"
+  },
+  {
+    "slug": "online-open-day.md",
+    "name": "Twente's Online Open Day",
+    "date": "2018-05-16T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "University of Twente",
+    "city": "Enschede"
+  },
+  {
+    "slug": "speakup.md",
+    "name": "Speakup",
+    "date": "2018-09-20T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "De Museumfabriek",
+    "city": "Enschede"
+  },
+  {
+    "slug": "wief-2018.md",
+    "name": "AKEPT-WIEF Social Enterprise Forum",
+    "date": "2018-10-22T00:00:00.000Z",
+    "emoji": "🇲🇾",
+    "venue": "International Islamic University Malaysia",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "slug": "el-nino-design.md",
+    "name": "Design workshop for El Niño",
+    "date": "2019-07-08T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "El Niño",
+    "city": "Enschede"
+  },
+  {
+    "slug": "hive-01-season-5.md",
+    "name": "Hive 01 Season 5",
+    "date": "2019-06-12T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "U Parkhotel",
+    "city": "Enschede"
+  },
+  {
+    "slug": "minet-x-2019.md",
+    "name": "MINET X 2019",
+    "date": "2019-08-21T00:00:00.000Z",
+    "emoji": "🇮🇳",
+    "venue": "The Mother's International School",
+    "city": "New Delhi"
+  },
+  {
+    "slug": "oneup-scu.md",
+    "name": "Keynote for OneUp, Santa Clara University",
+    "date": "2019-10-21T00:00:00.000Z",
+    "emoji": "🇺🇸",
+    "venue": "Santa Clara University",
+    "city": "San Francisco Bay Area"
+  },
+  {
+    "slug": "wwcode-cloud.md",
+    "name": "Women Who Code Cloud 2019",
+    "date": "2019-09-29T00:00:00.000Z",
+    "emoji": "🇺🇸",
+    "venue": "Accenture, Salesforce Tower",
+    "city": "San Francisco Bay Area"
+  },
+  {
+    "slug": "enactus-iitd-panel.md",
+    "name": "Changemaker Workshop at Enactus, IIT Delhi",
+    "date": "2020-07-15T00:00:00.000Z",
+    "emoji": "🇮🇳",
+    "venue": "Indian Institute of Technology Delhi",
+    "city": "New Delhi"
+  },
+  {
+    "slug": "supreme-incubator.md",
+    "name": "Mentoring for Supreme Incubator",
+    "date": "2020-08-31T00:00:00.000Z",
+    "emoji": "🇮🇳",
+    "city": "New Delhi"
+  },
+  {
+    "slug": "ut-global-entrepreneurship-week.md",
+    "name": "Guest Lecture for Global Entrepreneurship Week",
+    "date": "2020-11-18T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "University of Twente",
+    "city": "Enschede"
+  },
+  {
+    "slug": "ut-opportunity-recognition.md",
+    "name": "Guest Lecture on Opportunity Recognition",
+    "date": "2020-09-07T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "University of Twente",
+    "city": "Enschede"
+  },
+  {
+    "slug": "dotslash-svnit.md",
+    "name": "Innovation & Entrepreneurship at DotSlash, SVNIT",
+    "date": "2021-01-24T00:00:00.000Z",
+    "emoji": "🇮🇳",
+    "venue": "Sardar Vallabhbhai National Institute of Technology",
+    "city": "Surat"
+  }
+]
