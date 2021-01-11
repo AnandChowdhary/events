@@ -9,12 +9,14 @@ This repository is the source of truth for my speaking engagements and startup e
 ## 🎤 Summary
 - 27 events in 7 years
 - 5 countries — 🇮🇳🇳🇱🇬🇧🇲🇾🇺🇸
-## 📜 Past events
+## 🔮 Upcoming events
 
 ### 2021
 
-- [**Innovation & Entrepreneurship at DotSlash, SVNIT**](./events/2021/dotslash-svnit.md), January 24, 2020  
+- [**Innovation & Entrepreneurship at DotSlash, SVNIT**](./events/2021/dotslash-svnit.md), January 24, 2021  
   🇮🇳 Sardar Vallabhbhai National Institute of Technology, Surat
+
+## 📜 Past events
 
 ### 2020
 
