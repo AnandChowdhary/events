@@ -1,8 +1,10 @@
 # 🗓 Events
 
-This repository is the source of truth for my speaking engagements and startup events. It uses the [AnandChowdhary/events-summary](https://github.com/AnandChowdhary/events-summary) GitHub Action to generate the summary below.
+This repository is the source of truth for my speaking engagements and startup events.
 
 [![Readme CI](https://github.com/AnandChowdhary/events/workflows/Readme%20CI/badge.svg)](https://github.com/AnandChowdhary/events/actions?query=workflow%3A%22Readme+CI%22)
+
+This repository uses the [AnandChowdhary/events-summary](https://github.com/AnandChowdhary/events-summary) GitHub Action to generate the summary below. An API is available at https://anandchowdhary.github.io/events/api.json.
 
 <!--events-->
 
