@@ -11,14 +11,12 @@ This repository uses the [AnandChowdhary/events-summary](https://github.com/Anan
 ## 🎤 Summary
 - 27 events in 7 years
 - 5 countries — 🇮🇳🇳🇱🇬🇧🇲🇾🇺🇸
-## 🔮 Upcoming events
+## 📜 Past events
 
 ### 2021
 
 - [**Innovation & Entrepreneurship at DotSlash, SVNIT**](./events/2021/dotslash-svnit.md), January 24, 2021  
   🇮🇳 Sardar Vallabhbhai National Institute of Technology, Surat
-
-## 📜 Past events
 
 ### 2020
 
