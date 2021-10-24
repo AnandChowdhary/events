@@ -1,6 +1,7 @@
 ---
 date: 2021-03-26
 city: Remote
+country: US
 venue: GitHub Satellite 2021
 ---
 
