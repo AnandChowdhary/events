@@ -1,6 +1,7 @@
 ---
 date: 2021-10-05
 city: Remote
+country: US
 venue: GitHub Nova 2021
 ---
 
