@@ -13,7 +13,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Update event summary
-        uses: AnandChowdhary/events-summary@v1.1.3
+        uses: AnandChowdhary/events-summary@main
+      - name: Publish package
+        uses: stefanzweifel/git-auto-commit-action@v4.9.2
         with:
-          bot-name: "FindingAnand"
-          bot-email: "bot@anandchowdhary.com"
+          commit_message: ":pencil: Generate README summary [skip ci]"
+          commit_user_name: FindingAnand
+          commit_user_email: bot@anandchowdhary.com
+          commit_author: FindingAnand <bot@anandchowdhary.com>
