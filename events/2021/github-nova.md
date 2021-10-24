@@ -1,7 +1,7 @@
 ---
-date: 2021-01-24
+date: 2021-10-05
 city: Remote
-venue: GitHub
+venue: GitHub Nova 2021
 ---
 
 # Open source as a startup at GitHub Nova 2021
