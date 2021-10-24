@@ -213,5 +213,37 @@
     "emoji": "🇮🇳",
     "venue": "Sardar Vallabhbhai National Institute of Technology",
     "city": "Surat"
+  },
+  {
+    "slug": "github-nova.md",
+    "name": "Open source as a startup at GitHub Nova 2021",
+    "date": "2021-10-05T00:00:00.000Z",
+    "emoji": "🇺🇸",
+    "venue": "GitHub Nova 2021",
+    "city": "Remote"
+  },
+  {
+    "slug": "github-satellite.md",
+    "name": "Helping fight COVID-19 using GitHub at GitHub Satellite 2021",
+    "date": "2021-03-26T00:00:00.000Z",
+    "emoji": "🇺🇸",
+    "venue": "GitHub Satellite 2021",
+    "city": "Remote"
+  },
+  {
+    "slug": "open-source-vit.md",
+    "name": "Open source from scratch for CodeChef-VIT",
+    "date": "2021-10-11T00:00:00.000Z",
+    "emoji": "🇮🇳",
+    "venue": "Vellore Institute of Technology",
+    "city": "Vellore"
+  },
+  {
+    "slug": "ut-opportunity-recognition.md",
+    "name": "Guest lecture at University of Twente",
+    "date": "2021-09-13T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "University of Twente",
+    "city": "Enschede"
   }
 ]

@@ -9,11 +9,23 @@ This repository uses the [AnandChowdhary/events-summary](https://github.com/Anan
 <!--events-->
 
 ## 🎤 Summary
-- 27 events in 7 years
+- 31 events in 7 years
 - 5 countries — 🇮🇳🇳🇱🇬🇧🇲🇾🇺🇸
 ## 📜 Past events
 
 ### 2021
+
+- [**Open source from scratch for CodeChef-VIT**](./events/2021/open-source-vit.md), October 11, 2021  
+  🇮🇳 Vellore Institute of Technology, Vellore
+
+- [**Open source as a startup at GitHub Nova 2021**](./events/2021/github-nova.md), October 5, 2021  
+  🇺🇸 GitHub Nova 2021, Remote
+
+- [**Guest lecture at University of Twente**](./events/2021/ut-opportunity-recognition.md), September 13, 2021  
+  🇳🇱 University of Twente, Enschede
+
+- [**Helping fight COVID-19 using GitHub at GitHub Satellite 2021**](./events/2021/github-satellite.md), March 26, 2021  
+  🇺🇸 GitHub Satellite 2021, Remote
 
 - [**Innovation & Entrepreneurship at DotSlash, SVNIT**](./events/2021/dotslash-svnit.md), January 24, 2021  
   🇮🇳 Sardar Vallabhbhai National Institute of Technology, Surat
