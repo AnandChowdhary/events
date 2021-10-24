@@ -24,7 +24,7 @@ This repository uses the [AnandChowdhary/events-summary](https://github.com/Anan
 - [**Guest lecture at University of Twente**](./events/2021/ut-opportunity-recognition.md), September 13, 2021  
   🇳🇱 University of Twente, Enschede
 
-- [**undefined**](./events/2021/minet-x.md), August 13, 2021  
+- [**MINET X 2021 keynote**](./events/2021/minet-x.md), August 13, 2021  
   🇮🇳 The Mother's International School, Remote
 
 - [**Helping fight COVID-19 using GitHub at GitHub Satellite 2021**](./events/2021/github-satellite.md), March 26, 2021  
