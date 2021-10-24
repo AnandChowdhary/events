@@ -231,6 +231,13 @@
     "city": "Remote"
   },
   {
+    "slug": "minet-x.md",
+    "date": "2021-08-13T00:00:00.000Z",
+    "emoji": "🇮🇳",
+    "venue": "The Mother's International School",
+    "city": "Remote"
+  },
+  {
     "slug": "open-source-vit.md",
     "name": "Open source from scratch for CodeChef-VIT",
     "date": "2021-10-11T00:00:00.000Z",
