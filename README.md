@@ -9,11 +9,14 @@ This repository uses the [AnandChowdhary/events-summary](https://github.com/Anan
 <!--events-->
 
 ## 🎤 Summary
-- 32 events in 7 years
+- 33 events in 7 years
 - 5 countries — 🇮🇳🇳🇱🇬🇧🇲🇾🇺🇸
 ## 📜 Past events
 
 ### 2021
+
+- [**COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community**](./events/2021/ddog-8.md), November 9, 2021  
+  🇳🇱 OGD ict diensten, Utrecht
 
 - [**Open source from scratch for CodeChef-VIT**](./events/2021/open-source-vit.md), October 11, 2021  
   🇮🇳 Vellore Institute of Technology, Vellore

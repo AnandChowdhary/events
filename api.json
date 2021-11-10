@@ -207,6 +207,14 @@
     "city": "Enschede"
   },
   {
+    "slug": "ddog-8.md",
+    "name": "COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community",
+    "date": "2021-11-09T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "OGD ict diensten",
+    "city": "Utrecht"
+  },
+  {
     "slug": "dotslash-svnit.md",
     "name": "Innovation & Entrepreneurship at DotSlash, SVNIT",
     "date": "2021-01-24T00:00:00.000Z",
