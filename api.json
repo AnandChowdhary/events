@@ -261,5 +261,12 @@
     "emoji": "🇳🇱",
     "venue": "University of Twente",
     "city": "Enschede"
+  },
+  {
+    "slug": "startup-school.md",
+    "name": "YC Startup School Kickoff",
+    "date": "2022-03-21T00:00:00.000Z",
+    "emoji": "🇺🇸",
+    "city": "Remote"
   }
 ]

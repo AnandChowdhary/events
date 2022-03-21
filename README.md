@@ -9,9 +9,14 @@ This repository uses the [AnandChowdhary/events-summary](https://github.com/Anan
 <!--events-->
 
 ## 🎤 Summary
-- 33 events in 7 years
+- 34 events in 8 years
 - 5 countries — 🇮🇳🇳🇱🇬🇧🇲🇾🇺🇸
 ## 📜 Past events
+
+### 2022
+
+- [**YC Startup School Kickoff**](./events/2022/startup-school.md), March 21, 2022  
+  🇺🇸 Remote
 
 ### 2021
 
