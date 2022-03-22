@@ -15,8 +15,8 @@ This repository uses the [AnandChowdhary/events-summary](https://github.com/Anan
 
 ### 2022
 
-- [**YC Startup School Kickoff**](./events/2022/startup-school.md), March 21, 2022  
-  🇺🇸 Remote
+- [**Startup School Kickoff Call Q&A**](./events/2022/startup-school.md), March 21, 2022  
+  🇺🇸 Y Combinator Startup School, Remote
 
 ### 2021
 

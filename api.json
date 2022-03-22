@@ -264,9 +264,10 @@
   },
   {
     "slug": "startup-school.md",
-    "name": "YC Startup School Kickoff",
+    "name": "Startup School Kickoff Call Q&A",
     "date": "2022-03-21T00:00:00.000Z",
     "emoji": "🇺🇸",
+    "venue": "Y Combinator Startup School",
     "city": "Remote"
   }
 ]
