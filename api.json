@@ -269,5 +269,13 @@
     "emoji": "🇺🇸",
     "venue": "Y Combinator Startup School",
     "city": "Remote"
+  },
+  {
+    "slug": "twitter-space-open-source.md",
+    "name": "Twitter Space on \"Why make your product open source?\"",
+    "date": "2022-05-12T00:00:00.000Z",
+    "emoji": "🇺🇸",
+    "venue": "Twitter Space",
+    "city": "Remote"
   }
 ]

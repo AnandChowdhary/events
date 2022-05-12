@@ -9,11 +9,14 @@ This repository uses the [AnandChowdhary/events-summary](https://github.com/Anan
 <!--events-->
 
 ## 🎤 Summary
-- 34 events in 8 years
+- 35 events in 8 years
 - 5 countries — 🇮🇳🇳🇱🇬🇧🇲🇾🇺🇸
 ## 📜 Past events
 
 ### 2022
+
+- [**Twitter Space on "Why make your product open source?"**](./events/2022/twitter-space-open-source.md), May 12, 2022  
+  🇺🇸 Twitter Space, Remote
 
 - [**Startup School Kickoff Call Q&A**](./events/2022/startup-school.md), March 21, 2022  
   🇺🇸 Y Combinator Startup School, Remote
