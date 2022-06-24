@@ -9,11 +9,14 @@ This repository uses the [AnandChowdhary/events-summary](https://github.com/Anan
 <!--events-->
 
 ## 🎤 Summary
-- 35 events in 8 years
+- 36 events in 8 years
 - 5 countries — 🇮🇳🇳🇱🇬🇧🇲🇾🇺🇸
 ## 📜 Past events
 
 ### 2022
+
+- [**Guest lecture on inclusive entrepreneurship**](./events/2022/iima-inclusive-entrepreneurship.md), June 24, 2022  
+  🇮🇳 Indian Institute of Management, Ahmedabad, Ahmedabad, India
 
 - [**Twitter Space on "Why make your product open source?"**](./events/2022/twitter-space-open-source.md), May 12, 2022  
   🇺🇸 Twitter Space, Remote
