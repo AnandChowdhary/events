@@ -13,4 +13,6 @@ GitHub Nova is a 3-day event exclusively for GitHub Stars.
 
 As a startup founder and open source contributor, my interest lies on the intersection of tech entrepreneurship and FOSS. GitHub invited me speak at Nova on the topic "Open source as a startup", where I shared Pabio's journey building Upptime and my background in open source in this 30-min talk.
 
-_More details and link to the video will be added here shortly._
+I reflect on journey -- from building an open edtech platform for K-12 students (Class Rebels), to an open source browser extension for people with dyslexia that became an accessibility technology company with several disabled-friendly products (Oswald Labs), to starting a Y Combinator-funded company in a completely different space (Pabio, furniture rental with interior design), and building and launching an open source project with 10k+ stars (Upptime). I also discuss how Upptime works using GitHub Actions, Issues, and Pages, open source monetization options, the benefits of investing in open source as a startup, and the value of open source software.
+
+A recording is available on https://youtu.be/RCaGjMjiwpU.
