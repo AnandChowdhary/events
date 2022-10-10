@@ -285,5 +285,13 @@
     "emoji": "🇺🇸",
     "venue": "Twitter Space",
     "city": "Remote"
+  },
+  {
+    "slug": "ut-opportunity recognition.md",
+    "name": "Guest lecture on opportunity recognition",
+    "date": "2022-09-12T00:00:00.000Z",
+    "emoji": "🇳🇱",
+    "venue": "University of Twente",
+    "city": "Enschede"
   }
 ]

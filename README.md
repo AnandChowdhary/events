@@ -9,11 +9,14 @@ This repository uses the [AnandChowdhary/events-summary](https://github.com/Anan
 <!--events-->
 
 ## 🎤 Summary
-- 36 events in 8 years
+- 37 events in 8 years
 - 5 countries — 🇮🇳🇳🇱🇬🇧🇲🇾🇺🇸
 ## 📜 Past events
 
 ### 2022
+
+- [**Guest lecture on opportunity recognition**](./events/2022/ut-opportunity recognition.md), September 12, 2022  
+  🇳🇱 University of Twente, Enschede
 
 - [**Guest lecture on inclusive entrepreneurship**](./events/2022/iima-inclusive-entrepreneurship.md), June 24, 2022  
   🇮🇳 Indian Institute of Management, Ahmedabad, Ahmedabad, India
