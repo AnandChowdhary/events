@@ -15,7 +15,7 @@ This repository uses the [AnandChowdhary/events-summary](https://github.com/Anan
 
 ### 2022
 
-- [**Guest lecture on opportunity recognition**](./events/2022/ut-opportunity recognition.md), September 12, 2022  
+- [**Guest lecture on opportunity recognition**](./events/2022/ut-opportunity-recognition.md), September 12, 2022  
   🇳🇱 University of Twente, Enschede
 
 - [**Guest lecture on inclusive entrepreneurship**](./events/2022/iima-inclusive-entrepreneurship.md), June 24, 2022  
