@@ -5,7 +5,11 @@
     "date": "2014-03-22T00:00:00.000Z",
     "emoji": "🇮🇳",
     "venue": "Delhi Technological University",
-    "city": "New Delhi"
+    "city": "New Delhi",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "sip-launch-dtu.md",
@@ -13,7 +17,11 @@
     "date": "2016-09-16T00:00:00.000Z",
     "emoji": "🇮🇳",
     "venue": "Delhi Technological University",
-    "city": "New Delhi"
+    "city": "New Delhi",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "hardstart-pitch-training.md",
@@ -21,7 +29,11 @@
     "date": "2017-10-31T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "Hardstart",
-    "city": "Enschede"
+    "city": "Enschede",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "startup24.md",
@@ -29,7 +41,11 @@
     "date": "2017-11-11T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "Novel-T",
-    "city": "Enschede"
+    "city": "Enschede",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "tech-charcha.md",
@@ -37,7 +53,11 @@
     "date": "2017-05-07T00:00:00.000Z",
     "emoji": "🇮🇳",
     "venue": "91springboard Okhla",
-    "city": "New Delhi"
+    "city": "New Delhi",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "tedx-hailey-road.md",
@@ -45,7 +65,11 @@
     "date": "2017-06-17T00:00:00.000Z",
     "emoji": "🇮🇳",
     "venue": "91springboard",
-    "city": "Gurugram"
+    "city": "Gurugram",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "cls.md",
@@ -53,7 +77,11 @@
     "date": "2018-11-15T00:00:00.000Z",
     "emoji": "🇬🇧",
     "venue": "LABS Holborn",
-    "city": "London"
+    "city": "London",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "dutch-design-week.md",
@@ -61,7 +89,11 @@
     "date": "2019-06-12T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "Klokgebouw Cultuurhallen",
-    "city": "Eindhoven"
+    "city": "Eindhoven",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "esummit.md",
@@ -69,7 +101,11 @@
     "date": "2018-08-25T00:00:00.000Z",
     "emoji": "🇮🇳",
     "venue": "Indian Institute of Technology",
-    "city": "Kanpur"
+    "city": "Kanpur",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "gogbot.md",
@@ -77,7 +113,11 @@
     "date": "2018-09-06T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "City Center",
-    "city": "Enschede"
+    "city": "Enschede",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "hackiiitd.md",
@@ -85,7 +125,11 @@
     "date": "2018-08-18T00:00:00.000Z",
     "emoji": "🇮🇳",
     "venue": "Indraprastha Institute of Information Technology",
-    "city": "New Delhi"
+    "city": "New Delhi",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "minet-x-2018.md",
@@ -93,7 +137,11 @@
     "date": "2018-08-08T00:00:00.000Z",
     "emoji": "🇮🇳",
     "venue": "The Mother's International School",
-    "city": "New Delhi"
+    "city": "New Delhi",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "nesst-season-2.md",
@@ -101,7 +149,11 @@
     "date": "2018-03-07T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "The Cee Spot",
-    "city": "Enschede"
+    "city": "Enschede",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "nesst-season-3.md",
@@ -109,7 +161,11 @@
     "date": "2018-09-11T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "Saxion Center for Entrepreneurship",
-    "city": "Enschede"
+    "city": "Enschede",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "online-open-day.md",
@@ -117,7 +173,11 @@
     "date": "2018-05-16T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "University of Twente",
-    "city": "Enschede"
+    "city": "Enschede",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "speakup.md",
@@ -125,7 +185,11 @@
     "date": "2018-09-20T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "De Museumfabriek",
-    "city": "Enschede"
+    "city": "Enschede",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "wief-2018.md",
@@ -133,7 +197,11 @@
     "date": "2018-10-22T00:00:00.000Z",
     "emoji": "🇲🇾",
     "venue": "International Islamic University Malaysia",
-    "city": "Kuala Lumpur"
+    "city": "Kuala Lumpur",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "el-nino-design.md",
@@ -141,7 +209,11 @@
     "date": "2019-07-08T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "El Niño",
-    "city": "Enschede"
+    "city": "Enschede",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "hive-01-season-5.md",
@@ -149,7 +221,11 @@
     "date": "2019-06-12T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "U Parkhotel",
-    "city": "Enschede"
+    "city": "Enschede",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "minet-x-2019.md",
@@ -157,7 +233,11 @@
     "date": "2019-08-21T00:00:00.000Z",
     "emoji": "🇮🇳",
     "venue": "The Mother's International School",
-    "city": "New Delhi"
+    "city": "New Delhi",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "oneup-scu.md",
@@ -165,7 +245,11 @@
     "date": "2019-10-21T00:00:00.000Z",
     "emoji": "🇺🇸",
     "venue": "Santa Clara University",
-    "city": "San Francisco Bay Area"
+    "city": "San Francisco Bay Area",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "wwcode-cloud.md",
@@ -173,7 +257,11 @@
     "date": "2019-09-29T00:00:00.000Z",
     "emoji": "🇺🇸",
     "venue": "Accenture, Salesforce Tower",
-    "city": "San Francisco Bay Area"
+    "city": "San Francisco Bay Area",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "enactus-iitd-panel.md",
@@ -181,14 +269,22 @@
     "date": "2020-07-15T00:00:00.000Z",
     "emoji": "🇮🇳",
     "venue": "Indian Institute of Technology Delhi",
-    "city": "New Delhi"
+    "city": "New Delhi",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "supreme-incubator.md",
     "name": "Mentoring for Supreme Incubator",
     "date": "2020-08-31T00:00:00.000Z",
     "emoji": "🇮🇳",
-    "city": "New Delhi"
+    "city": "New Delhi",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "ut-global-entrepreneurship-week.md",
@@ -196,7 +292,11 @@
     "date": "2020-11-18T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "University of Twente",
-    "city": "Enschede"
+    "city": "Enschede",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "ut-opportunity-recognition.md",
@@ -204,7 +304,11 @@
     "date": "2020-09-07T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "University of Twente",
-    "city": "Enschede"
+    "city": "Enschede",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "ddog-8.md",
@@ -212,7 +316,11 @@
     "date": "2021-11-09T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "OGD ict diensten",
-    "city": "Utrecht"
+    "city": "Utrecht",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "dotslash-svnit.md",
@@ -220,7 +328,11 @@
     "date": "2021-01-24T00:00:00.000Z",
     "emoji": "🇮🇳",
     "venue": "Sardar Vallabhbhai National Institute of Technology",
-    "city": "Surat"
+    "city": "Surat",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "github-nova.md",
@@ -228,7 +340,11 @@
     "date": "2021-10-05T00:00:00.000Z",
     "emoji": "🇺🇸",
     "venue": "GitHub Nova 2021",
-    "city": "Remote"
+    "city": "Remote",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "github-satellite.md",
@@ -236,7 +352,11 @@
     "date": "2021-03-26T00:00:00.000Z",
     "emoji": "🇺🇸",
     "venue": "GitHub Satellite 2021",
-    "city": "Remote"
+    "city": "Remote",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "minet-x.md",
@@ -244,7 +364,11 @@
     "date": "2021-08-13T00:00:00.000Z",
     "emoji": "🇮🇳",
     "venue": "The Mother's International School",
-    "city": "Remote"
+    "city": "Remote",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "open-source-vit.md",
@@ -252,7 +376,11 @@
     "date": "2021-10-11T00:00:00.000Z",
     "emoji": "🇮🇳",
     "venue": "Vellore Institute of Technology",
-    "city": "Vellore"
+    "city": "Vellore",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "ut-opportunity-recognition.md",
@@ -260,7 +388,11 @@
     "date": "2021-09-13T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "University of Twente",
-    "city": "Enschede"
+    "city": "Enschede",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "iima-inclusive-entrepreneurship.md",
@@ -268,7 +400,11 @@
     "date": "2022-06-24T00:00:00.000Z",
     "emoji": "🇮🇳",
     "venue": "Indian Institute of Management, Ahmedabad",
-    "city": "Ahmedabad, India"
+    "city": "Ahmedabad, India",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "startup-school.md",
@@ -276,7 +412,11 @@
     "date": "2022-03-21T00:00:00.000Z",
     "emoji": "🇺🇸",
     "venue": "Y Combinator Startup School",
-    "city": "Remote"
+    "city": "Remote",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "twitter-space-open-source.md",
@@ -284,7 +424,11 @@
     "date": "2022-05-12T00:00:00.000Z",
     "emoji": "🇺🇸",
     "venue": "Twitter Space",
-    "city": "Remote"
+    "city": "Remote",
+    "coordinates": [
+      null,
+      null
+    ]
   },
   {
     "slug": "ut-opportunity-recognition.md",
@@ -292,6 +436,10 @@
     "date": "2022-09-12T00:00:00.000Z",
     "emoji": "🇳🇱",
     "venue": "University of Twente",
-    "city": "Enschede"
+    "city": "Enschede",
+    "coordinates": [
+      null,
+      null
+    ]
   }
 ]
