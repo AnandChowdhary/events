@@ -3,6 +3,7 @@ date: 2018-05-16
 city: Enschede
 country: NL
 venue: University of Twente
+coordinates: [52.241198, 6.851607]
 ---
 
 # Twente's Online Open Day

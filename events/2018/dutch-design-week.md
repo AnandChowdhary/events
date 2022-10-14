@@ -3,6 +3,7 @@ date: 2019-06-12
 city: Eindhoven
 country: NL
 venue: Klokgebouw Cultuurhallen
+coordinates: [51.44845, 5.4579645]
 ---
 
 # Dutch Design Week

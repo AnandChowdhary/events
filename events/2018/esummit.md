@@ -3,6 +3,7 @@ date: 2018-08-25
 city: Kanpur
 country: IN
 venue: Indian Institute of Technology
+coordinates: [26.51, 80.23]
 ---
 
 # IITK eSummit

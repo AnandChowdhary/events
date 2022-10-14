@@ -3,6 +3,7 @@ date: 2021-09-13
 city: Enschede
 country: NL
 venue: University of Twente
+coordinates: [52.241198, 6.851607]
 ---
 
 # Guest lecture at University of Twente

@@ -3,6 +3,7 @@ date: 2017-11-11
 city: Enschede
 country: NL
 venue: Novel-T
+coordinates: [52.220986, 6.894054]
 ---
 
 # Startup24

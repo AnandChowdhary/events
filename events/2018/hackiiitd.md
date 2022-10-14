@@ -3,6 +3,7 @@ date: 2018-08-18
 city: New Delhi
 country: IN
 venue: Indraprastha Institute of Information Technology
+coordinates: [18.53115, 73.867663]
 ---
 
 # HackIIITD

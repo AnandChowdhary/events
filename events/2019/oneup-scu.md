@@ -3,6 +3,7 @@ date: 2019-10-21
 city: San Francisco Bay Area
 country: US
 venue: Santa Clara University
+coordinates: [37.779026, -122.419906]
 ---
 
 # Keynote for OneUp, Santa Clara University

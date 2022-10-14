@@ -3,6 +3,7 @@ date: 2017-10-31
 city: Enschede
 country: NL
 venue: Hardstart
+coordinates: [52.220986, 6.894054]
 ---
 
 # Pitch Training for Hardstart

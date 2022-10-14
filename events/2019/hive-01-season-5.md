@@ -3,6 +3,7 @@ date: 2019-06-12
 city: Enschede
 country: NL
 venue: U Parkhotel
+coordinates: [52.220986, 6.894054]
 ---
 
 # Hive 01 Season 5

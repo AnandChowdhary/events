@@ -3,6 +3,7 @@ date: 2018-09-06
 city: Enschede
 country: NL
 venue: City Center
+coordinates: [52.22, 6.9]
 ---
 
 # GOGBOT

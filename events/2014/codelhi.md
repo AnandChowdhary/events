@@ -3,6 +3,7 @@ date: 2014-03-22
 city: New Delhi
 country: IN
 venue: Delhi Technological University
+coordinates: [28.7505, 77.116801]
 ---
 
 # Keynote at coDelhi

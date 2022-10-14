@@ -2,6 +2,7 @@
 date: 2020-08-31
 city: New Delhi
 country: IN
+coordinates: [28.613895, 77.209006]
 ---
 
 # Mentoring for Supreme Incubator

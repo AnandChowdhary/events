@@ -3,6 +3,7 @@ date: 2018-11-15
 city: London
 country: GB
 venue: LABS Holborn
+coordinates: [51.514738, -0.147356]
 ---
 
 # CLS Engagement Pitch

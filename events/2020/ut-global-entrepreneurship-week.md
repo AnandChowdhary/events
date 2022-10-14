@@ -3,6 +3,7 @@ date: 2020-11-18
 city: Enschede
 country: NL
 venue: University of Twente
+coordinates: [52.241198, 6.851607]
 ---
 
 # Guest Lecture for Global Entrepreneurship Week

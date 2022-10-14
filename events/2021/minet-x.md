@@ -3,6 +3,7 @@ date: 2021-08-13
 city: Remote
 country: IN
 venue: The Mother's International School
+coordinates: [51.5533263, -0.0554439]
 ---
 
 # MINET X 2021 keynote

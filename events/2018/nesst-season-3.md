@@ -6,6 +6,7 @@ venue: Saxion Center for Entrepreneurship
 link: https://www.facebook.com/events/1838806939471157/
 icon: /images/icons/nesst.png
 color: "#ffb600"
+coordinates: [51.912303, 4.430355]
 ---
 
 # Nesst Season 3

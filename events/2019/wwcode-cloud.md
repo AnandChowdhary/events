@@ -3,6 +3,7 @@ date: 2019-09-29
 city: San Francisco Bay Area
 country: US
 venue: Accenture, Salesforce Tower
+coordinates: [37.779026, -122.419906]
 ---
 
 # Women Who Code Cloud 2019

@@ -3,6 +3,7 @@ date: 2020-07-15
 city: New Delhi
 country: IN
 venue: Indian Institute of Technology Delhi
+coordinates: [28.544831, 77.191623]
 ---
 
 # Changemaker Workshop at Enactus, IIT Delhi

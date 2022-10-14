@@ -3,6 +3,7 @@ date: 2016-09-16
 city: New Delhi
 country: IN
 venue: Delhi Technological University
+coordinates: [28.7505, 77.116801]
 ---
 
 # SIP Launch (DTU)

@@ -3,6 +3,7 @@ date: 2019-07-08
 city: Enschede
 country: NL
 venue: El Niño
+coordinates: [52.363883, 4.884801]
 ---
 
 # Design workshop for El Niño

@@ -6,6 +6,7 @@ venue: The Cee Spot
 link: https://www.facebook.com/events/1838806939471157/
 icon: /images/icons/nesst.png
 color: "#ffb600"
+coordinates: [52.220986, 6.894054]
 ---
 
 # Nesst Season 2

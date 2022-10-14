@@ -3,6 +3,7 @@ date: 2018-09-20
 city: Enschede
 country: NL
 venue: De Museumfabriek
+coordinates: [52.2324775, 6.8950055]
 ---
 
 # Speakup

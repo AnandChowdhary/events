@@ -3,6 +3,7 @@ date: 2019-08-21
 city: New Delhi
 country: IN
 venue: The Mother's International School
+coordinates: [28.613895, 77.209006]
 ---
 
 # MINET X 2019

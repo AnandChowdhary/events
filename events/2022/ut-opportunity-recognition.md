@@ -3,6 +3,7 @@ date: 2022-09-12
 city: Enschede
 country: NL
 venue: University of Twente
+coordinates: [52.241198, 6.851607]
 ---
 
 # Guest lecture on opportunity recognition

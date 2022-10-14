@@ -3,6 +3,7 @@ date: 2017-05-07
 city: New Delhi
 country: IN
 venue: 91springboard Okhla
+coordinates: [28.5667, 77.2833]
 ---
 
 # Tech Charcha by Facebook DevC

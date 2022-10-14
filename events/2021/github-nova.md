@@ -3,6 +3,7 @@ date: 2021-10-05
 city: Remote
 country: US
 venue: GitHub Nova 2021
+coordinates: [50.657115, 14.065064]
 ---
 
 # Open source as a startup at GitHub Nova 2021

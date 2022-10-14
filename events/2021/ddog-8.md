@@ -3,6 +3,7 @@ date: 2021-11-09
 city: Utrecht
 country: NL
 venue: OGD ict diensten
+coordinates: [52.514871, 4.995898]
 ---
 
 # COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community
