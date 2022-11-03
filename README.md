@@ -9,11 +9,16 @@ This repository uses the [AnandChowdhary/events-summary](https://github.com/Anan
 <!--events-->
 
 ## 🎤 Summary
-- 37 events in 8 years
+- 38 events in 8 years
 - 5 countries — 🇮🇳🇳🇱🇬🇧🇲🇾🇺🇸
-## 📜 Past events
+## 🔮 Upcoming events
 
 ### 2022
+
+- [**How to open source as a startup at GitHub Universe**](./events/2022/github-universe.md), November 9, 2022  
+  🇺🇸 Yerba Buena Center for the Arts, San Francisco
+
+## 📜 Past events
 
 - [**Guest lecture on opportunity recognition**](./events/2022/ut-opportunity-recognition.md), September 12, 2022  
   🇳🇱 University of Twente, Enschede
