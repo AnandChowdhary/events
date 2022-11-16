@@ -4,6 +4,7 @@
     "name": "Keynote at coDelhi",
     "date": "2014-03-22T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "venue": "Delhi Technological University",
     "city": "New Delhi",
     "coordinates": [
@@ -16,6 +17,7 @@
     "name": "SIP Launch (DTU)",
     "date": "2016-09-16T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "venue": "Delhi Technological University",
     "city": "New Delhi",
     "coordinates": [
@@ -28,6 +30,7 @@
     "name": "Pitch Training for Hardstart",
     "date": "2017-10-31T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "Hardstart",
     "city": "Enschede",
     "coordinates": [
@@ -40,6 +43,7 @@
     "name": "Startup24",
     "date": "2017-11-11T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "Novel-T",
     "city": "Enschede",
     "coordinates": [
@@ -52,6 +56,7 @@
     "name": "Tech Charcha by Facebook DevC",
     "date": "2017-05-07T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "venue": "91springboard Okhla",
     "city": "New Delhi",
     "coordinates": [
@@ -64,6 +69,7 @@
     "name": "TEDxHaileyRoad",
     "date": "2017-06-17T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "venue": "91springboard",
     "city": "Gurugram",
     "coordinates": [
@@ -76,6 +82,7 @@
     "name": "CLS Engagement Pitch",
     "date": "2018-11-15T00:00:00.000Z",
     "emoji": "🇬🇧",
+    "country": "GB",
     "venue": "LABS Holborn",
     "city": "London",
     "coordinates": [
@@ -88,6 +95,7 @@
     "name": "Dutch Design Week",
     "date": "2019-06-12T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "Klokgebouw Cultuurhallen",
     "city": "Eindhoven",
     "coordinates": [
@@ -100,6 +108,7 @@
     "name": "IITK eSummit",
     "date": "2018-08-25T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "venue": "Indian Institute of Technology",
     "city": "Kanpur",
     "coordinates": [
@@ -112,6 +121,7 @@
     "name": "GOGBOT",
     "date": "2018-09-06T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "City Center",
     "city": "Enschede",
     "coordinates": [
@@ -124,6 +134,7 @@
     "name": "HackIIITD",
     "date": "2018-08-18T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "venue": "Indraprastha Institute of Information Technology",
     "city": "New Delhi",
     "coordinates": [
@@ -136,6 +147,7 @@
     "name": "MINET X 2018",
     "date": "2018-08-08T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "venue": "The Mother's International School",
     "city": "New Delhi",
     "coordinates": [
@@ -148,6 +160,7 @@
     "name": "Nesst Season 2",
     "date": "2018-03-07T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "The Cee Spot",
     "city": "Enschede",
     "coordinates": [
@@ -160,6 +173,7 @@
     "name": "Nesst Season 3",
     "date": "2018-09-11T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "Saxion Center for Entrepreneurship",
     "city": "Enschede",
     "coordinates": [
@@ -172,6 +186,7 @@
     "name": "Twente's Online Open Day",
     "date": "2018-05-16T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "University of Twente",
     "city": "Enschede",
     "coordinates": [
@@ -184,6 +199,7 @@
     "name": "Speakup",
     "date": "2018-09-20T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "De Museumfabriek",
     "city": "Enschede",
     "coordinates": [
@@ -196,6 +212,7 @@
     "name": "AKEPT-WIEF Social Enterprise Forum",
     "date": "2018-10-22T00:00:00.000Z",
     "emoji": "🇲🇾",
+    "country": "MY",
     "venue": "International Islamic University Malaysia",
     "city": "Kuala Lumpur",
     "coordinates": [
@@ -208,6 +225,7 @@
     "name": "Design workshop for El Niño",
     "date": "2019-07-08T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "El Niño",
     "city": "Enschede",
     "coordinates": [
@@ -220,6 +238,7 @@
     "name": "Hive 01 Season 5",
     "date": "2019-06-12T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "U Parkhotel",
     "city": "Enschede",
     "coordinates": [
@@ -232,6 +251,7 @@
     "name": "MINET X 2019",
     "date": "2019-08-21T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "venue": "The Mother's International School",
     "city": "New Delhi",
     "coordinates": [
@@ -244,6 +264,7 @@
     "name": "Keynote for OneUp, Santa Clara University",
     "date": "2019-10-21T00:00:00.000Z",
     "emoji": "🇺🇸",
+    "country": "US",
     "venue": "Santa Clara University",
     "city": "San Francisco Bay Area",
     "coordinates": [
@@ -256,6 +277,7 @@
     "name": "Women Who Code Cloud 2019",
     "date": "2019-09-29T00:00:00.000Z",
     "emoji": "🇺🇸",
+    "country": "US",
     "venue": "Accenture, Salesforce Tower",
     "city": "San Francisco Bay Area",
     "coordinates": [
@@ -268,6 +290,7 @@
     "name": "Changemaker Workshop at Enactus, IIT Delhi",
     "date": "2020-07-15T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "venue": "Indian Institute of Technology Delhi",
     "city": "New Delhi",
     "coordinates": [
@@ -280,6 +303,7 @@
     "name": "Mentoring for Supreme Incubator",
     "date": "2020-08-31T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "city": "New Delhi",
     "coordinates": [
       28.613895,
@@ -291,6 +315,7 @@
     "name": "Guest Lecture for Global Entrepreneurship Week",
     "date": "2020-11-18T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "University of Twente",
     "city": "Enschede",
     "coordinates": [
@@ -303,6 +328,7 @@
     "name": "Guest Lecture on Opportunity Recognition",
     "date": "2020-09-07T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "University of Twente",
     "city": "Enschede",
     "coordinates": [
@@ -315,6 +341,7 @@
     "name": "COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community",
     "date": "2021-11-09T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "OGD ict diensten",
     "city": "Utrecht",
     "coordinates": [
@@ -327,6 +354,7 @@
     "name": "Innovation & Entrepreneurship at DotSlash, SVNIT",
     "date": "2021-01-24T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "venue": "Sardar Vallabhbhai National Institute of Technology",
     "city": "Surat",
     "coordinates": [
@@ -339,6 +367,7 @@
     "name": "Open source as a startup at GitHub Nova 2021",
     "date": "2021-10-05T00:00:00.000Z",
     "emoji": "🇺🇸",
+    "country": "US",
     "venue": "GitHub Nova 2021",
     "city": "Remote",
     "coordinates": [
@@ -351,6 +380,7 @@
     "name": "Helping fight COVID-19 using GitHub at GitHub Satellite 2021",
     "date": "2021-03-26T00:00:00.000Z",
     "emoji": "🇺🇸",
+    "country": "US",
     "venue": "GitHub Satellite 2021",
     "city": "Remote",
     "coordinates": [
@@ -363,6 +393,7 @@
     "name": "MINET X 2021 keynote",
     "date": "2021-08-13T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "venue": "The Mother's International School",
     "city": "Remote",
     "coordinates": [
@@ -375,6 +406,7 @@
     "name": "Open source from scratch for CodeChef-VIT",
     "date": "2021-10-11T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "venue": "Vellore Institute of Technology",
     "city": "Vellore",
     "coordinates": [
@@ -387,6 +419,7 @@
     "name": "Guest lecture at University of Twente",
     "date": "2021-09-13T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "University of Twente",
     "city": "Enschede",
     "coordinates": [
@@ -399,6 +432,7 @@
     "name": "How to open source as a startup at GitHub Universe",
     "date": "2022-11-09T00:00:00.000Z",
     "emoji": "🇺🇸",
+    "country": "US",
     "venue": "Yerba Buena Center for the Arts",
     "city": "San Francisco",
     "coordinates": [
@@ -411,6 +445,7 @@
     "name": "Guest lecture on inclusive entrepreneurship",
     "date": "2022-06-24T00:00:00.000Z",
     "emoji": "🇮🇳",
+    "country": "IN",
     "venue": "Indian Institute of Management, Ahmedabad",
     "city": "Ahmedabad, India",
     "coordinates": [
@@ -423,6 +458,7 @@
     "name": "Startup School Kickoff Call Q&A",
     "date": "2022-03-21T00:00:00.000Z",
     "emoji": "🇺🇸",
+    "country": "US",
     "venue": "Y Combinator Startup School",
     "city": "Remote",
     "coordinates": [
@@ -435,6 +471,7 @@
     "name": "Twitter Space on \"Why make your product open source?\"",
     "date": "2022-05-12T00:00:00.000Z",
     "emoji": "🇺🇸",
+    "country": "US",
     "venue": "Twitter Space",
     "city": "Remote",
     "coordinates": [
@@ -447,6 +484,7 @@
     "name": "Guest lecture on opportunity recognition",
     "date": "2022-09-12T00:00:00.000Z",
     "emoji": "🇳🇱",
+    "country": "NL",
     "venue": "University of Twente",
     "city": "Enschede",
     "coordinates": [
