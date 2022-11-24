@@ -15,9 +15,34 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+      - name: Setup Node.js 14.x
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - name: Install emoji-flags
+        run: npm install emoji-flags
       - name: Update summary & API
         uses: AnandChowdhary/notes-summary@HEAD
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
           commitMessage: ":pencil: Update events summary [skip ci]"
-          dirName: "events"
+          directory: "events"
+          caption: |
+            const emojiFlags = require("emoji-flags");
+            const result = [];
+
+            if (attributes.country)
+              result.push(emojiFlags.countryCode(attributes.country).emoji);
+            else result.push("🌍");
+
+            if (attributes.venue && attributes.city)
+              result.push(`${attributes.venue}, ${attributes.city}`);
+            else if (attributes.venue)
+              result.push(attributes.venue);
+            else if (attributes.city)
+              result.push(attributes.city);
+            
+            if (attributes.remote)
+              result.push("(remote)");
+
+            return result.join(" ").trim();
