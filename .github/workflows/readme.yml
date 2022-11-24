@@ -45,4 +45,7 @@ jobs:
             if (attributes.remote)
               result.push("(remote)");
 
-            return result.join(" ").trim();
+            let firstLine = result.join(" ").trim();
+            if (attributes.video)
+              firstLine += `\n🎥 [Watch recording →](${attributes.video})`;
+            return firstLine;
