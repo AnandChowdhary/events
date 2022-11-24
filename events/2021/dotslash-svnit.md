@@ -1,8 +1,7 @@
 ---
 date: 2021-01-24
-city: Surat
-country: IN
 venue: Sardar Vallabhbhai National Institute of Technology
+remote: true
 coordinates: [21.16068, 72.789558]
 ---
 

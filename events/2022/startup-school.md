@@ -1,9 +1,7 @@
 ---
 date: 2022-03-21
-city: Remote
 venue: Y Combinator Startup School
-country: US
-coordinates: [37.386316, -122.067028]
+remote: true
 ---
 
 # Startup School Kickoff Call Q&A

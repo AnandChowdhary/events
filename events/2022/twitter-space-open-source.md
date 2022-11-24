@@ -1,9 +1,7 @@
 ---
 date: 2022-05-12
-city: Remote
 venue: Twitter Space
-country: US
-coordinates: [40.780765, -73.97408899999999]
+remote: true
 ---
 
 # Twitter Space on "Why make your product open source?"

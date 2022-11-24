@@ -1,9 +1,8 @@
 ---
 date: 2021-10-11
-city: Vellore
-country: IN
 venue: Vellore Institute of Technology
-coordinates: [12.970280500000001, 79.15803650000001]
+remote: true
+coordinates: [12.97028, 79.15803]
 ---
 
 # Open source from scratch for CodeChef-VIT

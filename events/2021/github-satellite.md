@@ -1,9 +1,7 @@
 ---
 date: 2021-03-26
-city: Remote
-country: US
 venue: GitHub Satellite 2021
-coordinates: [28.812146, -81.923945]
+remote: true
 video: https://www.youtube.com/watch?v=7QF8tpEiYx8
 ---
 

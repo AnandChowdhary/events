@@ -1,9 +1,7 @@
 ---
 date: 2022-06-24
-city: Ahmedabad, India
 venue: Indian Institute of Management, Ahmedabad
-country: IN
-coordinates: [23.033066625, 72.5346705]
+remote: true
 ---
 
 # Guest lecture on inclusive entrepreneurship

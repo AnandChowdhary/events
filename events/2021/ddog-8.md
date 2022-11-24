@@ -1,9 +1,7 @@
 ---
 date: 2021-11-09
-city: Utrecht
-country: NL
-venue: OGD ict diensten
-coordinates: [52.514871, 4.995898]
+venue: Dutch DevOps & GitHub Community
+remote: true
 video: https://www.youtube.com/watch?v=qWvFfPI-epA
 ---
 

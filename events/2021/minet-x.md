@@ -1,8 +1,7 @@
 ---
 date: 2021-08-13
-city: Remote
-country: IN
 venue: The Mother's International School
+remote: true
 coordinates: [51.5533263, -0.0554439]
 ---
 
