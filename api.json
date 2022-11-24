@@ -1,495 +1,703 @@
 [
   {
     "slug": "codelhi.md",
-    "name": "Keynote at coDelhi",
+    "path": "events/2014/codelhi.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2014/codelhi.md",
+    "title": "Keynote at coDelhi",
     "date": "2014-03-22T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "venue": "Delhi Technological University",
-    "city": "New Delhi",
-    "coordinates": [
-      28.7505,
-      77.116801
-    ]
+    "excerpt": "I spoke about education technology and my startup ClassRebels at Co|Delhi, the flagship Android and web development hackathon of Delhi Technological University (DTU). I delivered two talks, one on the first day about edtech and the other about our stack.",
+    "words": 43,
+    "attributes": {
+      "date": "2014-03-22T00:00:00.000Z",
+      "city": "New Delhi",
+      "country": "IN",
+      "venue": "Delhi Technological University",
+      "coordinates": [
+        28.7505,
+        77.116801
+      ]
+    }
   },
   {
     "slug": "sip-launch-dtu.md",
-    "name": "SIP Launch (DTU)",
+    "path": "events/2016/sip-launch-dtu.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2016/sip-launch-dtu.md",
+    "title": "SIP Launch (DTU)",
     "date": "2016-09-16T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "venue": "Delhi Technological University",
-    "city": "New Delhi",
-    "coordinates": [
-      28.7505,
-      77.116801
-    ]
-  },
-  {
-    "slug": "hardstart-pitch-training.md",
-    "name": "Pitch Training for Hardstart",
-    "date": "2017-10-31T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "Hardstart",
-    "city": "Enschede",
-    "coordinates": [
-      52.220986,
-      6.894054
-    ]
-  },
-  {
-    "slug": "startup24.md",
-    "name": "Startup24",
-    "date": "2017-11-11T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "Novel-T",
-    "city": "Enschede",
-    "coordinates": [
-      52.220986,
-      6.894054
-    ]
+    "excerpt": "I was the keynote speaker at the launch of the Startup Internship Portal of Delhi Technological University (DTU), where I did the first public revealing of Oswald Labs' R&D blind-friendly smartphone OS, Shravan and talked about the opportunity of working with startups. The event was organized by the Entrepreneurship Cell of DTU to bridge the gap between the industry and students.",
+    "words": 63,
+    "attributes": {
+      "date": "2016-09-16T00:00:00.000Z",
+      "city": "New Delhi",
+      "country": "IN",
+      "venue": "Delhi Technological University",
+      "coordinates": [
+        28.7505,
+        77.116801
+      ]
+    }
   },
   {
     "slug": "tech-charcha.md",
-    "name": "Tech Charcha by Facebook DevC",
+    "path": "events/2017/tech-charcha.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2017/tech-charcha.md",
+    "title": "Tech Charcha by Facebook DevC",
     "date": "2017-05-07T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "venue": "91springboard Okhla",
-    "city": "New Delhi",
-    "coordinates": [
-      28.5667,
-      77.2833
-    ]
+    "excerpt": "I was part of a panel discussion on the future of technology by Facebook's Developer Circles Delhi-NCR along with Chinmaya Saxena, Developer Programs Lead, Facebook India; Saransh Kataria, Chapter Lead, Facebook Developer Circle Delhi; and Shubhamoy Chakrabarty, COO at Cloudtub, Inc. We talked about upcoming technologies such as VR and AI, and interesting areas for investment such as education and inclusion.",
+    "words": 157,
+    "attributes": {
+      "date": "2017-05-07T00:00:00.000Z",
+      "city": "New Delhi",
+      "country": "IN",
+      "venue": "91springboard Okhla",
+      "coordinates": [
+        28.5667,
+        77.2833
+      ]
+    }
   },
   {
     "slug": "tedx-hailey-road.md",
-    "name": "TEDxHaileyRoad",
+    "path": "events/2017/tedx-hailey-road.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2017/tedx-hailey-road.md",
+    "title": "TEDxHaileyRoad",
     "date": "2017-06-17T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "venue": "91springboard",
-    "city": "Gurugram",
-    "coordinates": [
-      28.46169,
-      77.081458
-    ]
+    "excerpt": "I gave my first TEDx talk at TEDxHaileyRoad in New Delhi in June 2017 on Designing for Inclusion, where I talked about my story in starting Oswald Labs and rethinking today's approach to ignore accessibility and inclusion in design.",
+    "words": 40,
+    "attributes": {
+      "date": "2017-06-17T00:00:00.000Z",
+      "city": "Gurugram",
+      "country": "IN",
+      "venue": "91springboard",
+      "coordinates": [
+        28.46169,
+        77.081458
+      ]
+    }
   },
   {
-    "slug": "cls.md",
-    "name": "CLS Engagement Pitch",
-    "date": "2018-11-15T00:00:00.000Z",
-    "emoji": "🇬🇧",
-    "country": "GB",
-    "venue": "LABS Holborn",
-    "city": "London",
-    "coordinates": [
-      51.514738,
-      -0.147356
-    ]
+    "slug": "hardstart-pitch-training.md",
+    "path": "events/2017/hardstart-pitch-training.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2017/hardstart-pitch-training.md",
+    "title": "Pitch Training for Hardstart",
+    "date": "2017-10-31T00:00:00.000Z",
+    "excerpt": "I developed and conducted a startup pitching workshop for student entrepreneurship organization and incubator Hardstart's flagship pitching event, Pitch that Bitch. It was the first time that I conducted a workshop for fellow student entrepreneurs, and it was definitely a very interesting experience.",
+    "words": 85,
+    "attributes": {
+      "date": "2017-10-31T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "Hardstart",
+      "coordinates": [
+        52.220986,
+        6.894054
+      ]
+    }
   },
   {
-    "slug": "dutch-design-week.md",
-    "name": "Dutch Design Week",
-    "date": "2019-06-12T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "Klokgebouw Cultuurhallen",
-    "city": "Eindhoven",
-    "coordinates": [
-      51.44845,
-      5.4579645
-    ]
-  },
-  {
-    "slug": "esummit.md",
-    "name": "IITK eSummit",
-    "date": "2018-08-25T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "venue": "Indian Institute of Technology",
-    "city": "Kanpur",
-    "coordinates": [
-      26.51,
-      80.23
-    ]
-  },
-  {
-    "slug": "gogbot.md",
-    "name": "GOGBOT",
-    "date": "2018-09-06T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "City Center",
-    "city": "Enschede",
-    "coordinates": [
-      52.22,
-      6.9
-    ]
-  },
-  {
-    "slug": "hackiiitd.md",
-    "name": "HackIIITD",
-    "date": "2018-08-18T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "venue": "Indraprastha Institute of Information Technology",
-    "city": "New Delhi",
-    "coordinates": [
-      18.53115,
-      73.867663
-    ]
-  },
-  {
-    "slug": "minet-x-2018.md",
-    "name": "MINET X 2018",
-    "date": "2018-08-08T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "venue": "The Mother's International School",
-    "city": "New Delhi",
-    "coordinates": [
-      28.613895,
-      77.209006
-    ]
+    "slug": "startup24.md",
+    "path": "events/2017/startup24.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2017/startup24.md",
+    "title": "Startup24",
+    "date": "2017-11-11T00:00:00.000Z",
+    "excerpt": "Startup24 is the flagship startup weekend-like event in the Netherlands which happens in 12 cities simultaneously. I was invited to Startup24 Enschede to do a pitching working for the participants before their final jury pitches, and I was also part of their \"midnight jury\" for 2-minute pitches at midnight. During 24 hours, participants formed a team and learn to transform their ideas into a validated concept and present it in a startup pitch.",
+    "words": 114,
+    "attributes": {
+      "date": "2017-11-11T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "Novel-T",
+      "coordinates": [
+        52.220986,
+        6.894054
+      ]
+    }
   },
   {
     "slug": "nesst-season-2.md",
-    "name": "Nesst Season 2",
+    "path": "events/2018/nesst-season-2.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/nesst-season-2.md",
+    "title": "Nesst Season 2",
     "date": "2018-03-07T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "The Cee Spot",
-    "city": "Enschede",
-    "coordinates": [
-      52.220986,
-      6.894054
-    ]
-  },
-  {
-    "slug": "nesst-season-3.md",
-    "name": "Nesst Season 3",
-    "date": "2018-09-11T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "Saxion Center for Entrepreneurship",
-    "city": "Enschede",
-    "coordinates": [
-      51.912303,
-      4.430355
-    ]
+    "excerpt": "In January 2018, I was featured by Het Financieele Dagblad (Dutch Financial Times) in their annual list of the Netherlands' 50 most-innovative young entrepreneurs and professionals. Shortly after, I was invited by the Enschede-based non-profit startup accelerator, Nesst (New Entrepreneurial Student Society Twente), to deliver the opening keynote for their upcoming season. My introduction, in Dutch, was:\n\nHet nieuwe seizoen van Stichting Nesst begint op",
+    "words": 264,
+    "attributes": {
+      "date": "2018-03-07T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "The Cee Spot",
+      "link": "https://www.facebook.com/events/1838806939471157/",
+      "icon": "/images/icons/nesst.png",
+      "color": "#ffb600",
+      "coordinates": [
+        52.220986,
+        6.894054
+      ]
+    }
   },
   {
     "slug": "online-open-day.md",
-    "name": "Twente's Online Open Day",
+    "path": "events/2018/online-open-day.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/online-open-day.md",
+    "title": "Twente's Online Open Day",
     "date": "2018-05-16T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "University of Twente",
-    "city": "Enschede",
-    "coordinates": [
-      52.241198,
-      6.851607
-    ]
+    "excerpt": "At the University of Twente's first annual Online Open Day, I spoke about startups, entrepreneurship, and technology at the university, as part of a panel called \"Beyond Your Studies,\" moderated by co-founder and project manager of DesignLab, Miriam Iliohan.\n\nscreen1\nscreen2",
+    "words": 43,
+    "attributes": {
+      "date": "2018-05-16T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "University of Twente",
+      "coordinates": [
+        52.241198,
+        6.851607
+      ]
+    }
+  },
+  {
+    "slug": "minet-x-2018.md",
+    "path": "events/2018/minet-x-2018.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/minet-x-2018.md",
+    "title": "MINET X 2018",
+    "date": "2018-08-08T00:00:00.000Z",
+    "excerpt": "I went back to my alma mater, The Mother's International School, as the keynote speaker for their annual technology and entrepreneurship event, X, organized by the computer club MINET. I spoke about my journey from a highschool student to today, and the lessons that came with it. The talk was a modified version of the NESST keynote. Photos (c) Sai Raunaq Gosain.\n\nimg_7988\nimg_8045\nimg_7995\nimg_7997",
+    "words": 64,
+    "attributes": {
+      "date": "2018-08-08T00:00:00.000Z",
+      "city": "New Delhi",
+      "country": "IN",
+      "venue": "The Mother's International School",
+      "coordinates": [
+        28.613895,
+        77.209006
+      ]
+    }
+  },
+  {
+    "slug": "hackiiitd.md",
+    "path": "events/2018/hackiiitd.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/hackiiitd.md",
+    "title": "HackIIITD",
+    "date": "2018-08-18T00:00:00.000Z",
+    "excerpt": "As our first-ever sponsored event, I was a speaker, mentor, and judge at IIIT Delhi's flagship hackathon, HackIIITD. Oswald Labs sponsored the winning prize (a spot in our accelerator program) along with a cash prize. We saw some exciting ideas — everything from 2FA and key management for blockchain to autonomous drones for military applications to meme video generators. HackIIITD was a free 24-hour hackathon part of Esya 2018, the annual technology festival of IIIT Delhi.",
+    "words": 76,
+    "attributes": {
+      "date": "2018-08-18T00:00:00.000Z",
+      "city": "New Delhi",
+      "country": "IN",
+      "venue": "Indraprastha Institute of Information Technology",
+      "coordinates": [
+        18.53115,
+        73.867663
+      ]
+    }
+  },
+  {
+    "slug": "esummit.md",
+    "path": "events/2018/esummit.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/esummit.md",
+    "title": "IITK eSummit",
+    "date": "2018-08-25T00:00:00.000Z",
+    "excerpt": "At IIT Kanpur's flagship entrepreneurship event, eSummit 2018, I was invited to speak about my journey, lessons, and upcoming opportunities in technology. I was part of the Forbes 30 Under 30 session which featured entrepreneurs from this year's list sharing their experiences before a Q&A session.\n\neSummit was organized by the entrepreneurship cell of Indian Institute of Technology, Kanpur. I was joined by Nipun Goyal, co-founder of Curofy, and Abhinav Pathak co-founder and CEO of Perpule.",
+    "words": 81,
+    "attributes": {
+      "date": "2018-08-25T00:00:00.000Z",
+      "city": "Kanpur",
+      "country": "IN",
+      "venue": "Indian Institute of Technology",
+      "coordinates": [
+        26.51,
+        80.23
+      ]
+    }
+  },
+  {
+    "slug": "gogbot.md",
+    "path": "events/2018/gogbot.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/gogbot.md",
+    "title": "GOGBOT",
+    "date": "2018-09-06T00:00:00.000Z",
+    "excerpt": "GOGBOT is an annual art, technology, and music festival in Enschede. In 2011, the festival was awarded the National Innovation Award, being the most innovative festival in the Netherlands. In 2018, my team and I were featured in the festival. The theme for this year's GOGBOT was \"FUTURE FLASH 200: From Frankenstein to Hyperbrain\". Our project, Frankie, is an AI-powered frankenstein's monster face. Users could talk to Frankie and ask various questions.",
+    "words": 82,
+    "attributes": {
+      "date": "2018-09-06T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "City Center",
+      "coordinates": [
+        52.22,
+        6.9
+      ]
+    }
+  },
+  {
+    "slug": "nesst-season-3.md",
+    "path": "events/2018/nesst-season-3.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/nesst-season-3.md",
+    "title": "Nesst Season 3",
+    "date": "2018-09-11T00:00:00.000Z",
+    "excerpt": "New Entrepreneurial Student Society Twente (NESST) is a not-for-profit early-stage startup accelerator in Enschede. After being a speaker, advisor, and Dragons' Den judge at their third season, I was invited as the keynote speaker for the first day of Season 3.",
+    "words": 44,
+    "attributes": {
+      "date": "2018-09-11T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "Saxion Center for Entrepreneurship",
+      "link": "https://www.facebook.com/events/1838806939471157/",
+      "icon": "/images/icons/nesst.png",
+      "color": "#ffb600",
+      "coordinates": [
+        51.912303,
+        4.430355
+      ]
+    }
   },
   {
     "slug": "speakup.md",
-    "name": "Speakup",
+    "path": "events/2018/speakup.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/speakup.md",
+    "title": "Speakup",
     "date": "2018-09-20T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "De Museumfabriek",
-    "city": "Enschede",
-    "coordinates": [
-      52.2324775,
-      6.8950055
-    ]
+    "excerpt": "In September 2018, Speakup, an Enschede-based VoIP and cloud telephony company, celebrated its 15th birthday. At the Speakup Partner & Jubileum Event, I was one of the presenters to showcase their upcoming projects into spaces like AI and mobile. I gave a demo of Ara, an AI-powered assistant for work, which raised its seed round from Speakup.",
+    "words": 59,
+    "attributes": {
+      "date": "2018-09-20T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "De Museumfabriek",
+      "coordinates": [
+        52.2324775,
+        6.8950055
+      ]
+    }
   },
   {
     "slug": "wief-2018.md",
-    "name": "AKEPT-WIEF Social Enterprise Forum",
+    "path": "events/2018/wief-2018.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/wief-2018.md",
+    "title": "AKEPT-WIEF Social Enterprise Forum",
     "date": "2018-10-22T00:00:00.000Z",
-    "emoji": "🇲🇾",
-    "country": "MY",
-    "venue": "International Islamic University Malaysia",
-    "city": "Kuala Lumpur",
-    "coordinates": [
-      3.255572,
-      101.738651
-    ]
+    "excerpt": "I was invited to Kuala Lumpur, Malaysia, as a speaker on social entrepreneurship at the AKEPT-WIEF Social Enterprise Forum. The event was a collaboration between the higher education and leadership academy AKEPT and the World Islamic Economic Forum Foundation. As a panelist on the Plenary Session 5 on \"Social Enterprise in Universities\", I shared the stage with Talib S.",
+    "words": 306,
+    "attributes": {
+      "date": "2018-10-22T00:00:00.000Z",
+      "city": "Kuala Lumpur",
+      "country": "MY",
+      "venue": "International Islamic University Malaysia",
+      "link": "https://wief.org/wet_event/akept-wief-social-enterprise-forum/",
+      "coordinates": [
+        3.255572,
+        101.738651
+      ]
+    }
   },
   {
-    "slug": "el-nino-design.md",
-    "name": "Design workshop for El Niño",
-    "date": "2019-07-08T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "El Niño",
-    "city": "Enschede",
-    "coordinates": [
-      52.363883,
-      4.884801
-    ]
+    "slug": "cls.md",
+    "path": "events/2018/cls.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/cls.md",
+    "title": "CLS Engagement Pitch",
+    "date": "2018-11-15T00:00:00.000Z",
+    "excerpt": "On a Thursday/Friday in November 2018, my team and I built CLShare, an employee engagement app for CLS Group in London. The app was the winner of the £10,000 CLS Engagement App Challenge. In my talk, I spoke about gamification as a tool for employee engagement, a focus on accessibility, and the important of receiving feedback from employees.",
+    "words": 61,
+    "attributes": {
+      "date": "2018-11-15T00:00:00.000Z",
+      "city": "London",
+      "country": "GB",
+      "venue": "LABS Holborn",
+      "coordinates": [
+        51.514738,
+        -0.147356
+      ]
+    }
+  },
+  {
+    "slug": "dutch-design-week.md",
+    "path": "events/2018/dutch-design-week.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/dutch-design-week.md",
+    "title": "Dutch Design Week",
+    "date": "2019-06-12T00:00:00.000Z",
+    "excerpt": "I showcased Shravan Apps by Oswald Labs as part of the Mind the Step exhibition at the Dutch Design Week 2018 in the Klokgebouw in Eindhoven. The event featured design-driven technology and research by the 4TU, the consortium of Dutch technical universities.\n\n\"This year---supported by the UT's DesignLab---Mind the Step will present projects at the interface of design, research and technology to 70,000 expected visitors in Eindhoven.",
+    "words": 242,
+    "attributes": {
+      "date": "2019-06-12T00:00:00.000Z",
+      "city": "Eindhoven",
+      "country": "NL",
+      "venue": "Klokgebouw Cultuurhallen",
+      "coordinates": [
+        51.44845,
+        5.4579645
+      ]
+    }
   },
   {
     "slug": "hive-01-season-5.md",
-    "name": "Hive 01 Season 5",
+    "path": "events/2019/hive-01-season-5.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2019/hive-01-season-5.md",
+    "title": "Hive 01 Season 5",
     "date": "2019-06-12T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "U Parkhotel",
-    "city": "Enschede",
-    "coordinates": [
-      52.220986,
-      6.894054
-    ]
+    "excerpt": "In June 2019, Hive 01 Enschede (formerly NESST Twente) organized the Dragon's Den pitching event for startups. I was one of the five Dragons and we awarded three prizes. Previously in the season, I was also a mentor for startups and keynote speaker during the opening night. Screenshot of Facebook post\nAnand with winners\nSponsor logos",
+    "words": 57,
+    "attributes": {
+      "date": "2019-06-12T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "U Parkhotel",
+      "coordinates": [
+        52.220986,
+        6.894054
+      ]
+    }
+  },
+  {
+    "slug": "el-nino-design.md",
+    "path": "events/2019/el-nino-design.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2019/el-nino-design.md",
+    "title": "Design workshop for El Niño",
+    "date": "2019-07-08T00:00:00.000Z",
+    "excerpt": "On my last day as a consultant to Dutch digital development studio El Niño, I delivered a 45-minute talk entitled \"Good design, bad design\" on the principles of design. It used the North American Vexillological Association's five principles of flag design as the base of UX design.",
+    "words": 52,
+    "attributes": {
+      "date": "2019-07-08T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "El Niño",
+      "coordinates": [
+        52.363883,
+        4.884801
+      ]
+    }
   },
   {
     "slug": "minet-x-2019.md",
-    "name": "MINET X 2019",
+    "path": "events/2019/minet-x-2019.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2019/minet-x-2019.md",
+    "title": "MINET X 2019",
     "date": "2019-08-21T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "venue": "The Mother's International School",
-    "city": "New Delhi",
-    "coordinates": [
-      28.613895,
-      77.209006
-    ]
-  },
-  {
-    "slug": "oneup-scu.md",
-    "name": "Keynote for OneUp, Santa Clara University",
-    "date": "2019-10-21T00:00:00.000Z",
-    "emoji": "🇺🇸",
-    "country": "US",
-    "venue": "Santa Clara University",
-    "city": "San Francisco Bay Area",
-    "coordinates": [
-      37.779026,
-      -122.419906
-    ]
+    "excerpt": "I went back to my alma mater, The Mother's International School, as a judge and mentor their annual technology and entrepreneurship event, X, organized by the technology club MINET. Oswald Labs also offered an award to the winning team with the best startup idea.",
+    "words": 47,
+    "attributes": {
+      "date": "2019-08-21T00:00:00.000Z",
+      "city": "New Delhi",
+      "country": "IN",
+      "venue": "The Mother's International School",
+      "coordinates": [
+        28.613895,
+        77.209006
+      ]
+    }
   },
   {
     "slug": "wwcode-cloud.md",
-    "name": "Women Who Code Cloud 2019",
+    "path": "events/2019/wwcode-cloud.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2019/wwcode-cloud.md",
+    "title": "Women Who Code Cloud 2019",
     "date": "2019-09-29T00:00:00.000Z",
-    "emoji": "🇺🇸",
-    "country": "US",
-    "venue": "Accenture, Salesforce Tower",
-    "city": "San Francisco Bay Area",
-    "coordinates": [
-      37.779026,
-      -122.419906
-    ]
+    "excerpt": "In September 2019, I spoke on web accessibility at Women Who Cloud 2019, the world's first developer conference focused on the latest in and the future of cloud-based technologies targeted towards female developers. My talk was a 35-minute tutorial on building more accessible websites and webapps, with code samples and research studies. I was also extremely humbled as one of the only four male speakers out of 29 total speakers.",
+    "words": 166,
+    "attributes": {
+      "date": "2019-09-29T00:00:00.000Z",
+      "city": "San Francisco Bay Area",
+      "country": "US",
+      "venue": "Accenture, Salesforce Tower",
+      "coordinates": [
+        37.779026,
+        -122.419906
+      ],
+      "video": "https://www.facebook.com/AnandChowdhary/videos/2896608857033963/"
+    }
+  },
+  {
+    "slug": "oneup-scu.md",
+    "path": "events/2019/oneup-scu.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2019/oneup-scu.md",
+    "title": "Keynote for OneUp, Santa Clara University",
+    "date": "2019-10-21T00:00:00.000Z",
+    "excerpt": "OneUp is the startup accelerator, incubator, and student organization to support entrepreneurship at Santa Clara University in Silicon Valley. As their first event of the academic year of Fall 2019, Startup Social, they invited me to deliver a keynote about building a startup as a student. My talk was an extended version of my NESST keynote, and explained my journey through highschool, founding Oswald Labs, moving to Enschede, and being at Santa Clara.",
+    "words": 105,
+    "attributes": {
+      "date": "2019-10-21T00:00:00.000Z",
+      "city": "San Francisco Bay Area",
+      "country": "US",
+      "venue": "Santa Clara University",
+      "coordinates": [
+        37.779026,
+        -122.419906
+      ],
+      "video": "https://www.youtube.com/watch?v=zSX-yDAjUXk"
+    }
   },
   {
     "slug": "enactus-iitd-panel.md",
-    "name": "Changemaker Workshop at Enactus, IIT Delhi",
+    "path": "events/2020/enactus-iitd-panel.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2020/enactus-iitd-panel.md",
+    "title": "Changemaker Workshop at Enactus, IIT Delhi",
     "date": "2020-07-15T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "venue": "Indian Institute of Technology Delhi",
-    "city": "New Delhi",
-    "coordinates": [
-      28.544831,
-      77.191623
-    ]
+    "excerpt": "I was invited by Enactus, Indian Institute of Technology Delhi, to be part of a panel discussion about \"How failures are not [the] opposite of success, but a part of it\". This talk was part of their CHANGEMAKER workshop to help students understand the importance of learning from failures. With me on the panel was Tarusha Mittal, Chief Operations Officer of OroPocket, a fintech company. Screenshot of Zoom talk",
+    "words": 74,
+    "attributes": {
+      "date": "2020-07-15T00:00:00.000Z",
+      "city": "New Delhi",
+      "country": "IN",
+      "venue": "Indian Institute of Technology Delhi",
+      "coordinates": [
+        28.544831,
+        77.191623
+      ]
+    }
   },
   {
     "slug": "supreme-incubator.md",
-    "name": "Mentoring for Supreme Incubator",
+    "path": "events/2020/supreme-incubator.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2020/supreme-incubator.md",
+    "title": "Mentoring for Supreme Incubator",
     "date": "2020-08-31T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "city": "New Delhi",
-    "coordinates": [
-      28.613895,
-      77.209006
-    ]
+    "excerpt": "Supreme Incubator is a 6-month startup incubator consisting of a \"comprehensive curriculum, along with meetings with dedicated mentors, investor lunches, and more\". In August 2020, I was invited to mentor teams and judge startups based on their pitch for the program's virtual B-Plan Event. From 350+ registrations, 102 participants were selected to form 40 teams and work on their startup ideas.",
+    "words": 121,
+    "attributes": {
+      "date": "2020-08-31T00:00:00.000Z",
+      "city": "New Delhi",
+      "country": "IN",
+      "coordinates": [
+        28.613895,
+        77.209006
+      ]
+    }
+  },
+  {
+    "slug": "ut-opportunity-recognition.md",
+    "path": "events/2020/ut-opportunity-recognition.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2020/ut-opportunity-recognition.md",
+    "title": "Guest Lecture on Opportunity Recognition",
+    "date": "2020-09-07T00:00:00.000Z",
+    "excerpt": "During the COVID-19 pandemic, I was at home in New Delhi, India, and was invited by Dr. Rainer Harms, Associate Professor, the Netherlands Institute for Knowledge-intensive Entrepreneurship (NIKOS), University of Twente, to deliver a guest lecture on Opportunity Recognition. Since classes were remotely held over video conference, I delivered a 30-minute lecture and answers several questions about discovering new business opportunities.",
+    "words": 159,
+    "attributes": {
+      "date": "2020-09-07T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "University of Twente",
+      "coordinates": [
+        52.241198,
+        6.851607
+      ]
+    }
   },
   {
     "slug": "ut-global-entrepreneurship-week.md",
-    "name": "Guest Lecture for Global Entrepreneurship Week",
+    "path": "events/2020/ut-global-entrepreneurship-week.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2020/ut-global-entrepreneurship-week.md",
+    "title": "Guest Lecture for Global Entrepreneurship Week",
     "date": "2020-11-18T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "University of Twente",
-    "city": "Enschede",
-    "coordinates": [
-      52.241198,
-      6.851607
-    ]
-  },
-  {
-    "slug": "ut-opportunity-recognition.md",
-    "name": "Guest Lecture on Opportunity Recognition",
-    "date": "2020-09-07T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "University of Twente",
-    "city": "Enschede",
-    "coordinates": [
-      52.241198,
-      6.851607
-    ]
-  },
-  {
-    "slug": "ddog-8.md",
-    "name": "COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community",
-    "date": "2021-11-09T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "OGD ict diensten",
-    "city": "Utrecht",
-    "coordinates": [
-      52.514871,
-      4.995898
-    ]
+    "excerpt": "In September 2020, I was invited by was invited by Dr. Rainer Harms, Associate Professor, the Netherlands Institute for Knowledge-intensive Entrepreneurship (NIKOS), University of Twente, to deliver a guest lecture on Opportunity Recognition to students of Business Administration MSc.",
+    "words": 118,
+    "attributes": {
+      "date": "2020-11-18T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "University of Twente",
+      "coordinates": [
+        52.241198,
+        6.851607
+      ]
+    }
   },
   {
     "slug": "dotslash-svnit.md",
-    "name": "Innovation & Entrepreneurship at DotSlash, SVNIT",
+    "path": "events/2021/dotslash-svnit.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2021/dotslash-svnit.md",
+    "title": "Innovation & Entrepreneurship at DotSlash, SVNIT",
     "date": "2021-01-24T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "venue": "Sardar Vallabhbhai National Institute of Technology",
-    "city": "Surat",
-    "coordinates": [
-      21.16068,
-      72.789558
-    ]
-  },
-  {
-    "slug": "github-nova.md",
-    "name": "Open source as a startup at GitHub Nova 2021",
-    "date": "2021-10-05T00:00:00.000Z",
-    "emoji": "🇺🇸",
-    "country": "US",
-    "venue": "GitHub Nova 2021",
-    "city": "Remote",
-    "coordinates": [
-      50.657115,
-      14.065064
-    ]
+    "excerpt": "As my first event of 2021, I was invited to judge DotSlash, a 30-hour virtual hackathon from Sardar Vallabhbhai National Institute of Technology, Surat, and deliver a talk on Innovation & Entrepreneurship.",
+    "words": 38,
+    "attributes": {
+      "date": "2021-01-24T00:00:00.000Z",
+      "venue": "Sardar Vallabhbhai National Institute of Technology",
+      "remote": true,
+      "coordinates": [
+        21.16068,
+        72.789558
+      ]
+    }
   },
   {
     "slug": "github-satellite.md",
-    "name": "Helping fight COVID-19 using GitHub at GitHub Satellite 2021",
+    "path": "events/2021/github-satellite.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2021/github-satellite.md",
+    "title": "Helping fight COVID-19 using GitHub at GitHub Satellite 2021",
     "date": "2021-03-26T00:00:00.000Z",
-    "emoji": "🇺🇸",
-    "country": "US",
-    "venue": "GitHub Satellite 2021",
-    "city": "Remote",
-    "coordinates": [
-      28.812146,
-      -81.923945
-    ]
+    "excerpt": "During the pandemic, I moved back to India and helped start Karuna 2020, a nonprofit that distributed meals to thousands of migrant laborers and masks to frontline workers. My team and I ended up building an open source platform on top of GitHub Actions to track donations, volunteers, distributions, etc.",
+    "words": 112,
+    "attributes": {
+      "date": "2021-03-26T00:00:00.000Z",
+      "venue": "GitHub Satellite 2021",
+      "remote": true,
+      "video": "https://www.youtube.com/watch?v=7QF8tpEiYx8"
+    }
   },
   {
     "slug": "minet-x.md",
-    "name": "MINET X 2021 keynote",
+    "path": "events/2021/minet-x.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2021/minet-x.md",
+    "title": "MINET X 2021 keynote",
     "date": "2021-08-13T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "venue": "The Mother's International School",
-    "city": "Remote",
-    "coordinates": [
-      51.5533263,
-      -0.0554439
-    ]
+    "excerpt": "X is the annual technology event of my alma mater, The Mother's International School, hosted by their technology club MINET. I was the keynote speaker and remotly shared my story building a startup while I was in MINET and how I got where I am.",
+    "words": 49,
+    "attributes": {
+      "date": "2021-08-13T00:00:00.000Z",
+      "venue": "The Mother's International School",
+      "remote": true,
+      "coordinates": [
+        51.5533263,
+        -0.0554439
+      ]
+    }
+  },
+  {
+    "slug": "ut-opportunity-recognition.md",
+    "path": "events/2021/ut-opportunity-recognition.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2021/ut-opportunity-recognition.md",
+    "title": "Guest lecture at University of Twente",
+    "date": "2021-09-13T00:00:00.000Z",
+    "excerpt": "I was invited by Dr. Rainer Harms, Associate Professor, the Netherlands Institute for Knowledge-intensive Entrepreneurship (NIKOS), University of Twente to deliver a guest lecture on opportunity recognition. I have previously spoken on this topic twice at the UT, although I was (much) better prepared this time.",
+    "words": 51,
+    "attributes": {
+      "date": "2021-09-13T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "University of Twente",
+      "coordinates": [
+        52.241198,
+        6.851607
+      ]
+    }
+  },
+  {
+    "slug": "github-nova.md",
+    "path": "events/2021/github-nova.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2021/github-nova.md",
+    "title": "Open source as a startup at GitHub Nova 2021",
+    "date": "2021-10-05T00:00:00.000Z",
+    "excerpt": "GitHub Nova is a 3-day event exclusively for GitHub Stars. A 3-day exclusive event for GitHub Stars - bringing the Stars and the GitHub product teams closer together to feel connected and to celebrate the tremendous things the Stars do in the open source community. At Nova, the Stars and product teams will dive deep into GitHub features, have in-depth technical discussions, see GitHub's vision, and share and learn from each other.",
+    "words": 234,
+    "attributes": {
+      "date": "2021-10-05T00:00:00.000Z",
+      "venue": "GitHub Nova 2021",
+      "remote": true,
+      "video": "https://www.youtube.com/watch?v=RCaGjMjiwpU"
+    }
   },
   {
     "slug": "open-source-vit.md",
-    "name": "Open source from scratch for CodeChef-VIT",
+    "path": "events/2021/open-source-vit.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2021/open-source-vit.md",
+    "title": "Open source from scratch for CodeChef-VIT",
     "date": "2021-10-11T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "venue": "Vellore Institute of Technology",
-    "city": "Vellore",
-    "coordinates": [
-      12.970280500000001,
-      79.15803650000001
-    ]
+    "excerpt": "Vellore Institute of Technology's CodeChef-VIT invited me for an interview and Q&A session during their Hacktoberfest Meetup 2021. I spoke about getting started with open source, my first contributions, and how easy it is to get started. The video is available on CodeChef-VIT's YouTube channel: https://www.youtube.com/watch?v=1qLFXv6sVu4&t=1552s",
+    "words": 51,
+    "attributes": {
+      "date": "2021-10-11T00:00:00.000Z",
+      "venue": "Vellore Institute of Technology",
+      "remote": true,
+      "coordinates": [
+        12.97028,
+        79.15803
+      ]
+    }
   },
   {
-    "slug": "ut-opportunity-recognition.md",
-    "name": "Guest lecture at University of Twente",
-    "date": "2021-09-13T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "University of Twente",
-    "city": "Enschede",
-    "coordinates": [
-      52.241198,
-      6.851607
-    ]
-  },
-  {
-    "slug": "github-universe.md",
-    "name": "How to open source as a startup at GitHub Universe",
-    "date": "2022-11-09T00:00:00.000Z",
-    "emoji": "🇺🇸",
-    "country": "US",
-    "venue": "Yerba Buena Center for the Arts",
-    "city": "San Francisco",
-    "coordinates": [
-      37.7852,
-      -122.4039
-    ]
-  },
-  {
-    "slug": "iima-inclusive-entrepreneurship.md",
-    "name": "Guest lecture on inclusive entrepreneurship",
-    "date": "2022-06-24T00:00:00.000Z",
-    "emoji": "🇮🇳",
-    "country": "IN",
-    "venue": "Indian Institute of Management, Ahmedabad",
-    "city": "Ahmedabad, India",
-    "coordinates": [
-      23.033066625,
-      72.5346705
-    ]
+    "slug": "ddog-8.md",
+    "path": "events/2021/ddog-8.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2021/ddog-8.md",
+    "title": "COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community",
+    "date": "2021-11-09T00:00:00.000Z",
+    "excerpt": "A fellow GitHub Star Barbara Forbes organizes the user group Dutch DevOps & GitHub Community (DDOG):\n\nWe want to create a community for content related to DevOps and GitHub. We believe GitHub has a lot to offer and deserves a user group in the Netherlands. But we also love the different elements that enable DevOps. So we decided to combine those two into the commun",
+    "words": 167,
+    "attributes": {
+      "date": "2021-11-09T00:00:00.000Z",
+      "venue": "Dutch DevOps & GitHub Community",
+      "remote": true,
+      "video": "https://www.youtube.com/watch?v=qWvFfPI-epA"
+    }
   },
   {
     "slug": "startup-school.md",
-    "name": "Startup School Kickoff Call Q&A",
+    "path": "events/2022/startup-school.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2022/startup-school.md",
+    "title": "Startup School Kickoff Call Q&A",
     "date": "2022-03-21T00:00:00.000Z",
-    "emoji": "🇺🇸",
-    "country": "US",
-    "venue": "Y Combinator Startup School",
-    "city": "Remote",
-    "coordinates": [
-      37.386316,
-      -122.067028
-    ]
+    "excerpt": "I spoke at Y Combinator's Startup School Kickoff Call as an invited guest founder. The Startup School Kickoff Calls take place every Monday with new Startup School founders. I answered questions about my journey in Startup School, the YC batch, and running Pabio.",
+    "words": 48,
+    "attributes": {
+      "date": "2022-03-21T00:00:00.000Z",
+      "venue": "Y Combinator Startup School",
+      "remote": true
+    }
   },
   {
     "slug": "twitter-space-open-source.md",
-    "name": "Twitter Space on \"Why make your product open source?\"",
+    "path": "events/2022/twitter-space-open-source.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2022/twitter-space-open-source.md",
+    "title": "Twitter Space on \"Why make your product open source?\"",
     "date": "2022-05-12T00:00:00.000Z",
-    "emoji": "🇺🇸",
-    "country": "US",
-    "venue": "Twitter Space",
-    "city": "Remote",
-    "coordinates": [
-      40.780765,
-      -73.97408899999999
-    ]
+    "excerpt": "My friends at Nhost organized a Twitter Spaces event with GitHub Stars as speakers on the topic of making products open source. I was joined by Eddie Jaoude, Anaïs Urlichs, Lars Gyrup Brink Nielsen, and Johan Eliasson. Link to recording: https://twitter.com/i/spaces/1vOxwyZwpyNGB",
+    "words": 49,
+    "attributes": {
+      "date": "2022-05-12T00:00:00.000Z",
+      "venue": "Twitter Space",
+      "remote": true
+    }
+  },
+  {
+    "slug": "iima-inclusive-entrepreneurship.md",
+    "path": "events/2022/iima-inclusive-entrepreneurship.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2022/iima-inclusive-entrepreneurship.md",
+    "title": "Guest lecture on inclusive entrepreneurship",
+    "date": "2022-06-24T00:00:00.000Z",
+    "excerpt": "I was invited by Anuj Kapoor who teaches a new elective, Building Inclusive Products, at one of India's top business schools, IIM Ahmedabad. I spoke to around 50 second-year students from their flagship MBA course about my journey building products inclusively at Oswald Labs and Pabio.",
+    "words": 51,
+    "attributes": {
+      "date": "2022-06-24T00:00:00.000Z",
+      "venue": "Indian Institute of Management, Ahmedabad",
+      "remote": true
+    }
   },
   {
     "slug": "ut-opportunity-recognition.md",
-    "name": "Guest lecture on opportunity recognition",
+    "path": "events/2022/ut-opportunity-recognition.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2022/ut-opportunity-recognition.md",
+    "title": "Guest lecture on opportunity recognition",
     "date": "2022-09-12T00:00:00.000Z",
-    "emoji": "🇳🇱",
-    "country": "NL",
-    "venue": "University of Twente",
-    "city": "Enschede",
-    "coordinates": [
-      52.241198,
-      6.851607
-    ]
+    "excerpt": "I was invited by Dr. Rainer Harms, Associate Professor, the Netherlands Institute for Knowledge-intensive Entrepreneurship (NIKOS), University of Twente to deliver a guest lecture on opportunity recognition. I have been speaking on this topic at the UT for three years as a guest lecturer.",
+    "words": 48,
+    "attributes": {
+      "date": "2022-09-12T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "University of Twente",
+      "coordinates": [
+        52.241198,
+        6.851607
+      ]
+    }
+  },
+  {
+    "slug": "github-universe.md",
+    "path": "events/2022/github-universe.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2022/github-universe.md",
+    "title": "How to open source as a startup at GitHub Universe",
+    "date": "2022-11-09T00:00:00.000Z",
+    "excerpt": "Anand Chowdhary reflects on his journey building an accessibility technology company that started as an open source browser extension, and building and launching an open source project with 10k+ stars as a side project at his new startup.",
+    "words": 94,
+    "attributes": {
+      "date": "2022-11-09T00:00:00.000Z",
+      "city": "San Francisco",
+      "country": "US",
+      "venue": "Yerba Buena Center for the Arts",
+      "coordinates": [
+        37.7852,
+        -122.4039
+      ],
+      "video": "https://www.youtube.com/watch?v=F3dtaDJi_bo"
+    }
   }
 ]
