@@ -20,7 +20,7 @@ jobs:
         with:
           node-version: 14
       - name: Install emoji-flags
-        run: npm init -y && install emoji-flags && ls node_modules
+        run: npm init -y && npm install emoji-flags && ls node_modules
       - name: Update summary & API
         uses: AnandChowdhary/notes-summary@HEAD
         with:
