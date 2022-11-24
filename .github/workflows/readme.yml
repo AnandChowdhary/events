@@ -12,13 +12,12 @@ jobs:
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Update event summary
-        uses: AnandChowdhary/events-summary@main
-      - name: Publish package
-        uses: stefanzweifel/git-auto-commit-action@v4.9.2
+        uses: actions/checkout@v3
         with:
-          commit_message: ":pencil: Generate README summary [skip ci]"
-          commit_user_name: FindingAnand
-          commit_user_email: bot@anandchowdhary.com
-          commit_author: FindingAnand <bot@anandchowdhary.com>
+          fetch-depth: 0
+      - name: Update summary & API
+        uses: AnandChowdhary/notes-summary@HEAD
+        with:
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          commitMessage: ":pencil: Update events summary [skip ci]"
+          dirName: "events"
