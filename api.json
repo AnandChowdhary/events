@@ -6,7 +6,6 @@
     "title": "Keynote at coDelhi",
     "date": "2014-03-22T00:00:00.000Z",
     "excerpt": "I spoke about education technology and my startup ClassRebels at Co|Delhi, the flagship Android and web development hackathon of Delhi Technological University (DTU). I delivered two talks, one on the first day about edtech and the other about our stack.",
-    "words": 43,
     "attributes": {
       "date": "2014-03-22T00:00:00.000Z",
       "city": "New Delhi",
@@ -16,7 +15,8 @@
         28.7505,
         77.116801
       ]
-    }
+    },
+    "caption": "🇮🇳 Delhi Technological University, New Delhi"
   },
   {
     "slug": "sip-launch-dtu.md",
@@ -25,7 +25,6 @@
     "title": "SIP Launch (DTU)",
     "date": "2016-09-16T00:00:00.000Z",
     "excerpt": "I was the keynote speaker at the launch of the Startup Internship Portal of Delhi Technological University (DTU), where I did the first public revealing of Oswald Labs' R&D blind-friendly smartphone OS, Shravan and talked about the opportunity of working with startups. The event was organized by the Entrepreneurship Cell of DTU to bridge the gap between the industry and students.",
-    "words": 63,
     "attributes": {
       "date": "2016-09-16T00:00:00.000Z",
       "city": "New Delhi",
@@ -35,7 +34,8 @@
         28.7505,
         77.116801
       ]
-    }
+    },
+    "caption": "🇮🇳 Delhi Technological University, New Delhi"
   },
   {
     "slug": "tech-charcha.md",
@@ -44,7 +44,6 @@
     "title": "Tech Charcha by Facebook DevC",
     "date": "2017-05-07T00:00:00.000Z",
     "excerpt": "I was part of a panel discussion on the future of technology by Facebook's Developer Circles Delhi-NCR along with Chinmaya Saxena, Developer Programs Lead, Facebook India; Saransh Kataria, Chapter Lead, Facebook Developer Circle Delhi; and Shubhamoy Chakrabarty, COO at Cloudtub, Inc. We talked about upcoming technologies such as VR and AI, and interesting areas for investment such as education and inclusion.",
-    "words": 157,
     "attributes": {
       "date": "2017-05-07T00:00:00.000Z",
       "city": "New Delhi",
@@ -54,7 +53,8 @@
         28.5667,
         77.2833
       ]
-    }
+    },
+    "caption": "🇮🇳 91springboard Okhla, New Delhi"
   },
   {
     "slug": "tedx-hailey-road.md",
@@ -63,7 +63,6 @@
     "title": "TEDxHaileyRoad",
     "date": "2017-06-17T00:00:00.000Z",
     "excerpt": "I gave my first TEDx talk at TEDxHaileyRoad in New Delhi in June 2017 on Designing for Inclusion, where I talked about my story in starting Oswald Labs and rethinking today's approach to ignore accessibility and inclusion in design.",
-    "words": 40,
     "attributes": {
       "date": "2017-06-17T00:00:00.000Z",
       "city": "Gurugram",
@@ -73,7 +72,8 @@
         28.46169,
         77.081458
       ]
-    }
+    },
+    "caption": "🇮🇳 91springboard, Gurugram"
   },
   {
     "slug": "hardstart-pitch-training.md",
@@ -82,7 +82,6 @@
     "title": "Pitch Training for Hardstart",
     "date": "2017-10-31T00:00:00.000Z",
     "excerpt": "I developed and conducted a startup pitching workshop for student entrepreneurship organization and incubator Hardstart's flagship pitching event, Pitch that Bitch. It was the first time that I conducted a workshop for fellow student entrepreneurs, and it was definitely a very interesting experience.",
-    "words": 85,
     "attributes": {
       "date": "2017-10-31T00:00:00.000Z",
       "city": "Enschede",
@@ -92,7 +91,8 @@
         52.220986,
         6.894054
       ]
-    }
+    },
+    "caption": "🇳🇱 Hardstart, Enschede"
   },
   {
     "slug": "startup24.md",
@@ -101,7 +101,6 @@
     "title": "Startup24",
     "date": "2017-11-11T00:00:00.000Z",
     "excerpt": "Startup24 is the flagship startup weekend-like event in the Netherlands which happens in 12 cities simultaneously. I was invited to Startup24 Enschede to do a pitching working for the participants before their final jury pitches, and I was also part of their \"midnight jury\" for 2-minute pitches at midnight. During 24 hours, participants formed a team and learn to transform their ideas into a validated concept and present it in a startup pitch.",
-    "words": 114,
     "attributes": {
       "date": "2017-11-11T00:00:00.000Z",
       "city": "Enschede",
@@ -111,7 +110,8 @@
         52.220986,
         6.894054
       ]
-    }
+    },
+    "caption": "🇳🇱 Novel-T, Enschede"
   },
   {
     "slug": "nesst-season-2.md",
@@ -120,7 +120,6 @@
     "title": "Nesst Season 2",
     "date": "2018-03-07T00:00:00.000Z",
     "excerpt": "In January 2018, I was featured by Het Financieele Dagblad (Dutch Financial Times) in their annual list of the Netherlands' 50 most-innovative young entrepreneurs and professionals. Shortly after, I was invited by the Enschede-based non-profit startup accelerator, Nesst (New Entrepreneurial Student Society Twente), to deliver the opening keynote for their upcoming season. My introduction, in Dutch, was:\n\nHet nieuwe seizoen van Stichting Nesst begint op",
-    "words": 264,
     "attributes": {
       "date": "2018-03-07T00:00:00.000Z",
       "city": "Enschede",
@@ -133,7 +132,8 @@
         52.220986,
         6.894054
       ]
-    }
+    },
+    "caption": "🇳🇱 The Cee Spot, Enschede"
   },
   {
     "slug": "online-open-day.md",
@@ -142,7 +142,6 @@
     "title": "Twente's Online Open Day",
     "date": "2018-05-16T00:00:00.000Z",
     "excerpt": "At the University of Twente's first annual Online Open Day, I spoke about startups, entrepreneurship, and technology at the university, as part of a panel called \"Beyond Your Studies,\" moderated by co-founder and project manager of DesignLab, Miriam Iliohan.\n\nscreen1\nscreen2",
-    "words": 43,
     "attributes": {
       "date": "2018-05-16T00:00:00.000Z",
       "city": "Enschede",
@@ -152,7 +151,8 @@
         52.241198,
         6.851607
       ]
-    }
+    },
+    "caption": "🇳🇱 University of Twente, Enschede"
   },
   {
     "slug": "minet-x-2018.md",
@@ -161,7 +161,6 @@
     "title": "MINET X 2018",
     "date": "2018-08-08T00:00:00.000Z",
     "excerpt": "I went back to my alma mater, The Mother's International School, as the keynote speaker for their annual technology and entrepreneurship event, X, organized by the computer club MINET. I spoke about my journey from a highschool student to today, and the lessons that came with it. The talk was a modified version of the NESST keynote. Photos (c) Sai Raunaq Gosain.\n\nimg_7988\nimg_8045\nimg_7995\nimg_7997",
-    "words": 64,
     "attributes": {
       "date": "2018-08-08T00:00:00.000Z",
       "city": "New Delhi",
@@ -171,7 +170,8 @@
         28.613895,
         77.209006
       ]
-    }
+    },
+    "caption": "🇮🇳 The Mother's International School, New Delhi"
   },
   {
     "slug": "hackiiitd.md",
@@ -180,7 +180,6 @@
     "title": "HackIIITD",
     "date": "2018-08-18T00:00:00.000Z",
     "excerpt": "As our first-ever sponsored event, I was a speaker, mentor, and judge at IIIT Delhi's flagship hackathon, HackIIITD. Oswald Labs sponsored the winning prize (a spot in our accelerator program) along with a cash prize. We saw some exciting ideas — everything from 2FA and key management for blockchain to autonomous drones for military applications to meme video generators. HackIIITD was a free 24-hour hackathon part of Esya 2018, the annual technology festival of IIIT Delhi.",
-    "words": 76,
     "attributes": {
       "date": "2018-08-18T00:00:00.000Z",
       "city": "New Delhi",
@@ -190,7 +189,8 @@
         18.53115,
         73.867663
       ]
-    }
+    },
+    "caption": "🇮🇳 Indraprastha Institute of Information Technology, New Delhi"
   },
   {
     "slug": "esummit.md",
@@ -199,7 +199,6 @@
     "title": "IITK eSummit",
     "date": "2018-08-25T00:00:00.000Z",
     "excerpt": "At IIT Kanpur's flagship entrepreneurship event, eSummit 2018, I was invited to speak about my journey, lessons, and upcoming opportunities in technology. I was part of the Forbes 30 Under 30 session which featured entrepreneurs from this year's list sharing their experiences before a Q&A session.\n\neSummit was organized by the entrepreneurship cell of Indian Institute of Technology, Kanpur. I was joined by Nipun Goyal, co-founder of Curofy, and Abhinav Pathak co-founder and CEO of Perpule.",
-    "words": 81,
     "attributes": {
       "date": "2018-08-25T00:00:00.000Z",
       "city": "Kanpur",
@@ -209,7 +208,8 @@
         26.51,
         80.23
       ]
-    }
+    },
+    "caption": "🇮🇳 Indian Institute of Technology, Kanpur"
   },
   {
     "slug": "gogbot.md",
@@ -218,7 +218,6 @@
     "title": "GOGBOT",
     "date": "2018-09-06T00:00:00.000Z",
     "excerpt": "GOGBOT is an annual art, technology, and music festival in Enschede. In 2011, the festival was awarded the National Innovation Award, being the most innovative festival in the Netherlands. In 2018, my team and I were featured in the festival. The theme for this year's GOGBOT was \"FUTURE FLASH 200: From Frankenstein to Hyperbrain\". Our project, Frankie, is an AI-powered frankenstein's monster face. Users could talk to Frankie and ask various questions.",
-    "words": 82,
     "attributes": {
       "date": "2018-09-06T00:00:00.000Z",
       "city": "Enschede",
@@ -228,7 +227,8 @@
         52.22,
         6.9
       ]
-    }
+    },
+    "caption": "🇳🇱 City Center, Enschede"
   },
   {
     "slug": "nesst-season-3.md",
@@ -237,7 +237,6 @@
     "title": "Nesst Season 3",
     "date": "2018-09-11T00:00:00.000Z",
     "excerpt": "New Entrepreneurial Student Society Twente (NESST) is a not-for-profit early-stage startup accelerator in Enschede. After being a speaker, advisor, and Dragons' Den judge at their third season, I was invited as the keynote speaker for the first day of Season 3.",
-    "words": 44,
     "attributes": {
       "date": "2018-09-11T00:00:00.000Z",
       "city": "Enschede",
@@ -250,7 +249,8 @@
         51.912303,
         4.430355
       ]
-    }
+    },
+    "caption": "🇳🇱 Saxion Center for Entrepreneurship, Enschede"
   },
   {
     "slug": "speakup.md",
@@ -259,7 +259,6 @@
     "title": "Speakup",
     "date": "2018-09-20T00:00:00.000Z",
     "excerpt": "In September 2018, Speakup, an Enschede-based VoIP and cloud telephony company, celebrated its 15th birthday. At the Speakup Partner & Jubileum Event, I was one of the presenters to showcase their upcoming projects into spaces like AI and mobile. I gave a demo of Ara, an AI-powered assistant for work, which raised its seed round from Speakup.",
-    "words": 59,
     "attributes": {
       "date": "2018-09-20T00:00:00.000Z",
       "city": "Enschede",
@@ -269,7 +268,8 @@
         52.2324775,
         6.8950055
       ]
-    }
+    },
+    "caption": "🇳🇱 De Museumfabriek, Enschede"
   },
   {
     "slug": "wief-2018.md",
@@ -278,7 +278,6 @@
     "title": "AKEPT-WIEF Social Enterprise Forum",
     "date": "2018-10-22T00:00:00.000Z",
     "excerpt": "I was invited to Kuala Lumpur, Malaysia, as a speaker on social entrepreneurship at the AKEPT-WIEF Social Enterprise Forum. The event was a collaboration between the higher education and leadership academy AKEPT and the World Islamic Economic Forum Foundation. As a panelist on the Plenary Session 5 on \"Social Enterprise in Universities\", I shared the stage with Talib S.",
-    "words": 306,
     "attributes": {
       "date": "2018-10-22T00:00:00.000Z",
       "city": "Kuala Lumpur",
@@ -289,7 +288,8 @@
         3.255572,
         101.738651
       ]
-    }
+    },
+    "caption": "🇲🇾 International Islamic University Malaysia, Kuala Lumpur"
   },
   {
     "slug": "cls.md",
@@ -298,7 +298,6 @@
     "title": "CLS Engagement Pitch",
     "date": "2018-11-15T00:00:00.000Z",
     "excerpt": "On a Thursday/Friday in November 2018, my team and I built CLShare, an employee engagement app for CLS Group in London. The app was the winner of the £10,000 CLS Engagement App Challenge. In my talk, I spoke about gamification as a tool for employee engagement, a focus on accessibility, and the important of receiving feedback from employees.",
-    "words": 61,
     "attributes": {
       "date": "2018-11-15T00:00:00.000Z",
       "city": "London",
@@ -308,7 +307,8 @@
         51.514738,
         -0.147356
       ]
-    }
+    },
+    "caption": "🇬🇧 LABS Holborn, London"
   },
   {
     "slug": "dutch-design-week.md",
@@ -317,7 +317,6 @@
     "title": "Dutch Design Week",
     "date": "2019-06-12T00:00:00.000Z",
     "excerpt": "I showcased Shravan Apps by Oswald Labs as part of the Mind the Step exhibition at the Dutch Design Week 2018 in the Klokgebouw in Eindhoven. The event featured design-driven technology and research by the 4TU, the consortium of Dutch technical universities.\n\n\"This year---supported by the UT's DesignLab---Mind the Step will present projects at the interface of design, research and technology to 70,000 expected visitors in Eindhoven.",
-    "words": 242,
     "attributes": {
       "date": "2019-06-12T00:00:00.000Z",
       "city": "Eindhoven",
@@ -327,7 +326,8 @@
         51.44845,
         5.4579645
       ]
-    }
+    },
+    "caption": "🇳🇱 Klokgebouw Cultuurhallen, Eindhoven"
   },
   {
     "slug": "hive-01-season-5.md",
@@ -336,7 +336,6 @@
     "title": "Hive 01 Season 5",
     "date": "2019-06-12T00:00:00.000Z",
     "excerpt": "In June 2019, Hive 01 Enschede (formerly NESST Twente) organized the Dragon's Den pitching event for startups. I was one of the five Dragons and we awarded three prizes. Previously in the season, I was also a mentor for startups and keynote speaker during the opening night. Screenshot of Facebook post\nAnand with winners\nSponsor logos",
-    "words": 57,
     "attributes": {
       "date": "2019-06-12T00:00:00.000Z",
       "city": "Enschede",
@@ -346,7 +345,8 @@
         52.220986,
         6.894054
       ]
-    }
+    },
+    "caption": "🇳🇱 U Parkhotel, Enschede"
   },
   {
     "slug": "el-nino-design.md",
@@ -355,7 +355,6 @@
     "title": "Design workshop for El Niño",
     "date": "2019-07-08T00:00:00.000Z",
     "excerpt": "On my last day as a consultant to Dutch digital development studio El Niño, I delivered a 45-minute talk entitled \"Good design, bad design\" on the principles of design. It used the North American Vexillological Association's five principles of flag design as the base of UX design.",
-    "words": 52,
     "attributes": {
       "date": "2019-07-08T00:00:00.000Z",
       "city": "Enschede",
@@ -365,7 +364,8 @@
         52.363883,
         4.884801
       ]
-    }
+    },
+    "caption": "🇳🇱 El Niño, Enschede"
   },
   {
     "slug": "minet-x-2019.md",
@@ -374,7 +374,6 @@
     "title": "MINET X 2019",
     "date": "2019-08-21T00:00:00.000Z",
     "excerpt": "I went back to my alma mater, The Mother's International School, as a judge and mentor their annual technology and entrepreneurship event, X, organized by the technology club MINET. Oswald Labs also offered an award to the winning team with the best startup idea.",
-    "words": 47,
     "attributes": {
       "date": "2019-08-21T00:00:00.000Z",
       "city": "New Delhi",
@@ -384,7 +383,8 @@
         28.613895,
         77.209006
       ]
-    }
+    },
+    "caption": "🇮🇳 The Mother's International School, New Delhi"
   },
   {
     "slug": "wwcode-cloud.md",
@@ -393,7 +393,6 @@
     "title": "Women Who Code Cloud 2019",
     "date": "2019-09-29T00:00:00.000Z",
     "excerpt": "In September 2019, I spoke on web accessibility at Women Who Cloud 2019, the world's first developer conference focused on the latest in and the future of cloud-based technologies targeted towards female developers. My talk was a 35-minute tutorial on building more accessible websites and webapps, with code samples and research studies. I was also extremely humbled as one of the only four male speakers out of 29 total speakers.",
-    "words": 166,
     "attributes": {
       "date": "2019-09-29T00:00:00.000Z",
       "city": "San Francisco Bay Area",
@@ -404,7 +403,8 @@
         -122.419906
       ],
       "video": "https://www.facebook.com/AnandChowdhary/videos/2896608857033963/"
-    }
+    },
+    "caption": "🇺🇸 Accenture, Salesforce Tower, San Francisco Bay Area"
   },
   {
     "slug": "oneup-scu.md",
@@ -413,7 +413,6 @@
     "title": "Keynote for OneUp, Santa Clara University",
     "date": "2019-10-21T00:00:00.000Z",
     "excerpt": "OneUp is the startup accelerator, incubator, and student organization to support entrepreneurship at Santa Clara University in Silicon Valley. As their first event of the academic year of Fall 2019, Startup Social, they invited me to deliver a keynote about building a startup as a student. My talk was an extended version of my NESST keynote, and explained my journey through highschool, founding Oswald Labs, moving to Enschede, and being at Santa Clara.",
-    "words": 105,
     "attributes": {
       "date": "2019-10-21T00:00:00.000Z",
       "city": "San Francisco Bay Area",
@@ -424,7 +423,8 @@
         -122.419906
       ],
       "video": "https://www.youtube.com/watch?v=zSX-yDAjUXk"
-    }
+    },
+    "caption": "🇺🇸 Santa Clara University, San Francisco Bay Area"
   },
   {
     "slug": "enactus-iitd-panel.md",
@@ -433,7 +433,6 @@
     "title": "Changemaker Workshop at Enactus, IIT Delhi",
     "date": "2020-07-15T00:00:00.000Z",
     "excerpt": "I was invited by Enactus, Indian Institute of Technology Delhi, to be part of a panel discussion about \"How failures are not [the] opposite of success, but a part of it\". This talk was part of their CHANGEMAKER workshop to help students understand the importance of learning from failures. With me on the panel was Tarusha Mittal, Chief Operations Officer of OroPocket, a fintech company. Screenshot of Zoom talk",
-    "words": 74,
     "attributes": {
       "date": "2020-07-15T00:00:00.000Z",
       "city": "New Delhi",
@@ -443,7 +442,8 @@
         28.544831,
         77.191623
       ]
-    }
+    },
+    "caption": "🇮🇳 Indian Institute of Technology Delhi, New Delhi"
   },
   {
     "slug": "supreme-incubator.md",
@@ -452,7 +452,6 @@
     "title": "Mentoring for Supreme Incubator",
     "date": "2020-08-31T00:00:00.000Z",
     "excerpt": "Supreme Incubator is a 6-month startup incubator consisting of a \"comprehensive curriculum, along with meetings with dedicated mentors, investor lunches, and more\". In August 2020, I was invited to mentor teams and judge startups based on their pitch for the program's virtual B-Plan Event. From 350+ registrations, 102 participants were selected to form 40 teams and work on their startup ideas.",
-    "words": 121,
     "attributes": {
       "date": "2020-08-31T00:00:00.000Z",
       "city": "New Delhi",
@@ -461,7 +460,8 @@
         28.613895,
         77.209006
       ]
-    }
+    },
+    "caption": "🇮🇳 New Delhi"
   },
   {
     "slug": "ut-opportunity-recognition.md",
@@ -470,7 +470,6 @@
     "title": "Guest Lecture on Opportunity Recognition",
     "date": "2020-09-07T00:00:00.000Z",
     "excerpt": "During the COVID-19 pandemic, I was at home in New Delhi, India, and was invited by Dr. Rainer Harms, Associate Professor, the Netherlands Institute for Knowledge-intensive Entrepreneurship (NIKOS), University of Twente, to deliver a guest lecture on Opportunity Recognition. Since classes were remotely held over video conference, I delivered a 30-minute lecture and answers several questions about discovering new business opportunities.",
-    "words": 159,
     "attributes": {
       "date": "2020-09-07T00:00:00.000Z",
       "city": "Enschede",
@@ -480,7 +479,8 @@
         52.241198,
         6.851607
       ]
-    }
+    },
+    "caption": "🇳🇱 University of Twente, Enschede"
   },
   {
     "slug": "ut-global-entrepreneurship-week.md",
@@ -489,7 +489,6 @@
     "title": "Guest Lecture for Global Entrepreneurship Week",
     "date": "2020-11-18T00:00:00.000Z",
     "excerpt": "In September 2020, I was invited by was invited by Dr. Rainer Harms, Associate Professor, the Netherlands Institute for Knowledge-intensive Entrepreneurship (NIKOS), University of Twente, to deliver a guest lecture on Opportunity Recognition to students of Business Administration MSc.",
-    "words": 118,
     "attributes": {
       "date": "2020-11-18T00:00:00.000Z",
       "city": "Enschede",
@@ -499,7 +498,8 @@
         52.241198,
         6.851607
       ]
-    }
+    },
+    "caption": "🇳🇱 University of Twente, Enschede"
   },
   {
     "slug": "dotslash-svnit.md",
@@ -508,7 +508,6 @@
     "title": "Innovation & Entrepreneurship at DotSlash, SVNIT",
     "date": "2021-01-24T00:00:00.000Z",
     "excerpt": "As my first event of 2021, I was invited to judge DotSlash, a 30-hour virtual hackathon from Sardar Vallabhbhai National Institute of Technology, Surat, and deliver a talk on Innovation & Entrepreneurship.",
-    "words": 38,
     "attributes": {
       "date": "2021-01-24T00:00:00.000Z",
       "venue": "Sardar Vallabhbhai National Institute of Technology",
@@ -517,7 +516,8 @@
         21.16068,
         72.789558
       ]
-    }
+    },
+    "caption": "🌍 Sardar Vallabhbhai National Institute of Technology (remote)"
   },
   {
     "slug": "github-satellite.md",
@@ -526,13 +526,13 @@
     "title": "Helping fight COVID-19 using GitHub at GitHub Satellite 2021",
     "date": "2021-03-26T00:00:00.000Z",
     "excerpt": "During the pandemic, I moved back to India and helped start Karuna 2020, a nonprofit that distributed meals to thousands of migrant laborers and masks to frontline workers. My team and I ended up building an open source platform on top of GitHub Actions to track donations, volunteers, distributions, etc.",
-    "words": 112,
     "attributes": {
       "date": "2021-03-26T00:00:00.000Z",
       "venue": "GitHub Satellite 2021",
       "remote": true,
       "video": "https://www.youtube.com/watch?v=7QF8tpEiYx8"
-    }
+    },
+    "caption": "🌍 GitHub Satellite 2021 (remote)"
   },
   {
     "slug": "minet-x.md",
@@ -541,7 +541,6 @@
     "title": "MINET X 2021 keynote",
     "date": "2021-08-13T00:00:00.000Z",
     "excerpt": "X is the annual technology event of my alma mater, The Mother's International School, hosted by their technology club MINET. I was the keynote speaker and remotly shared my story building a startup while I was in MINET and how I got where I am.",
-    "words": 49,
     "attributes": {
       "date": "2021-08-13T00:00:00.000Z",
       "venue": "The Mother's International School",
@@ -550,7 +549,8 @@
         51.5533263,
         -0.0554439
       ]
-    }
+    },
+    "caption": "🌍 The Mother's International School (remote)"
   },
   {
     "slug": "ut-opportunity-recognition.md",
@@ -559,7 +559,6 @@
     "title": "Guest lecture at University of Twente",
     "date": "2021-09-13T00:00:00.000Z",
     "excerpt": "I was invited by Dr. Rainer Harms, Associate Professor, the Netherlands Institute for Knowledge-intensive Entrepreneurship (NIKOS), University of Twente to deliver a guest lecture on opportunity recognition. I have previously spoken on this topic twice at the UT, although I was (much) better prepared this time.",
-    "words": 51,
     "attributes": {
       "date": "2021-09-13T00:00:00.000Z",
       "city": "Enschede",
@@ -569,7 +568,8 @@
         52.241198,
         6.851607
       ]
-    }
+    },
+    "caption": "🇳🇱 University of Twente, Enschede"
   },
   {
     "slug": "github-nova.md",
@@ -578,13 +578,13 @@
     "title": "Open source as a startup at GitHub Nova 2021",
     "date": "2021-10-05T00:00:00.000Z",
     "excerpt": "GitHub Nova is a 3-day event exclusively for GitHub Stars. A 3-day exclusive event for GitHub Stars - bringing the Stars and the GitHub product teams closer together to feel connected and to celebrate the tremendous things the Stars do in the open source community. At Nova, the Stars and product teams will dive deep into GitHub features, have in-depth technical discussions, see GitHub's vision, and share and learn from each other.",
-    "words": 234,
     "attributes": {
       "date": "2021-10-05T00:00:00.000Z",
       "venue": "GitHub Nova 2021",
       "remote": true,
       "video": "https://www.youtube.com/watch?v=RCaGjMjiwpU"
-    }
+    },
+    "caption": "🌍 GitHub Nova 2021 (remote)"
   },
   {
     "slug": "open-source-vit.md",
@@ -593,7 +593,6 @@
     "title": "Open source from scratch for CodeChef-VIT",
     "date": "2021-10-11T00:00:00.000Z",
     "excerpt": "Vellore Institute of Technology's CodeChef-VIT invited me for an interview and Q&A session during their Hacktoberfest Meetup 2021. I spoke about getting started with open source, my first contributions, and how easy it is to get started. The video is available on CodeChef-VIT's YouTube channel: https://www.youtube.com/watch?v=1qLFXv6sVu4&t=1552s",
-    "words": 51,
     "attributes": {
       "date": "2021-10-11T00:00:00.000Z",
       "venue": "Vellore Institute of Technology",
@@ -602,7 +601,8 @@
         12.97028,
         79.15803
       ]
-    }
+    },
+    "caption": "🌍 Vellore Institute of Technology (remote)"
   },
   {
     "slug": "ddog-8.md",
@@ -611,13 +611,13 @@
     "title": "COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community",
     "date": "2021-11-09T00:00:00.000Z",
     "excerpt": "A fellow GitHub Star Barbara Forbes organizes the user group Dutch DevOps & GitHub Community (DDOG):\n\nWe want to create a community for content related to DevOps and GitHub. We believe GitHub has a lot to offer and deserves a user group in the Netherlands. But we also love the different elements that enable DevOps. So we decided to combine those two into the commun",
-    "words": 167,
     "attributes": {
       "date": "2021-11-09T00:00:00.000Z",
       "venue": "Dutch DevOps & GitHub Community",
       "remote": true,
       "video": "https://www.youtube.com/watch?v=qWvFfPI-epA"
-    }
+    },
+    "caption": "🌍 Dutch DevOps & GitHub Community (remote)"
   },
   {
     "slug": "startup-school.md",
@@ -626,12 +626,12 @@
     "title": "Startup School Kickoff Call Q&A",
     "date": "2022-03-21T00:00:00.000Z",
     "excerpt": "I spoke at Y Combinator's Startup School Kickoff Call as an invited guest founder. The Startup School Kickoff Calls take place every Monday with new Startup School founders. I answered questions about my journey in Startup School, the YC batch, and running Pabio.",
-    "words": 48,
     "attributes": {
       "date": "2022-03-21T00:00:00.000Z",
       "venue": "Y Combinator Startup School",
       "remote": true
-    }
+    },
+    "caption": "🌍 Y Combinator Startup School (remote)"
   },
   {
     "slug": "twitter-space-open-source.md",
@@ -640,12 +640,12 @@
     "title": "Twitter Space on \"Why make your product open source?\"",
     "date": "2022-05-12T00:00:00.000Z",
     "excerpt": "My friends at Nhost organized a Twitter Spaces event with GitHub Stars as speakers on the topic of making products open source. I was joined by Eddie Jaoude, Anaïs Urlichs, Lars Gyrup Brink Nielsen, and Johan Eliasson. Link to recording: https://twitter.com/i/spaces/1vOxwyZwpyNGB",
-    "words": 49,
     "attributes": {
       "date": "2022-05-12T00:00:00.000Z",
       "venue": "Twitter Space",
       "remote": true
-    }
+    },
+    "caption": "🌍 Twitter Space (remote)"
   },
   {
     "slug": "iima-inclusive-entrepreneurship.md",
@@ -654,12 +654,12 @@
     "title": "Guest lecture on inclusive entrepreneurship",
     "date": "2022-06-24T00:00:00.000Z",
     "excerpt": "I was invited by Anuj Kapoor who teaches a new elective, Building Inclusive Products, at one of India's top business schools, IIM Ahmedabad. I spoke to around 50 second-year students from their flagship MBA course about my journey building products inclusively at Oswald Labs and Pabio.",
-    "words": 51,
     "attributes": {
       "date": "2022-06-24T00:00:00.000Z",
       "venue": "Indian Institute of Management, Ahmedabad",
       "remote": true
-    }
+    },
+    "caption": "🌍 Indian Institute of Management, Ahmedabad (remote)"
   },
   {
     "slug": "ut-opportunity-recognition.md",
@@ -668,7 +668,6 @@
     "title": "Guest lecture on opportunity recognition",
     "date": "2022-09-12T00:00:00.000Z",
     "excerpt": "I was invited by Dr. Rainer Harms, Associate Professor, the Netherlands Institute for Knowledge-intensive Entrepreneurship (NIKOS), University of Twente to deliver a guest lecture on opportunity recognition. I have been speaking on this topic at the UT for three years as a guest lecturer.",
-    "words": 48,
     "attributes": {
       "date": "2022-09-12T00:00:00.000Z",
       "city": "Enschede",
@@ -678,7 +677,8 @@
         52.241198,
         6.851607
       ]
-    }
+    },
+    "caption": "🇳🇱 University of Twente, Enschede"
   },
   {
     "slug": "github-universe.md",
@@ -687,7 +687,6 @@
     "title": "How to open source as a startup at GitHub Universe",
     "date": "2022-11-09T00:00:00.000Z",
     "excerpt": "Anand Chowdhary reflects on his journey building an accessibility technology company that started as an open source browser extension, and building and launching an open source project with 10k+ stars as a side project at his new startup.",
-    "words": 94,
     "attributes": {
       "date": "2022-11-09T00:00:00.000Z",
       "city": "San Francisco",
@@ -698,6 +697,7 @@
         -122.4039
       ],
       "video": "https://www.youtube.com/watch?v=F3dtaDJi_bo"
-    }
+    },
+    "caption": "🇺🇸 Yerba Buena Center for the Arts, San Francisco"
   }
 ]
