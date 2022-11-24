@@ -15,7 +15,8 @@ This repository is the source of truth for my speaking engagements.
 ### 2022
 
 - [**How to open source as a startup at GitHub Universe**](./events/2022/github-universe.md)  
-  🇺🇸 Yerba Buena Center for the Arts, San Francisco
+  🇺🇸 Yerba Buena Center for the Arts, San Francisco  
+  🎥 [Watch recording →](https://www.youtube.com/watch?v=F3dtaDJi_bo)
 
 - [**Guest lecture on opportunity recognition**](./events/2022/ut-opportunity-recognition.md)  
   🇳🇱 University of Twente, Enschede
@@ -32,13 +33,15 @@ This repository is the source of truth for my speaking engagements.
 ### 2021
 
 - [**COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community**](./events/2021/ddog-8.md)  
-  🌍 Dutch DevOps & GitHub Community (remote)
+  🌍 Dutch DevOps & GitHub Community (remote)  
+  🎥 [Watch recording →](https://www.youtube.com/watch?v=qWvFfPI-epA)
 
 - [**Open source from scratch for CodeChef-VIT**](./events/2021/open-source-vit.md)  
   🌍 Vellore Institute of Technology (remote)
 
 - [**Open source as a startup at GitHub Nova 2021**](./events/2021/github-nova.md)  
-  🌍 GitHub Nova 2021 (remote)
+  🌍 GitHub Nova 2021 (remote)  
+  🎥 [Watch recording →](https://www.youtube.com/watch?v=RCaGjMjiwpU)
 
 - [**Guest lecture at University of Twente**](./events/2021/ut-opportunity-recognition.md)  
   🇳🇱 University of Twente, Enschede
@@ -47,7 +50,8 @@ This repository is the source of truth for my speaking engagements.
   🌍 The Mother's International School (remote)
 
 - [**Helping fight COVID-19 using GitHub at GitHub Satellite 2021**](./events/2021/github-satellite.md)  
-  🌍 GitHub Satellite 2021 (remote)
+  🌍 GitHub Satellite 2021 (remote)  
+  🎥 [Watch recording →](https://www.youtube.com/watch?v=7QF8tpEiYx8)
 
 - [**Innovation & Entrepreneurship at DotSlash, SVNIT**](./events/2021/dotslash-svnit.md)  
   🌍 Sardar Vallabhbhai National Institute of Technology (remote)
@@ -69,10 +73,12 @@ This repository is the source of truth for my speaking engagements.
 ### 2019
 
 - [**Keynote for OneUp, Santa Clara University**](./events/2019/oneup-scu.md)  
-  🇺🇸 Santa Clara University, San Francisco Bay Area
+  🇺🇸 Santa Clara University, San Francisco Bay Area  
+  🎥 [Watch recording →](https://www.youtube.com/watch?v=zSX-yDAjUXk)
 
 - [**Women Who Code Cloud 2019**](./events/2019/wwcode-cloud.md)  
-  🇺🇸 Accenture, Salesforce Tower, San Francisco Bay Area
+  🇺🇸 Accenture, Salesforce Tower, San Francisco Bay Area  
+  🎥 [Watch recording →](https://www.facebook.com/AnandChowdhary/videos/2896608857033963/)
 
 - [**MINET X 2019**](./events/2019/minet-x-2019.md)  
   🇮🇳 The Mother's International School, New Delhi
