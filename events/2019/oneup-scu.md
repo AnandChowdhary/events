@@ -4,6 +4,7 @@ city: San Francisco Bay Area
 country: US
 venue: Santa Clara University
 coordinates: [37.779026, -122.419906]
+video: https://www.youtube.com/watch?v=zSX-yDAjUXk
 ---
 
 # Keynote for OneUp, Santa Clara University

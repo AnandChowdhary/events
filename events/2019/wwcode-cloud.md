@@ -4,6 +4,7 @@ city: San Francisco Bay Area
 country: US
 venue: Accenture, Salesforce Tower
 coordinates: [37.779026, -122.419906]
+video: https://www.facebook.com/AnandChowdhary/videos/2896608857033963/
 ---
 
 # Women Who Code Cloud 2019

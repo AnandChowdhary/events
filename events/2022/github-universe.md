@@ -4,6 +4,7 @@ city: San Francisco
 country: US
 venue: Yerba Buena Center for the Arts
 coordinates: [37.7852, -122.4039]
+video: https://www.youtube.com/watch?v=F3dtaDJi_bo
 ---
 
 # How to open source as a startup at GitHub Universe

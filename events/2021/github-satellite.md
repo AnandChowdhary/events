@@ -4,6 +4,7 @@ city: Remote
 country: US
 venue: GitHub Satellite 2021
 coordinates: [28.812146, -81.923945]
+video: https://www.youtube.com/watch?v=7QF8tpEiYx8
 ---
 
 # Helping fight COVID-19 using GitHub at GitHub Satellite 2021

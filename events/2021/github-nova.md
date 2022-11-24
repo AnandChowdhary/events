@@ -4,6 +4,7 @@ city: Remote
 country: US
 venue: GitHub Nova 2021
 coordinates: [50.657115, 14.065064]
+video: https://www.youtube.com/watch?v=RCaGjMjiwpU
 ---
 
 # Open source as a startup at GitHub Nova 2021
