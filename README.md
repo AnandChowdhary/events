@@ -73,7 +73,6 @@ This repository is the source of truth for my speaking engagements.
 ### 2014
 
 - [Keynote at coDelhi](./events/2014/codelhi.md) (43 words), March 22, 2014
-
 <!--/notes-->
 
 ## ℹ️ About this repository
