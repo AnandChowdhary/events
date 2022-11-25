@@ -43,9 +43,11 @@ jobs:
               result.push(attributes.city);
             
             if (attributes.remote)
-              result.push("(remote)");
+              result.push(attributes.length ? "(remote)" : "Remote");
 
             let firstLine = result.join(" ").trim();
+            if (attributes.event)
+              firstLine = `🎤 ${attributes.event}\n`;
             if (attributes.video)
               firstLine += `\n🎥 [Watch recording →](${attributes.video})`;
             return firstLine;
