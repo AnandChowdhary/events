@@ -4,9 +4,10 @@ city: Enschede
 country: NL
 venue: De Museumfabriek
 coordinates: [52.2324775, 6.8950055]
+event: SpeakUp Parnter & Jubileum Event
 ---
 
-# Speakup
+# Ara demo at SpeakUp
 
 In September 2018, Speakup, an Enschede-based VoIP and cloud telephony company, celebrated its 15th birthday. At the Speakup Partner & Jubileum Event, I was one of the presenters to showcase their upcoming projects into spaces like AI and mobile.
 

@@ -4,9 +4,10 @@ city: New Delhi
 country: IN
 venue: Indraprastha Institute of Information Technology
 coordinates: [18.53115, 73.867663]
+event: HackIIITD
 ---
 
-# HackIIITD
+# Mentoring and judging at HackIIITD
 
 As our first-ever sponsored event, I was a speaker, mentor, and judge at IIIT Delhi's flagship hackathon, HackIIITD. Oswald Labs sponsored the winning prize (a spot in our accelerator program) along with a cash prize. We saw some exciting ideas — everything from 2FA and key management for blockchain to autonomous drones for military applications to meme video generators.
 

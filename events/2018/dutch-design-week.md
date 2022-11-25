@@ -3,10 +3,11 @@ date: 2019-06-12
 city: Eindhoven
 country: NL
 venue: Klokgebouw Cultuurhallen
+event: Dutch Design Week
 coordinates: [51.44845, 5.4579645]
 ---
 
-# Dutch Design Week
+# Shravan Apps at Dutch Design Week
 
 I showcased Shravan Apps by Oswald Labs as part of the _Mind the Step_ exhibition at the Dutch Design Week 2018 in the Klokgebouw in Eindhoven. The event featured design-driven technology and research by the 4TU, the consortium of Dutch technical universities.
 

@@ -4,6 +4,7 @@ city: Enschede
 country: NL
 venue: University of Twente
 coordinates: [52.241198, 6.851607]
+talk: Opportunity recognition
 ---
 
 # Guest lecture at University of Twente

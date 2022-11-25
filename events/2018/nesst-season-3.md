@@ -7,8 +7,9 @@ link: https://www.facebook.com/events/1838806939471157/
 icon: /images/icons/nesst.png
 color: "#ffb600"
 coordinates: [51.912303, 4.430355]
+event: Nesst Season 3
 ---
 
-# Nesst Season 3
+# Season 3 opening keynote for Nesst
 
 New Entrepreneurial Student Society Twente (NESST) is a not-for-profit early-stage startup accelerator in Enschede. After being a speaker, advisor, and Dragons' Den judge at their third season, I was invited as the keynote speaker for the first day of Season 3.

@@ -4,9 +4,10 @@ city: Enschede
 country: NL
 venue: U Parkhotel
 coordinates: [52.220986, 6.894054]
+event: Hive 01 Season 5
 ---
 
-# Hive 01 Season 5
+# Dragon's Den at Hive 01 Season 5
 
 In June 2019, Hive 01 Enschede (formerly NESST Twente) organized the Dragon's Den pitching event for startups. I was one of the five Dragons and we awarded three prizes. Previously in the season, I was also a mentor for startups and keynote speaker during the opening night.
 

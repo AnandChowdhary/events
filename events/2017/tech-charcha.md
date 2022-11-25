@@ -4,9 +4,10 @@ city: New Delhi
 country: IN
 venue: 91springboard Okhla
 coordinates: [28.5667, 77.2833]
+event: Tech Charcha by Facebook Developer Circles Delhi-NCR
 ---
 
-# Tech Charcha by Facebook DevC
+# Panel discussion at Facebook DevC
 
 I was part of a panel discussion on the future of technology by Facebook's Developer Circles Delhi-NCR along with Chinmaya Saxena, Developer Programs Lead, Facebook India; Saransh Kataria, Chapter Lead, Facebook Developer Circle Delhi; and Shubhamoy Chakrabarty, COO at Cloudtub, Inc.
 

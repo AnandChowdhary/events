@@ -4,9 +4,10 @@ city: Enschede
 country: NL
 venue: University of Twente
 coordinates: [52.241198, 6.851607]
+talk: Opportunity recognition
 ---
 
-# Guest Lecture on Opportunity Recognition
+# Guest lecture on Opportunity Recognition
 
 During the COVID-19 pandemic, I was at home in New Delhi, India, and was invited by Dr. Rainer Harms, Associate Professor, the Netherlands Institute for Knowledge-intensive Entrepreneurship (NIKOS), University of Twente, to deliver a guest lecture on Opportunity Recognition. Since classes were remotely held over video conference, I delivered a 30-minute lecture and answers several questions about discovering new business opportunities.
 

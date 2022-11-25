@@ -1,8 +1,9 @@
 ---
 date: 2021-10-05
-venue: GitHub Nova 2021
 remote: true
 video: https://www.youtube.com/watch?v=RCaGjMjiwpU
+talk: How to open source as a startup
+event: GitHub Nova 2021
 ---
 
 # Open source as a startup at GitHub Nova 2021

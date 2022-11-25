@@ -1,8 +1,9 @@
 ---
 date: 2021-03-26
-venue: GitHub Satellite 2021
 remote: true
 video: https://www.youtube.com/watch?v=7QF8tpEiYx8
+talk: Helping fight COVID-19 using GitHub
+event: GitHub Satellite 2021
 ---
 
 # Helping fight COVID-19 using GitHub at GitHub Satellite 2021

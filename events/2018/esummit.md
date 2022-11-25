@@ -3,10 +3,11 @@ date: 2018-08-25
 city: Kanpur
 country: IN
 venue: Indian Institute of Technology
+event: IIT Kanput eSummit
 coordinates: [26.51, 80.23]
 ---
 
-# IITK eSummit
+# Panel discussion at IITK eSummit
 
 At IIT Kanpur's flagship entrepreneurship event, eSummit 2018, I was invited to speak about my journey, lessons, and upcoming opportunities in technology. I was part of the Forbes 30 Under 30 session which featured entrepreneurs from this year's list sharing their experiences before a Q&A session.
 

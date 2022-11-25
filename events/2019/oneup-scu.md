@@ -5,9 +5,11 @@ country: US
 venue: Santa Clara University
 coordinates: [37.779026, -122.419906]
 video: https://www.youtube.com/watch?v=zSX-yDAjUXk
+talk: Class Rebels to Oswald Labs
+event: OneUp SCU
 ---
 
-# Keynote for OneUp, Santa Clara University
+# Keynote for OneUp at Santa Clara
 
 OneUp is the startup accelerator, incubator, and student organization to support entrepreneurship at Santa Clara University in Silicon Valley. As their first event of the academic year of Fall 2019, Startup Social, they invited me to deliver a keynote about building a startup as a student.
 

@@ -3,6 +3,8 @@ date: 2021-08-13
 venue: The Mother's International School
 remote: true
 coordinates: [51.5533263, -0.0554439]
+talk: Class Rebels to Oswald Labs
+event: MINET X 2021
 ---
 
 # MINET X 2021 keynote

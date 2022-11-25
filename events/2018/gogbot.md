@@ -3,10 +3,11 @@ date: 2018-09-06
 city: Enschede
 country: NL
 venue: City Center
+event: GOGBOT
 coordinates: [52.22, 6.9]
 ---
 
-# GOGBOT
+# Frankenstein at GOGBOT
 
 GOGBOT is an annual art, technology, and music festival in Enschede. In 2011, the festival was awarded the National Innovation Award, being the most innovative festival in the Netherlands. In 2018, my team and I were featured in the festival.
 

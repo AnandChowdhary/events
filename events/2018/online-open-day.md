@@ -4,9 +4,10 @@ city: Enschede
 country: NL
 venue: University of Twente
 coordinates: [52.241198, 6.851607]
+event: Online Open Day
 ---
 
-# Twente's Online Open Day
+# Beyond Your Studies at Twente's Online Open Day
 
 At the University of Twente's first annual Online Open Day, I spoke about startups, entrepreneurship, and technology at the university, as part of a panel called "Beyond Your Studies," moderated by co-founder and project manager of DesignLab, Miriam Iliohan.
 

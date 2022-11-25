@@ -7,9 +7,11 @@ link: https://www.facebook.com/events/1838806939471157/
 icon: /images/icons/nesst.png
 color: "#ffb600"
 coordinates: [52.220986, 6.894054]
+talk: Class Rebels to Oswald Labs
+event: Nesst Season 2
 ---
 
-# Nesst Season 2
+# Season 2 opening keynote for Nesst
 
 In January 2018, I was featured by Het Financieele Dagblad (Dutch Financial Times) in their annual list of the Netherlands' 50 most-innovative young entrepreneurs and professionals. Shortly after, I was invited by the Enschede-based non-profit startup accelerator, Nesst (New Entrepreneurial Student Society Twente), to deliver the opening keynote for their upcoming season.
 

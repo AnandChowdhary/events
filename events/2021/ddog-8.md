@@ -3,6 +3,8 @@ date: 2021-11-09
 venue: Dutch DevOps & GitHub Community
 remote: true
 video: https://www.youtube.com/watch?v=qWvFfPI-epA
+talk: Helping fight COVID-19 using GitHub
+event: 8th DDOG
 ---
 
 # COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community

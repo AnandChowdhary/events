@@ -3,10 +3,11 @@ date: 2017-11-11
 city: Enschede
 country: NL
 venue: Novel-T
+event: Startup24
 coordinates: [52.220986, 6.894054]
 ---
 
-# Startup24
+# Pitching workshop at Startup24
 
 Startup24 is the flagship startup weekend-like event in the Netherlands which happens in 12 cities simultaneously. I was invited to Startup24 Enschede to do a pitching working for the participants before their final jury pitches, and I was also part of their "midnight jury" for 2-minute pitches at midnight.
 
