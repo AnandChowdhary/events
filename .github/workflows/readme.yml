@@ -47,7 +47,7 @@ jobs:
 
             let firstLine = result.join(" ").trim();
             if (attributes.event)
-              firstLine = `🎤 ${attributes.event}\n`;
+              firstLine = `✨ ${attributes.event}\n${firstLine}`;
             if (attributes.video)
               firstLine += `\n🎥 [Watch recording →](${attributes.video})`;
             return firstLine;
