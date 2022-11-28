@@ -5,8 +5,9 @@ country: US
 venue: Accenture, Salesforce Tower
 coordinates: [37.779026, -122.419906]
 video: https://www.facebook.com/AnandChowdhary/videos/2896608857033963/
-talk: Making your product accessible to everyone
 event: Women Who Code Cloud 2019
+slides: https://speakerdeck.com/anandchowdhary/making-your-products-accessible-to-everyone
+embed: https://speakerdeck.com/player/d5a5c8d6a4b644498331bb53d7b0a8ca
 ---
 
 # Talk on product accessibility at Women Who Code Cloud 2019

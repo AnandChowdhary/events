@@ -9,6 +9,8 @@ color: "#ffb600"
 coordinates: [52.220986, 6.894054]
 talk: Class Rebels to Oswald Labs
 event: Nesst Season 2
+slides: https://speakerdeck.com/anandchowdhary/nesst-keynote-2018
+embed: https://speakerdeck.com/player/b50aec8b5edc4948a6bf18286a5930d7
 ---
 
 # Season 2 opening keynote for Nesst

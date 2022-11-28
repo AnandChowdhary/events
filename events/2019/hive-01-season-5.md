@@ -5,6 +5,8 @@ country: NL
 venue: U Parkhotel
 coordinates: [52.220986, 6.894054]
 event: Hive 01 Season 5
+slides: https://speakerdeck.com/anandchowdhary/nesst-keynote-2019
+embed: https://speakerdeck.com/player/f190016ed322472f8f64ac45724f7446
 ---
 
 # Dragon's Den at Hive 01 Season 5

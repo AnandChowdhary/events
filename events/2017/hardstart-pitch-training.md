@@ -4,6 +4,8 @@ city: Enschede
 country: NL
 venue: Hardstart
 coordinates: [52.220986, 6.894054]
+slides: https://speakerdeck.com/anandchowdhary/hardstart-entrepreneurs-pitching-workshop
+embed: https://speakerdeck.com/player/b310362afd6d4b00be7ca6165c6e9fde
 ---
 
 # Pitch Training for Hardstart
