@@ -51,3 +51,9 @@ jobs:
             if (attributes.video)
               firstLine += `\n🎥 [Watch recording →](${attributes.video})`;
             return firstLine;
+      - name: Dispatch AnandChowdhary/everything update
+        uses: benc-uk/workflow-dispatch@v1.2.2
+        with:
+          repo: AnandChowdhary/everything
+          workflow: api.yml
+          token: ${{ secrets.WORKFLOW_DISPATCH_TOKEN }}
