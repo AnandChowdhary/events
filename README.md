@@ -10,7 +10,23 @@ This repository is the source of truth for my speaking engagements.
 
 ## 🌯 Summary
 
-- 38 events in 8 years
+- 41 events in 10 years
+
+### 2025
+
+- [**Build your own Cursor at RenderATL**](./events/2025/render-atl.md)  
+  ✨ RenderATL 2025  
+  🇺🇦 AmericasMart, Atlanta
+
+- [**Developer to Founder at 10x Club**](./events/2025/coding-ninjas.md)  
+  ✨ Coding Ninjas 10x Club  
+  🌍 Remote
+
+### 2024
+
+- [**How we test and deploy prompts at FirstQuadrant for AI Community Day**](./events/2024/ai-community-day.md)  
+  ✨ AI Community Day  
+  🇳🇱 The Fabrique, Utrecht
 
 ### 2022
 

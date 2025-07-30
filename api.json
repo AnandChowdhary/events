@@ -747,5 +747,59 @@
       "event": "GitHub Universe 2022"
     },
     "caption": "✨ GitHub Universe 2022\n🇺🇸 Yerba Buena Center for the Arts, San Francisco\n🎥 [Watch recording →](https://www.youtube.com/watch?v=F3dtaDJi_bo)"
+  },
+  {
+    "slug": "ai-community-day.md",
+    "path": "events/2024/ai-community-day.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2024/ai-community-day.md",
+    "title": "How we test and deploy prompts at FirstQuadrant for AI Community Day",
+    "date": "2024-12-10T00:00:00.000Z",
+    "excerpt": "AI-generated summary:\n\nIn the talk \"How We Test and Deploy Prompts at FirstQuadrant,\" delivered by Anand Chowdhary at AI Community Day on December 10, 2024, the focus is on advanced prompt engineering techniques, testing methodologies, and deployment best practices for AI systems. Drawing from over two years of experience, Anand shares insights on optimizing prompts for production, managing prompt versions, and integrating domain-expert feedback t",
+    "attributes": {
+      "date": "2024-12-10T00:00:00.000Z",
+      "city": "Utrecht",
+      "country": "NL",
+      "venue": "The Fabrique",
+      "coordinates": [
+        52.1276767,
+        5.0470815
+      ],
+      "event": "AI Community Day"
+    },
+    "caption": "✨ AI Community Day\n🇳🇱 The Fabrique, Utrecht"
+  },
+  {
+    "slug": "coding-ninjas.md",
+    "path": "events/2025/coding-ninjas.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2025/coding-ninjas.md",
+    "title": "Developer to Founder at 10x Club",
+    "date": "2024-12-10T00:00:00.000Z",
+    "excerpt": "AI-generated summary:\n\nPresented to 200 developers at the Coding Ninjas 10X Club, this talk is a journey from being a developer to becoming a tech entrepreneur. Anand shares insights from his experience as an engineer, designer, and entrepreneur who co-founded ventures like San Francisco-based FirstQuadrant, b",
+    "attributes": {
+      "date": "2024-12-10T00:00:00.000Z",
+      "remote": true,
+      "event": "Coding Ninjas 10x Club"
+    },
+    "caption": "✨ Coding Ninjas 10x Club\n🌍 Remote"
+  },
+  {
+    "slug": "render-atl.md",
+    "path": "events/2025/render-atl.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2025/render-atl.md",
+    "title": "Build your own Cursor at RenderATL",
+    "date": "2025-06-12T00:00:00.000Z",
+    "excerpt": "More information will be added here soon.",
+    "attributes": {
+      "date": "2025-06-12T00:00:00.000Z",
+      "city": "Atlanta",
+      "country": "UA",
+      "venue": "AmericasMart",
+      "coordinates": [
+        33.7603155,
+        -84.3927116
+      ],
+      "event": "RenderATL 2025"
+    },
+    "caption": "✨ RenderATL 2025\n🇺🇦 AmericasMart, Atlanta"
   }
 ]
