@@ -764,7 +764,8 @@
         52.1276767,
         5.0470815
       ],
-      "event": "AI Community Day"
+      "event": "AI Community Day",
+      "talk": "How we test and deploy prompts at FirstQuadrant"
     },
     "caption": "✨ AI Community Day\n🇳🇱 The Fabrique, Utrecht"
   },
@@ -778,7 +779,8 @@
     "attributes": {
       "date": "2024-12-10T00:00:00.000Z",
       "remote": true,
-      "event": "Coding Ninjas 10x Club"
+      "event": "Coding Ninjas 10x Club",
+      "talk": "Developer to Founder"
     },
     "caption": "✨ Coding Ninjas 10x Club\n🌍 Remote"
   },
@@ -788,7 +790,7 @@
     "source": "https://github.com/AnandChowdhary/events/blob/main/events/2025/render-atl.md",
     "title": "Build your own Cursor at RenderATL",
     "date": "2025-06-12T00:00:00.000Z",
-    "excerpt": "More information will be added here soon.",
+    "excerpt": "In this live coding tutorial, you'll learn how to build your own AI engineer capable of autonomously handling GitHub issues and generating pull requests with the code. This session will guide you through integrating OpenAI's Responses API with GitHub's API, enabling you to automate tasks like coding, debugging, and code reviews, essentially creating a personalized AI engineering assistant.",
     "attributes": {
       "date": "2025-06-12T00:00:00.000Z",
       "city": "Atlanta",
@@ -798,7 +800,8 @@
         33.7603155,
         -84.3927116
       ],
-      "event": "RenderATL 2025"
+      "event": "RenderATL 2025",
+      "talk": "Build your own AI engineer like Copilot & Devin"
     },
     "caption": "✨ RenderATL 2025\n🇺🇦 AmericasMart, Atlanta"
   }
