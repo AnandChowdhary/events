@@ -5,6 +5,7 @@ country: NL
 venue: The Fabrique
 coordinates: [52.1276767, 5.0470815]
 event: AI Community Day
+talk: How we test and deploy prompts at FirstQuadrant
 ---
 
 # How we test and deploy prompts at FirstQuadrant for AI Community Day

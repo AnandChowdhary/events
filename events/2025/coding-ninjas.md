@@ -2,6 +2,7 @@
 date: 2024-12-10
 remote: true
 event: Coding Ninjas 10x Club
+talk: Developer to Founder
 ---
 
 # Developer to Founder at 10x Club
