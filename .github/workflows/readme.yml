@@ -17,14 +17,13 @@ jobs:
           fetch-depth: 0
       - name: Setup Node.js 20.x
         uses: actions/setup-node@v4
-        with:
-          node-version: 20
       - name: Install emoji-flags
         run: npm init -y && npm install emoji-flags && ls node_modules
       - name: Update summary & API
         uses: AnandChowdhary/notes-summary@HEAD
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
+          openAiApiKey: "${{ secrets.OPENAI_API_KEY }}"
           commitMessage: ":pencil: Update events summary [skip ci]"
           directory: "events"
           caption: |
