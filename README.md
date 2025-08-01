@@ -14,179 +14,179 @@ This repository is the source of truth for my speaking engagements.
 
 ### 2025
 
-- [**Build your own Cursor at RenderATL**](./events/2025/render-atl.md)  
+- [** 🤖💻🛠️Build your own Cursor at RenderATL**](./events/2025/render-atl.md)  
   ✨ RenderATL 2025  
   🇺🇦 AmericasMart, Atlanta
 
-- [**Developer to Founder at 10x Club**](./events/2025/coding-ninjas.md)  
+- [** 👨‍💻🚀🎤Developer to Founder at 10x Club**](./events/2025/coding-ninjas.md)  
   ✨ Coding Ninjas 10x Club  
   🌍 Remote
 
 ### 2024
 
-- [**How we test and deploy prompts at FirstQuadrant for AI Community Day**](./events/2024/ai-community-day.md)  
+- [** 🤖🧪🚀How we test and deploy prompts at FirstQuadrant for AI Community Day**](./events/2024/ai-community-day.md)  
   ✨ AI Community Day  
   🇳🇱 The Fabrique, Utrecht
 
 ### 2022
 
-- [**How to open source as a startup at GitHub Universe**](./events/2022/github-universe.md)  
+- [** 🧑‍💻🌐⭐How to open source as a startup at GitHub Universe**](./events/2022/github-universe.md)  
   ✨ GitHub Universe 2022  
   🇺🇸 Yerba Buena Center for the Arts, San Francisco  
   🎥 [Watch recording →](https://www.youtube.com/watch?v=F3dtaDJi_bo)
 
-- [**Guest lecture on opportunity recognition**](./events/2022/ut-opportunity-recognition.md)  
+- [** 🎤📚💡Guest lecture on opportunity recognition**](./events/2022/ut-opportunity-recognition.md)  
   🇳🇱 University of Twente, Enschede
 
-- [**Guest lecture on inclusive entrepreneurship**](./events/2022/iima-inclusive-entrepreneurship.md)  
+- [** 🎓🤝🌍Guest lecture on inclusive entrepreneurship**](./events/2022/iima-inclusive-entrepreneurship.md)  
   🌍 Indian Institute of Management, Ahmedabad Remote
 
-- [**Twitter Space on "Why make your product open source?"**](./events/2022/twitter-space-open-source.md)  
+- [** 🐦🎙️🔓Twitter Space on "Why make your product open source?"**](./events/2022/twitter-space-open-source.md)  
   🌍 Twitter Space Remote
 
-- [**Startup School Kickoff Call Q&A**](./events/2022/startup-school.md)  
+- [** 🎓📞❓Startup School Kickoff Call Q&A**](./events/2022/startup-school.md)  
   🌍 Y Combinator Startup School Remote
 
 ### 2021
 
-- [**COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community**](./events/2021/ddog-8.md)  
+- [** 🦠🤖🇳🇱COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community**](./events/2021/ddog-8.md)  
   ✨ 8th DDOG  
   🌍 Dutch DevOps & GitHub Community Remote  
   🎥 [Watch recording →](https://www.youtube.com/watch?v=qWvFfPI-epA)
 
-- [**Open source from scratch for CodeChef-VIT**](./events/2021/open-source-vit.md)  
+- [** 💻🎥🤝Open source from scratch for CodeChef-VIT**](./events/2021/open-source-vit.md)  
   🌍 Vellore Institute of Technology Remote
 
-- [**Open source as a startup at GitHub Nova 2021**](./events/2021/github-nova.md)  
+- [** 👩‍💻🌟📢Open source as a startup at GitHub Nova 2021**](./events/2021/github-nova.md)  
   ✨ GitHub Nova 2021  
   🌍 Remote  
   🎥 [Watch recording →](https://www.youtube.com/watch?v=RCaGjMjiwpU)
 
-- [**Guest lecture at University of Twente**](./events/2021/ut-opportunity-recognition.md)  
+- [** 🎓🗣️🇳🇱Guest lecture at University of Twente**](./events/2021/ut-opportunity-recognition.md)  
   🇳🇱 University of Twente, Enschede
 
-- [**MINET X 2021 keynote**](./events/2021/minet-x.md)  
+- [** 🎤🏫🚀MINET X 2021 keynote**](./events/2021/minet-x.md)  
   ✨ MINET X 2021  
   🌍 The Mother's International School Remote
 
-- [**Helping fight COVID-19 using GitHub at GitHub Satellite 2021**](./events/2021/github-satellite.md)  
+- [** 🦠🤝💻Helping fight COVID-19 using GitHub at GitHub Satellite 2021**](./events/2021/github-satellite.md)  
   ✨ GitHub Satellite 2021  
   🌍 Remote  
   🎥 [Watch recording →](https://www.youtube.com/watch?v=7QF8tpEiYx8)
 
-- [**Innovation & Entrepreneurship at DotSlash, SVNIT**](./events/2021/dotslash-svnit.md)  
+- [** 🚀💡🏆Innovation & Entrepreneurship at DotSlash, SVNIT**](./events/2021/dotslash-svnit.md)  
   ✨ DotSlash Hackathon  
   🌍 Sardar Vallabhbhai National Institute of Technology Remote
 
 ### 2020
 
-- [**Guest lecture for Global Entrepreneurship Week**](./events/2020/ut-global-entrepreneurship-week.md)  
+- [** 🎓🌍💼Guest lecture for Global Entrepreneurship Week**](./events/2020/ut-global-entrepreneurship-week.md)  
   ✨ Global Entrepreneurship Week  
   🇳🇱 University of Twente, Enschede
 
-- [**Guest lecture on Opportunity Recognition**](./events/2020/ut-opportunity-recognition.md)  
+- [** 🎙️📈🌐Guest lecture on Opportunity Recognition**](./events/2020/ut-opportunity-recognition.md)  
   🇳🇱 University of Twente, Enschede
 
-- [**Mentoring for Supreme Incubator**](./events/2020/supreme-incubator.md)  
+- [** 👨‍🏫🚀📈Mentoring for Supreme Incubator**](./events/2020/supreme-incubator.md)  
   🇮🇳 New Delhi
 
-- [**Changemaker Workshop at Enactus, IIT Delhi**](./events/2020/enactus-iitd-panel.md)  
+- [** 🎤💡🤝Changemaker Workshop at Enactus, IIT Delhi**](./events/2020/enactus-iitd-panel.md)  
   🇮🇳 Indian Institute of Technology Delhi, New Delhi
 
 ### 2019
 
-- [**Keynote for OneUp at Santa Clara**](./events/2019/oneup-scu.md)  
+- [** 🎤🚀🎓Keynote for OneUp at Santa Clara**](./events/2019/oneup-scu.md)  
   ✨ OneUp SCU  
   🇺🇸 Santa Clara University, San Francisco Bay Area  
   🎥 [Watch recording →](https://www.youtube.com/watch?v=zSX-yDAjUXk)
 
-- [**Talk on product accessibility at Women Who Code Cloud 2019**](./events/2019/wwcode-cloud.md)  
+- [** 👩‍💻♿☁️Talk on product accessibility at Women Who Code Cloud 2019**](./events/2019/wwcode-cloud.md)  
   ✨ Women Who Code Cloud 2019  
   🇺🇸 Accenture, Salesforce Tower, San Francisco Bay Area  
   🎥 [Watch recording →](https://www.facebook.com/AnandChowdhary/videos/2896608857033963/)
 
-- [**Judging and mentorship at MINET X 2019**](./events/2019/minet-x-2019.md)  
+- [** 🎓🏆🤝Judging and mentorship at MINET X 2019**](./events/2019/minet-x-2019.md)  
   ✨ MINET X 2019  
   🇮🇳 The Mother's International School, New Delhi
 
-- [**Design workshop for El Niño**](./events/2019/el-nino-design.md)  
+- [** 🎨🌀🗣️Design workshop for El Niño**](./events/2019/el-nino-design.md)  
   🇳🇱 El Niño, Enschede
 
-- [**Dragon's Den at Hive 01 Season 5**](./events/2019/hive-01-season-5.md)  
+- [** 🐉🏆🤝Dragon's Den at Hive 01 Season 5**](./events/2019/hive-01-season-5.md)  
   ✨ Hive 01 Season 5  
   🇳🇱 U Parkhotel, Enschede
 
 ### 2018
 
-- [**Shravan Apps at Dutch Design Week**](./events/2018/dutch-design-week.md)  
+- [** 📱🎨🤝Shravan Apps at Dutch Design Week**](./events/2018/dutch-design-week.md)  
   ✨ Dutch Design Week  
   🇳🇱 Klokgebouw Cultuurhallen, Eindhoven
 
-- [**CLS Engagement Pitch**](./events/2018/cls.md)  
+- [** 🏆📱🎮CLS Engagement Pitch**](./events/2018/cls.md)  
   🇬🇧 LABS Holborn, London
 
-- [**Plenary session on social enterprises in universities**](./events/2018/wief-2018.md)  
+- [** 🎓🤝🌍Plenary session on social enterprises in universities**](./events/2018/wief-2018.md)  
   ✨ AKEPT-WIEF Social Enterprise Forum  
   🇲🇾 International Islamic University Malaysia, Kuala Lumpur
 
-- [**Ara demo at SpeakUp**](./events/2018/speakup.md)  
+- [** 🗣️🤖🎉Ara demo at SpeakUp**](./events/2018/speakup.md)  
   ✨ SpeakUp Parnter & Jubileum Event  
   🇳🇱 De Museumfabriek, Enschede
 
-- [**Season 3 opening keynote for Nesst**](./events/2018/nesst-season-3.md)  
+- [** 🎤🚀🎓Season 3 opening keynote for Nesst**](./events/2018/nesst-season-3.md)  
   ✨ Nesst Season 3  
   🇳🇱 Saxion Center for Entrepreneurship, Enschede
 
-- [**Frankenstein at GOGBOT**](./events/2018/gogbot.md)  
+- [** 🤖🎨🎤Frankenstein at GOGBOT**](./events/2018/gogbot.md)  
   ✨ GOGBOT  
   🇳🇱 City Center, Enschede
 
-- [**Panel discussion at IITK eSummit**](./events/2018/esummit.md)  
+- [** 🎤🏫🤝Panel discussion at IITK eSummit**](./events/2018/esummit.md)  
   ✨ IIT Kanput eSummit  
   🇮🇳 Indian Institute of Technology, Kanpur
 
-- [**Mentoring and judging at HackIIITD**](./events/2018/hackiiitd.md)  
+- [** 🎤👩‍🏫🏆Mentoring and judging at HackIIITD**](./events/2018/hackiiitd.md)  
   ✨ HackIIITD  
   🇮🇳 Indraprastha Institute of Information Technology, New Delhi
 
-- [**Keynote at MINET X 2018**](./events/2018/minet-x-2018.md)  
+- [** 🎤🏫🤓Keynote at MINET X 2018**](./events/2018/minet-x-2018.md)  
   ✨ MINET X 2018  
   🇮🇳 The Mother's International School, New Delhi
 
-- [**Beyond Your Studies at Twente's Online Open Day**](./events/2018/online-open-day.md)  
+- [** 🎓💡🤝Beyond Your Studies at Twente's Online Open Day**](./events/2018/online-open-day.md)  
   ✨ Online Open Day  
   🇳🇱 University of Twente, Enschede
 
-- [**Season 2 opening keynote for Nesst**](./events/2018/nesst-season-2.md)  
+- [** 🎤🚀🇳🇱Season 2 opening keynote for Nesst**](./events/2018/nesst-season-2.md)  
   ✨ Nesst Season 2  
   🇳🇱 The Cee Spot, Enschede
 
 ### 2017
 
-- [**Pitching workshop at Startup24**](./events/2017/startup24.md)  
+- [** 🚀🏙️🎤Pitching workshop at Startup24**](./events/2017/startup24.md)  
   ✨ Startup24  
   🇳🇱 Novel-T, Enschede
 
-- [**Pitch Training for Hardstart**](./events/2017/hardstart-pitch-training.md)  
+- [** 🎤🚀🎓Pitch Training for Hardstart**](./events/2017/hardstart-pitch-training.md)  
   🇳🇱 Hardstart, Enschede
 
-- [**TEDx Talk at TEDxYouth@HaileyRoad**](./events/2017/tedx-hailey-road.md)  
+- [** 🎤🌍🤝TEDx Talk at TEDxYouth@HaileyRoad**](./events/2017/tedx-hailey-road.md)  
   ✨ TEDxYouth@HaileyRoad  
   🇮🇳 91springboard, Gurugram
 
-- [**Panel discussion at Facebook DevC**](./events/2017/tech-charcha.md)  
+- [** 💬🤖🌐Panel discussion at Facebook DevC**](./events/2017/tech-charcha.md)  
   ✨ Tech Charcha by Facebook Developer Circles Delhi-NCR  
   🇮🇳 91springboard Okhla, New Delhi
 
 ### 2016
 
-- [**Keynote to launch DTU's Startup Internship Portal**](./events/2016/sip-launch-dtu.md)  
+- [** 🎤🏫🤝Keynote to launch DTU's Startup Internship Portal**](./events/2016/sip-launch-dtu.md)  
   ✨ Startup Internship Portal Launch  
   🇮🇳 Delhi Technological University, New Delhi
 
 ### 2014
 
-- [**Edtech keynote at coDelhi**](./events/2014/codelhi.md)  
+- [** 🎤📚🚀Edtech keynote at coDelhi**](./events/2014/codelhi.md)  
  ✨ coDelhi: Android/Web Development Hackathon  
  🇮🇳 Delhi Technological University, New Delhi
 <!--/autogenerated-->
