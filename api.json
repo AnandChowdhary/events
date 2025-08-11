@@ -640,7 +640,7 @@
       ],
       "talk": "Opportunity recognition"
     },
-    "emoji": "🎓🗣️🇳🇱",
+    "emoji": "🎙️📈🌐",
     "caption": "🇳🇱 University of Twente, Enschede"
   },
   {
@@ -760,7 +760,7 @@
       ],
       "talk": "Opportunity recognition"
     },
-    "emoji": "🎤📚💡",
+    "emoji": "🎙️📈🌐",
     "caption": "🇳🇱 University of Twente, Enschede"
   },
   {
@@ -813,16 +813,36 @@
     "path": "events/2025/coding-ninjas.md",
     "source": "https://github.com/AnandChowdhary/events/blob/main/events/2025/coding-ninjas.md",
     "title": "Developer to Founder at 10x Club",
-    "date": "2024-12-10T00:00:00.000Z",
+    "date": "2025-01-03T00:00:00.000Z",
     "excerpt": "AI-generated summary:\n\nPresented to 200 developers at the Coding Ninjas 10X Club, this talk is a journey from being a developer to becoming a tech entrepreneur. Anand shares insights from his experience as an engineer, designer, and entrepreneur who co-founded ventures like San Francisco-based FirstQuadrant, b",
     "attributes": {
-      "date": "2024-12-10T00:00:00.000Z",
+      "date": "2025-01-03T00:00:00.000Z",
       "remote": true,
       "event": "Coding Ninjas 10x Club",
       "talk": "Developer to Founder"
     },
     "emoji": "👨‍💻🚀🎤",
     "caption": "✨ Coding Ninjas 10x Club\n🌍 Remote"
+  },
+  {
+    "slug": "4tu-alumni.md",
+    "path": "events/2025/4tu-alumni.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2025/4tu-alumni.md",
+    "title": "Panel interview at 4TU.Alumni",
+    "date": "2025-05-22T00:00:00.000Z",
+    "excerpt": "Description from event website:\n\nOn Thursday May 22nd we will kick-off the 4TU. Alumni NL network for internationals in the Netherlands! Living and working abroad can be challenging, but we’re here to create a welcoming communi",
+    "attributes": {
+      "date": "2025-05-22T00:00:00.000Z",
+      "city": "Utrecht",
+      "country": "NL",
+      "venue": "Witteveen+Bos",
+      "coordinates": [
+        "52.0939846 5.027699"
+      ],
+      "event": "4TU.Alumni NL Kickoff Event"
+    },
+    "emoji": "👥🌍🇳🇱",
+    "caption": "✨ 4TU.Alumni NL Kickoff Event\n🇳🇱 Witteveen+Bos, Utrecht"
   },
   {
     "slug": "render-atl.md",

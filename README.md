@@ -10,13 +10,17 @@ This repository is the source of truth for my speaking engagements.
 
 ## 🌯 Summary
 
-- 41 events in 10 years
+- 42 events in 10 years
 
 ### 2025
 
 - [** 🤖💻🛠️Build your own Cursor at RenderATL**](./events/2025/render-atl.md)  
   ✨ RenderATL 2025  
   🇺🇦 AmericasMart, Atlanta
+
+- [** 👥🌍🇳🇱Panel interview at 4TU.Alumni**](./events/2025/4tu-alumni.md)  
+  ✨ 4TU.Alumni NL Kickoff Event  
+  🇳🇱 Witteveen+Bos, Utrecht
 
 - [** 👨‍💻🚀🎤Developer to Founder at 10x Club**](./events/2025/coding-ninjas.md)  
   ✨ Coding Ninjas 10x Club  
@@ -35,7 +39,7 @@ This repository is the source of truth for my speaking engagements.
   🇺🇸 Yerba Buena Center for the Arts, San Francisco  
   🎥 [Watch recording →](https://www.youtube.com/watch?v=F3dtaDJi_bo)
 
-- [** 🎤📚💡Guest lecture on opportunity recognition**](./events/2022/ut-opportunity-recognition.md)  
+- [** 🎙️📈🌐Guest lecture on opportunity recognition**](./events/2022/ut-opportunity-recognition.md)  
   🇳🇱 University of Twente, Enschede
 
 - [** 🎓🤝🌍Guest lecture on inclusive entrepreneurship**](./events/2022/iima-inclusive-entrepreneurship.md)  
@@ -62,7 +66,7 @@ This repository is the source of truth for my speaking engagements.
   🌍 Remote  
   🎥 [Watch recording →](https://www.youtube.com/watch?v=RCaGjMjiwpU)
 
-- [** 🎓🗣️🇳🇱Guest lecture at University of Twente**](./events/2021/ut-opportunity-recognition.md)  
+- [** 🎙️📈🌐Guest lecture at University of Twente**](./events/2021/ut-opportunity-recognition.md)  
   🇳🇱 University of Twente, Enschede
 
 - [** 🎤🏫🚀MINET X 2021 keynote**](./events/2021/minet-x.md)  
