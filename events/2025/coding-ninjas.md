@@ -1,5 +1,5 @@
 ---
-date: 2024-12-10
+date: 2025-01-03
 remote: true
 event: Coding Ninjas 10x Club
 talk: Developer to Founder
