@@ -837,7 +837,8 @@
       "country": "NL",
       "venue": "Witteveen+Bos",
       "coordinates": [
-        "52.0939846 5.027699"
+        52.0939846,
+        5.027699
       ],
       "event": "4TU.Alumni NL Kickoff Event"
     },
