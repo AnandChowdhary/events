@@ -3,7 +3,7 @@ date: 2025-05-22
 city: Utrecht
 country: NL
 venue: Witteveen+Bos
-coordinates: [52.0939846 5.027699]
+coordinates: [52.0939846, 5.027699]
 event: 4TU.Alumni NL Kickoff Event
 ---
 
