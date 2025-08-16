@@ -1,7 +1,7 @@
 ---
 date: 2025-06-12
 city: Atlanta
-country: UA
+country: US
 venue: AmericasMart
 coordinates: [33.7603155, -84.3927116]
 event: RenderATL 2025
