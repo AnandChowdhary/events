@@ -855,7 +855,7 @@
     "attributes": {
       "date": "2025-06-12T00:00:00.000Z",
       "city": "Atlanta",
-      "country": "UA",
+      "country": "US",
       "venue": "AmericasMart",
       "coordinates": [
         33.7603155,
@@ -865,6 +865,6 @@
       "talk": "Build your own AI engineer like Copilot & Devin"
     },
     "emoji": "🤖💻🛠️",
-    "caption": "✨ RenderATL 2025\n🇺🇦 AmericasMart, Atlanta"
+    "caption": "✨ RenderATL 2025\n🇺🇸 AmericasMart, Atlanta"
   }
 ]

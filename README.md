@@ -16,7 +16,7 @@ This repository is the source of truth for my speaking engagements.
 
 - [** 🤖💻🛠️Build your own Cursor at RenderATL**](./events/2025/render-atl.md)  
   ✨ RenderATL 2025  
-  🇺🇦 AmericasMart, Atlanta
+  🇺🇸 AmericasMart, Atlanta
 
 - [** 👥🌍🇳🇱Panel interview at 4TU.Alumni**](./events/2025/4tu-alumni.md)  
   ✨ 4TU.Alumni NL Kickoff Event  
