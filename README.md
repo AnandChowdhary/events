@@ -1,6 +1,6 @@
 # 🗓 Events
 
-This repository is the source of truth for my speaking engagements.
+This repository contains my speaking engagements, available to read on [**anandchowdhary.com/events**](https://anandchowdhary.com/events).
 
 [![Readme CI](https://github.com/AnandChowdhary/events/workflows/Readme%20CI/badge.svg)](https://github.com/AnandChowdhary/events/actions?query=workflow%3A%22Readme+CI%22)
 
