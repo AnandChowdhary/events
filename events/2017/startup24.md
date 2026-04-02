@@ -9,7 +9,7 @@ coordinates: [52.220986, 6.894054]
 
 # Pitching workshop at Startup24
 
-Startup24 is the flagship startup weekend-like event in the Netherlands which happens in 12 cities simultaneously. I was invited to Startup24 Enschede to do a pitching working for the participants before their final jury pitches, and I was also part of their "midnight jury" for 2-minute pitches at midnight.
+Startup24 is the flagship startup weekend-like event in the Netherlands which happens in 12 cities simultaneously. I was invited to Startup24 Enschede to do a pitching workshop for the participants before their final jury pitches, and I was also part of their "midnight jury" for 2-minute pitches at midnight.
 
 During 24 hours, participants formed a team and learn to transform their ideas into a validated concept and present it in a startup pitch. There were also plenty of games, interactive workshops, and experienced coaches. I was extremely grateful to be one of them.
 

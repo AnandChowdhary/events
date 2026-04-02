@@ -4,7 +4,7 @@ city: Enschede
 country: NL
 venue: De Museumfabriek
 coordinates: [52.2324775, 6.8950055]
-event: SpeakUp Parnter & Jubileum Event
+event: SpeakUp Partner & Jubileum Event
 ---
 
 # Ara demo at SpeakUp

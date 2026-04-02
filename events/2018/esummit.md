@@ -3,7 +3,7 @@ date: 2018-08-25
 city: Kanpur
 country: IN
 venue: Indian Institute of Technology
-event: IIT Kanput eSummit
+event: IIT Kanpur eSummit
 coordinates: [26.51, 80.23]
 ---
 
