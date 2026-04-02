@@ -122,10 +122,6 @@ This repository contains my speaking engagements, available to read on [**anandc
 
 ### 2018
 
-- 📱🎨🤝 [**Shravan Apps at Dutch Design Week**](./events/2018/dutch-design-week.md)  
-  ✨ Dutch Design Week  
-  🇳🇱 Klokgebouw Cultuurhallen, Eindhoven
-
 - 🏆📱🎮 [**CLS Engagement Pitch**](./events/2018/cls.md)  
   🇬🇧 LABS Holborn, London
 
@@ -133,8 +129,12 @@ This repository contains my speaking engagements, available to read on [**anandc
   ✨ AKEPT-WIEF Social Enterprise Forum  
   🇲🇾 International Islamic University Malaysia, Kuala Lumpur
 
+- 📱🎨🤝 [**Shravan Apps at Dutch Design Week**](./events/2018/dutch-design-week.md)  
+  ✨ Dutch Design Week  
+  🇳🇱 Klokgebouw Cultuurhallen, Eindhoven
+
 - 🗣️🤖🎉 [**Ara demo at SpeakUp**](./events/2018/speakup.md)  
-  ✨ SpeakUp Parnter & Jubileum Event  
+  ✨ SpeakUp Partner & Jubileum Event  
   🇳🇱 De Museumfabriek, Enschede
 
 - 🎤🚀🎓 [**Season 3 opening keynote for Nesst**](./events/2018/nesst-season-3.md)  
@@ -146,7 +146,7 @@ This repository contains my speaking engagements, available to read on [**anandc
   🇳🇱 City Center, Enschede
 
 - 🎤🏫🤝 [**Panel discussion at IITK eSummit**](./events/2018/esummit.md)  
-  ✨ IIT Kanput eSummit  
+  ✨ IIT Kanpur eSummit  
   🇮🇳 Indian Institute of Technology, Kanpur
 
 - 🎤👩‍🏫🏆 [**Mentoring and judging at HackIIITD**](./events/2018/hackiiitd.md)  

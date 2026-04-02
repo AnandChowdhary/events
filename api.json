@@ -111,7 +111,7 @@
     "source": "https://github.com/AnandChowdhary/events/blob/main/events/2017/startup24.md",
     "title": "Pitching workshop at Startup24",
     "date": "2017-11-11T00:00:00.000Z",
-    "excerpt": "Startup24 is the flagship startup weekend-like event in the Netherlands which happens in 12 cities simultaneously. I was invited to Startup24 Enschede to do a pitching working for the participants before their final jury pitches, and I was also part of their \"midnight jury\" for 2-minute pitches at midnight. During 24 hours, participants formed a team and learn to transform their ideas into a validated concept and present it in a startup pitch.",
+    "excerpt": "Startup24 is the flagship startup weekend-like event in the Netherlands which happens in 12 cities simultaneously. I was invited to Startup24 Enschede to do a pitching workshop for the participants before their final jury pitches, and I was also part of their \"midnight jury\" for 2-minute pitches at midnight. During 24 hours, participants formed a team and learn to transform their ideas into a validated concept and present it in a startup pitch.",
     "attributes": {
       "date": "2017-11-11T00:00:00.000Z",
       "city": "Enschede",
@@ -229,14 +229,14 @@
       "city": "Kanpur",
       "country": "IN",
       "venue": "Indian Institute of Technology",
-      "event": "IIT Kanput eSummit",
+      "event": "IIT Kanpur eSummit",
       "coordinates": [
         26.51,
         80.23
       ]
     },
     "emoji": "🎤🏫🤝",
-    "caption": "✨ IIT Kanput eSummit\n🇮🇳 Indian Institute of Technology, Kanpur"
+    "caption": "✨ IIT Kanpur eSummit\n🇮🇳 Indian Institute of Technology, Kanpur"
   },
   {
     "slug": "gogbot.md",
@@ -301,10 +301,31 @@
         52.2324775,
         6.8950055
       ],
-      "event": "SpeakUp Parnter & Jubileum Event"
+      "event": "SpeakUp Partner & Jubileum Event"
     },
     "emoji": "🗣️🤖🎉",
-    "caption": "✨ SpeakUp Parnter & Jubileum Event\n🇳🇱 De Museumfabriek, Enschede"
+    "caption": "✨ SpeakUp Partner & Jubileum Event\n🇳🇱 De Museumfabriek, Enschede"
+  },
+  {
+    "slug": "dutch-design-week.md",
+    "path": "events/2018/dutch-design-week.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/dutch-design-week.md",
+    "title": "Shravan Apps at Dutch Design Week",
+    "date": "2018-10-20T00:00:00.000Z",
+    "excerpt": "I showcased Shravan Apps by Oswald Labs as part of the Mind the Step exhibition at the Dutch Design Week 2018 in the Klokgebouw in Eindhoven. The event featured design-driven technology and research by the 4TU, the consortium of Dutch technical universities.\n\n\"This year---supported by the UT's DesignLab---Mind the Step will present projects at the interface of design, research and technology to 70,000 expected visitors in Eindhoven.",
+    "attributes": {
+      "date": "2018-10-20T00:00:00.000Z",
+      "city": "Eindhoven",
+      "country": "NL",
+      "venue": "Klokgebouw Cultuurhallen",
+      "event": "Dutch Design Week",
+      "coordinates": [
+        51.44845,
+        5.4579645
+      ]
+    },
+    "emoji": "📱🎨🤝",
+    "caption": "✨ Dutch Design Week\n🇳🇱 Klokgebouw Cultuurhallen, Eindhoven"
   },
   {
     "slug": "wief-2018.md",
@@ -335,7 +356,7 @@
     "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/cls.md",
     "title": "CLS Engagement Pitch",
     "date": "2018-11-15T00:00:00.000Z",
-    "excerpt": "On a Thursday/Friday in November 2018, my team and I built CLShare, an employee engagement app for CLS Group in London. The app was the winner of the £10,000 CLS Engagement App Challenge. In my talk, I spoke about gamification as a tool for employee engagement, a focus on accessibility, and the important of receiving feedback from employees.",
+    "excerpt": "On a Thursday/Friday in November 2018, my team and I built CLShare, an employee engagement app for CLS Group in London. The app was the winner of the £10,000 CLS Engagement App Challenge. In my talk, I spoke about gamification as a tool for employee engagement, a focus on accessibility, and the importance of receiving feedback from employees.",
     "attributes": {
       "date": "2018-11-15T00:00:00.000Z",
       "city": "London",
@@ -348,27 +369,6 @@
     },
     "emoji": "🏆📱🎮",
     "caption": "🇬🇧 LABS Holborn, London"
-  },
-  {
-    "slug": "dutch-design-week.md",
-    "path": "events/2018/dutch-design-week.md",
-    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2018/dutch-design-week.md",
-    "title": "Shravan Apps at Dutch Design Week",
-    "date": "2019-06-12T00:00:00.000Z",
-    "excerpt": "I showcased Shravan Apps by Oswald Labs as part of the Mind the Step exhibition at the Dutch Design Week 2018 in the Klokgebouw in Eindhoven. The event featured design-driven technology and research by the 4TU, the consortium of Dutch technical universities.\n\n\"This year---supported by the UT's DesignLab---Mind the Step will present projects at the interface of design, research and technology to 70,000 expected visitors in Eindhoven.",
-    "attributes": {
-      "date": "2019-06-12T00:00:00.000Z",
-      "city": "Eindhoven",
-      "country": "NL",
-      "venue": "Klokgebouw Cultuurhallen",
-      "event": "Dutch Design Week",
-      "coordinates": [
-        51.44845,
-        5.4579645
-      ]
-    },
-    "emoji": "📱🎨🤝",
-    "caption": "✨ Dutch Design Week\n🇳🇱 Klokgebouw Cultuurhallen, Eindhoven"
   },
   {
     "slug": "hive-01-season-5.md",
@@ -419,7 +419,7 @@
     "source": "https://github.com/AnandChowdhary/events/blob/main/events/2019/minet-x-2019.md",
     "title": "Judging and mentorship at MINET X 2019",
     "date": "2019-08-21T00:00:00.000Z",
-    "excerpt": "I went back to my alma mater, The Mother's International School, as a judge and mentor their annual technology and entrepreneurship event, X, organized by the technology club MINET. Oswald Labs also offered an award to the winning team with the best startup idea.",
+    "excerpt": "I went back to my alma mater, The Mother's International School, as a judge and mentor at their annual technology and entrepreneurship event, X, organized by the technology club MINET. Oswald Labs also offered an award to the winning team with the best startup idea.",
     "attributes": {
       "date": "2019-08-21T00:00:00.000Z",
       "city": "New Delhi",
@@ -526,7 +526,7 @@
     "source": "https://github.com/AnandChowdhary/events/blob/main/events/2020/ut-opportunity-recognition.md",
     "title": "Guest lecture on Opportunity Recognition",
     "date": "2020-09-07T00:00:00.000Z",
-    "excerpt": "During the COVID-19 pandemic, I was at home in New Delhi, India, and was invited by Dr. Rainer Harms, Associate Professor, the Netherlands Institute for Knowledge-intensive Entrepreneurship (NIKOS), University of Twente, to deliver a guest lecture on Opportunity Recognition. Since classes were remotely held over video conference, I delivered a 30-minute lecture and answers several questions about discovering new business opportunities.",
+    "excerpt": "During the COVID-19 pandemic, I was at home in New Delhi, India, and was invited by Dr. Rainer Harms, Associate Professor, the Netherlands Institute for Knowledge-intensive Entrepreneurship (NIKOS), University of Twente, to deliver a guest lecture on Opportunity Recognition. Since classes were remotely held over video conference, I delivered a 30-minute lecture and answered several questions about discovering new business opportunities.",
     "attributes": {
       "date": "2020-09-07T00:00:00.000Z",
       "city": "Enschede",
@@ -547,7 +547,7 @@
     "source": "https://github.com/AnandChowdhary/events/blob/main/events/2020/ut-global-entrepreneurship-week.md",
     "title": "Guest lecture for Global Entrepreneurship Week",
     "date": "2020-11-18T00:00:00.000Z",
-    "excerpt": "In September 2020, I was invited by was invited by Dr. Rainer Harms, Associate Professor, the Netherlands Institute for Knowledge-intensive Entrepreneurship (NIKOS), University of Twente, to deliver a guest lecture on Opportunity Recognition to students of Business Administration MSc.",
+    "excerpt": "In September 2020, I was invited by Dr. Rainer Harms, Associate Professor, the Netherlands Institute for Knowledge-intensive Entrepreneurship (NIKOS), University of Twente, to deliver a guest lecture on Opportunity Recognition to students of Business Administration MSc.",
     "attributes": {
       "date": "2020-11-18T00:00:00.000Z",
       "city": "Enschede",
@@ -607,7 +607,7 @@
     "source": "https://github.com/AnandChowdhary/events/blob/main/events/2021/minet-x.md",
     "title": "MINET X 2021 keynote",
     "date": "2021-08-13T00:00:00.000Z",
-    "excerpt": "X is the annual technology event of my alma mater, The Mother's International School, hosted by their technology club MINET. I was the keynote speaker and remotly shared my story building a startup while I was in MINET and how I got where I am.",
+    "excerpt": "X is the annual technology event of my alma mater, The Mother's International School, hosted by their technology club MINET. I was the keynote speaker and remotely shared my story building a startup while I was in MINET and how I got where I am.",
     "attributes": {
       "date": "2021-08-13T00:00:00.000Z",
       "venue": "The Mother's International School",
