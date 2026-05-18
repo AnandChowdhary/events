@@ -10,7 +10,13 @@ This repository contains my speaking engagements, available to read on [**anandc
 
 ## 🌯 Summary
 
-- 42 events in 10 years
+- 43 events in 11 years
+
+### 2026
+
+- 🤖🎙️👥 [**Reliable AI systems in production at DEVWorld**](./events/2026/devworld.md)  
+  ✨ DEVWorld 2026  
+  🇳🇱 RAI Amsterdam, Amsterdam
 
 ### 2025
 
