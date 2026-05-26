@@ -888,5 +888,27 @@
     },
     "emoji": "🤖🎙️👥",
     "caption": "✨ DEVWorld 2026\n🇳🇱 RAI Amsterdam, Amsterdam"
+  },
+  {
+    "slug": "el-nino-ai-meetup.md",
+    "path": "events/2026/el-nino-ai-meetup.md",
+    "source": "https://github.com/AnandChowdhary/events/blob/main/events/2026/el-nino-ai-meetup.md",
+    "title": "How AI agents can be used in practice at El Niño",
+    "date": "2026-06-03T00:00:00.000Z",
+    "excerpt": "At El Niño's AI Meetup in Enschede, I gave a talk about moving AI agents toward autonomy through stages of trust: first observing, then asking for approval, then supervised tasks, and finally autonomous work. The framing: agents = context + tools + trust. Links:\n\nEl Niño Tech Meetups\nEl Niño LinkedIn",
+    "attributes": {
+      "date": "2026-06-03T00:00:00.000Z",
+      "city": "Enschede",
+      "country": "NL",
+      "venue": "El Niño",
+      "coordinates": [
+        52.2170213,
+        6.8956591
+      ],
+      "event": "AI Meetup",
+      "talk": "How AI agents can be used in practice"
+    },
+    "emoji": "🤖🧰🔒",
+    "caption": "✨ AI Meetup\n🇳🇱 El Niño, Enschede"
   }
 ]

@@ -10,13 +10,17 @@ This repository contains my speaking engagements, available to read on [**anandc
 
 ## 🌯 Summary
 
-- 43 events in 11 years
+- 44 events in 11 years
 
 ### 2026
 
 - 🤖🎙️👥 [**Reliable AI systems in production at DEVWorld**](./events/2026/devworld.md)  
   ✨ DEVWorld 2026  
   🇳🇱 RAI Amsterdam, Amsterdam
+
+- 🤖🧰🔒 [**How AI agents can be used in practice at El Niño**](./events/2026/el-nino-ai-meetup.md)  
+  ✨ AI Meetup  
+  🇳🇱 El Niño, Enschede
 
 ### 2025
 
