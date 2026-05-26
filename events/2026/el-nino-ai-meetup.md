@@ -14,7 +14,4 @@ At El Niño's AI Meetup in Enschede, I gave a talk about moving AI agents toward
 
 The framing: agents = context + tools + trust.
 
-Links:
-
-- [El Niño Tech Meetups](https://www.meetup.com/it-it/el-nino-tech-meetups/)
-- [El Niño LinkedIn](https://www.linkedin.com/company/el-nino-digital-development/)
+<img width="1024" height="1536" alt="Anand speaking" src="https://github.com/user-attachments/assets/bfae495e-6aea-45da-9482-febf54fce051" />
