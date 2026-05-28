@@ -16,7 +16,8 @@ This repository contains my speaking engagements, available to read on [**anandc
 
 - 🤖🎙️👥 [**Reliable AI systems in production at DEVWorld**](./events/2026/devworld.md)  
   ✨ DEVWorld 2026  
-  🇳🇱 RAI Amsterdam, Amsterdam
+  🇳🇱 RAI Amsterdam, Amsterdam  
+  🎥 [Watch recording →](https://www.youtube.com/watch?v=pBOWjwwpZJI)
 
 - 🤖🧰🔒 [**How AI agents can be used in practice at El Niño**](./events/2026/el-nino-ai-meetup.md)  
   ✨ AI Meetup  

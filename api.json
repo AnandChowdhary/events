@@ -872,10 +872,10 @@
     "path": "events/2026/devworld.md",
     "source": "https://github.com/AnandChowdhary/events/blob/main/events/2026/devworld.md",
     "title": "Reliable AI systems in production at DEVWorld",
-    "date": "2026-06-03T00:00:00.000Z",
+    "date": "2026-05-07T00:00:00.000Z",
     "excerpt": "",
     "attributes": {
-      "date": "2026-06-03T00:00:00.000Z",
+      "date": "2026-05-07T00:00:00.000Z",
       "city": "Amsterdam",
       "country": "NL",
       "venue": "RAI Amsterdam",
@@ -884,20 +884,21 @@
         4.8860407
       ],
       "event": "DEVWorld 2026",
+      "video": "https://www.youtube.com/watch?v=pBOWjwwpZJI",
       "talk": "Building reliable AI systems in production"
     },
     "emoji": "🤖🎙️👥",
-    "caption": "✨ DEVWorld 2026\n🇳🇱 RAI Amsterdam, Amsterdam"
+    "caption": "✨ DEVWorld 2026\n🇳🇱 RAI Amsterdam, Amsterdam\n🎥 [Watch recording →](https://www.youtube.com/watch?v=pBOWjwwpZJI)"
   },
   {
     "slug": "el-nino-ai-meetup.md",
     "path": "events/2026/el-nino-ai-meetup.md",
     "source": "https://github.com/AnandChowdhary/events/blob/main/events/2026/el-nino-ai-meetup.md",
     "title": "How AI agents can be used in practice at El Niño",
-    "date": "2026-06-03T00:00:00.000Z",
+    "date": "2026-05-07T00:00:00.000Z",
     "excerpt": "At El Niño's AI Meetup in Enschede, I gave a talk about moving AI agents toward autonomy through stages of trust: first observing, then asking for approval, then supervised tasks, and finally autonomous work. The framing: agents = context + tools + trust.",
     "attributes": {
-      "date": "2026-06-03T00:00:00.000Z",
+      "date": "2026-05-07T00:00:00.000Z",
       "city": "Enschede",
       "country": "NL",
       "venue": "El Niño",

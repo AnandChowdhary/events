@@ -1,10 +1,11 @@
 ---
-date: 2026-06-03
+date: 2026-05-07
 city: Amsterdam
 country: NL
 venue: RAI Amsterdam
 coordinates: [52.3411938, 4.8860407]
 event: DEVWorld 2026
+video: https://www.youtube.com/watch?v=pBOWjwwpZJI
 talk: Building reliable AI systems in production
 ---
 
